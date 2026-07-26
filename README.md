@@ -3,7 +3,7 @@
 北九州市内+下関の一部の**催事・イベント**を、各公式サイトや地域メディアの公開情報から
 自動で集めて1ページにまとめています。
 
-👉 **https://hirofuminagatomi-create.github.io/kitaq-odekake/**
+👉 **https://pyoro-lab.github.io/kitaq-odekake/**
 
 ## お断り
 
