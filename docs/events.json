@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-27",
+  "updated_at": "2026-07-28",
   "title": "北九州おでかけ情報まとめ",
-  "count": 45,
+  "count": 46,
   "events": [
     {
       "title": "アエナ イオンモール八幡東店",
@@ -134,6 +134,19 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/contents/v308_00001.html"
     },
     {
+      "title": "脇田温泉 湯めぐりの宿楠水閣 ファミリー向けイベント",
+      "venue": "脇田温泉 湯めぐりの宿楠水閣",
+      "area": "宮若市",
+      "schedule_type": "dated",
+      "start_date": "2026-07-28",
+      "end_date": "2026-08-31",
+      "date_note": "8月31日まで開催",
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "ミニ縁日・花火・川遊び・家族風呂で夏休みの思い出作り",
+      "source_url": "https://kitaq.media/139751/"
+    },
+    {
       "title": "NUKUMORI PLUS アートマルシェ",
       "venue": "JR小倉駅 JAM広場",
       "area": "小倉北区",
@@ -145,19 +158,6 @@
       "family_friendly": true,
       "summary": "障害のあるクリエイターのアート作品・グッズ展示販売",
       "source_url": "https://www.city.kitakyushu.lg.jp/contents/v28700004_00001.html"
-    },
-    {
-      "title": "第８回 北九州ミネラルマルシェ ～地球が創った宝物展～",
-      "venue": "北九州メッセ",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-07",
-      "end_date": "2026-08-09",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "天然石・化石・隕石・ジュエリーの展示販売会",
-      "source_url": "https://hello-kitakyushu.or.jp/event/"
     },
     {
       "title": "ダンスでいこう！！2026「北九州振付塾～ダンス作品を創作しよう～」",
@@ -173,13 +173,26 @@
       "source_url": "https://riverwalk.co.jp/event/"
     },
     {
+      "title": "第８回 北九州ミネラルマルシェ ～地球が創った宝物展～",
+      "venue": "北九州メッセ",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-08-07",
+      "end_date": "2026-08-09",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "天然石・化石・隕石・ジュエリーの展示販売会",
+      "source_url": "https://hello-kitakyushu.or.jp/event/"
+    },
+    {
       "title": "期間限定OPEN！ThreeArrows POPUP STORE",
       "venue": "リバーウォーク北九州",
       "area": "小倉北区",
       "schedule_type": "dated",
       "start_date": "2026-08-01",
       "end_date": "2026-08-16",
-      "date_note": null,
+      "date_note": "8月1日オープン",
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "ポップアップストア期間限定",
@@ -212,29 +225,16 @@
       "source_url": "https://kitaq.media/139223/"
     },
     {
-      "title": "ワークショップ開催！世界にひとつのアートフィギュア・キャラメイク",
+      "title": "読書感想文は書けたかな？司書といっしょに本をえらぼう！",
       "venue": "リバーウォーク北九州",
       "area": "小倉北区",
       "schedule_type": "dated",
-      "start_date": "2026-08-08",
-      "end_date": "2026-08-16",
+      "start_date": "2026-08-09",
+      "end_date": "2026-08-09",
       "date_note": null,
       "date_confidence": "exact",
       "family_friendly": true,
-      "summary": "アートフィギュアワークショップ",
-      "source_url": "https://riverwalk.co.jp/event/"
-    },
-    {
-      "title": "リバ！！ウォーターパーク！",
-      "venue": "リバーウォーク北九州",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-01",
-      "end_date": "2026-08-23",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "ウォーターパーク開催",
+      "summary": "読書感想文サポート企画",
       "source_url": "https://riverwalk.co.jp/event/"
     },
     {
@@ -264,19 +264,6 @@
       "source_url": "https://riverwalk.co.jp/event/"
     },
     {
-      "title": "読書感想文は書けたかな？司書といっしょに本をえらぼう！",
-      "venue": "リバーウォーク北九州",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-09",
-      "end_date": "2026-08-09",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "読書感想文サポート企画",
-      "source_url": "https://riverwalk.co.jp/event/"
-    },
-    {
       "title": "おどる絵本『みえるとか みえないとか』",
       "venue": "リバーウォーク北九州",
       "area": "小倉北区",
@@ -288,6 +275,45 @@
       "family_friendly": true,
       "summary": "おどる絵本公演",
       "source_url": "https://riverwalk.co.jp/event/"
+    },
+    {
+      "title": "リバ！！ウォーターパーク！",
+      "venue": "リバーウォーク北九州",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-23",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "ウォーターパーク開催",
+      "source_url": "https://riverwalk.co.jp/event/"
+    },
+    {
+      "title": "ワークショップ開催！世界にひとつのアートフィギュア・キャラメイク",
+      "venue": "リバーウォーク北九州",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-08-08",
+      "end_date": "2026-08-16",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "アートフィギュアワークショップ",
+      "source_url": "https://riverwalk.co.jp/event/"
+    },
+    {
+      "title": "九州フラガールキャラバン With上村貴子",
+      "venue": "チャチャタウン小倉",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-07-28",
+      "end_date": "2026-07-28",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "フラダンスのステージパフォーマンス",
+      "source_url": "https://www.chachatown.com/eventinfo/"
     },
     {
       "title": "おしりたんてい展ワークショップ「オリジナルグッズ作り」",
@@ -355,32 +381,6 @@
       "source_url": "https://arne.media/go-out/590376/"
     },
     {
-      "title": "世界のカブトムシ・クワガタ展〜王者たちの素顔〜",
-      "venue": "北九州市ほたる館",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-07-18",
-      "end_date": "2026-08-30",
-      "date_note": "6月27日・28日、7月4日・5日・11日・12日開催",
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "カブトムシ・クワガタの野生での生態展示。夏休み自由研究向け",
-      "source_url": "https://hello-kitakyushu.or.jp/event/"
-    },
-    {
-      "title": "〈white shirt, scale &(白いシャツとスケールと)〉～これがあればいいと思える一着～",
-      "venue": "小倉井筒屋 本館2階 婦人雑貨（シーズンスクエア）",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-07-22",
-      "end_date": "2026-07-28",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "ポップアップストア",
-      "source_url": "https://www.izutsuya.co.jp/storelist/kokura/archives/category/008/"
-    },
-    {
       "title": "綾ガラスの世界〈グラスアート黒木展〉",
       "venue": "小倉井筒屋 本館6階 リビング 匠ギャラリー",
       "area": "小倉北区",
@@ -392,6 +392,19 @@
       "family_friendly": true,
       "summary": "ガラスアート展示販売",
       "source_url": "https://www.izutsuya.co.jp/storelist/kokura/archives/category/008/"
+    },
+    {
+      "title": "世界のカブトムシ・クワガタ展〜王者たちの素顔〜",
+      "venue": "北九州市ほたる館",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-07-18",
+      "end_date": "2026-08-30",
+      "date_note": "6月27日・28日、7月4日・5日・11日・12日開催",
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "カブトムシ・クワガタの野生での生態展示。夏休み自由研究向け",
+      "source_url": "https://hello-kitakyushu.or.jp/event/"
     },
     {
       "title": "文三窯〈三宅英雅〉風鈴と夏を彩る器展",
@@ -407,16 +420,16 @@
       "source_url": "https://www.izutsuya.co.jp/storelist/kokura/archives/category/008/"
     },
     {
-      "title": "第2回 泰田 久史 作陶展",
-      "venue": "小倉井筒屋 新館7階 画廊",
+      "title": "〈white shirt, scale &(白いシャツとスケールと)〉～これがあればいいと思える一着～",
+      "venue": "小倉井筒屋 本館2階 婦人雑貨（シーズンスクエア）",
       "area": "小倉北区",
       "schedule_type": "dated",
       "start_date": "2026-07-22",
       "end_date": "2026-07-28",
-      "date_note": "最終日は午後4時閉場",
+      "date_note": null,
       "date_confidence": "exact",
       "family_friendly": true,
-      "summary": "陶芸作品展示販売",
+      "summary": "ポップアップストア",
       "source_url": "https://www.izutsuya.co.jp/storelist/kokura/archives/category/008/"
     },
     {
@@ -433,6 +446,19 @@
       "source_url": "https://kitaq.media/139115/"
     },
     {
+      "title": "第2回 泰田 久史 作陶展",
+      "venue": "小倉井筒屋 新館7階 画廊",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-07-22",
+      "end_date": "2026-07-28",
+      "date_note": "最終日は午後4時閉場",
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "陶芸作品展示販売",
+      "source_url": "https://www.izutsuya.co.jp/storelist/kokura/archives/category/008/"
+    },
+    {
       "title": "子育て世代の男性向け料理教室「作り置き男子」",
       "venue": "北九州市立男女共同参画センター・ムーブ 4階 料理室・工芸室",
       "area": "小倉北区",
@@ -446,17 +472,17 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/contents/v154_00002.html"
     },
     {
-      "title": "キッズサマーセール",
-      "venue": "小倉井筒屋 本館8階 催場",
+      "title": "夏休みキッズスタンプラリー",
+      "venue": "リバーウォーク北九州",
       "area": "小倉北区",
       "schedule_type": "dated",
-      "start_date": "2026-07-22",
-      "end_date": "2026-07-27",
-      "date_note": "最終日は午後6時閉場",
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-29",
+      "date_note": null,
       "date_confidence": "exact",
       "family_friendly": true,
-      "summary": "子ども服・用品セール",
-      "source_url": "https://www.izutsuya.co.jp/storelist/kokura/archives/category/008/"
+      "summary": "キッズ向けスタンプラリー",
+      "source_url": "https://riverwalk.co.jp/event/"
     },
     {
       "title": "日本フェザー級王者防衛戦",
@@ -470,19 +496,6 @@
       "family_friendly": true,
       "summary": "北九州出身選手・岡本恭佑の王座防衛戦。市民招待あり（締切7月28日）",
       "source_url": "https://kitaq.media/139670/"
-    },
-    {
-      "title": "夏休みキッズスタンプラリー",
-      "venue": "リバーウォーク北九州",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-01",
-      "end_date": "2026-08-29",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "キッズ向けスタンプラリー",
-      "source_url": "https://riverwalk.co.jp/event/"
     },
     {
       "title": "ABC-MART／ABC-MART SPORTS 小倉セントシティ店",
