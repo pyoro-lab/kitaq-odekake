@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-03",
+  "updated_at": "2026-08-04",
   "title": "北九州おでかけ情報まとめ",
-  "count": 133,
+  "count": 131,
   "events": [
     {
       "title": "しぜんのじかんワークショップ「竹工作・トンボ」",
@@ -95,19 +95,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/contents/v00600008.html"
     },
     {
-      "title": "ドリームスポーツ体験教室",
-      "venue": "北九州市立総合体育館",
-      "area": "八幡東区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-03",
-      "end_date": "2026-08-03",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "プロスポーツチームの選手から直接指導、小学3～6年生対象、抽選",
-      "source_url": "https://www.city.kitakyushu.lg.jp/contents/01600268.html"
-    },
-    {
       "title": "脇田温泉 湯めぐりの宿楠水閣 ファミリー向けイベント",
       "venue": "脇田温泉 湯めぐりの宿楠水閣",
       "area": "宮若市",
@@ -160,17 +147,17 @@
       "source_url": "https://kitaq.media/139903/"
     },
     {
-      "title": "第８回 北九州ミネラルマルシェ ～地球が創った宝物展～",
-      "venue": "北九州メッセ",
+      "title": "「九州初開催」いっしょにわくわくしよう！パンダコパンダ展",
+      "venue": "北九州市漫画ミュージアム 企画展示室（あるあるCity5階）",
       "area": "小倉北区",
       "schedule_type": "dated",
-      "start_date": "2026-08-07",
-      "end_date": "2026-08-09",
-      "date_note": null,
+      "start_date": "2026-07-18",
+      "end_date": "2026-10-18",
+      "date_note": "開館20周年記念",
       "date_confidence": "exact",
       "family_friendly": true,
-      "summary": "天然石・化石・隕石・ジュエリーの展示販売会",
-      "source_url": "https://hello-kitakyushu.or.jp/event/"
+      "summary": "高畑勲・宮崎駿による『パンダコパンダ』の体験型展覧会",
+      "source_url": "https://artne.jp/event"
     },
     {
       "title": "おどる絵本『みえるとか みえないとか』",
@@ -184,19 +171,6 @@
       "family_friendly": true,
       "summary": "おどる絵本公演",
       "source_url": "https://riverwalk.co.jp/event/"
-    },
-    {
-      "title": "「九州初開催」いっしょにわくわくしよう！パンダコパンダ展",
-      "venue": "北九州市漫画ミュージアム 企画展示室（あるあるCity5階）",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-07-18",
-      "end_date": "2026-10-18",
-      "date_note": "開館20周年記念",
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "高畑勲・宮崎駿による『パンダコパンダ』の体験型展覧会",
-      "source_url": "https://artne.jp/event"
     },
     {
       "title": "ダンス・ワークショップ『みえるとか みえないとか』",
@@ -236,6 +210,19 @@
       "family_friendly": true,
       "summary": "読書感想文サポート企画",
       "source_url": "https://riverwalk.co.jp/event/"
+    },
+    {
+      "title": "第８回 北九州ミネラルマルシェ ～地球が創った宝物展～",
+      "venue": "北九州メッセ",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-08-07",
+      "end_date": "2026-08-09",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "天然石・化石・隕石・ジュエリーの展示販売会",
+      "source_url": "https://hello-kitakyushu.or.jp/event/"
     },
     {
       "title": "九州ボールルームダンス連盟プロフェッショナル選手会フェスティバル",
@@ -589,17 +576,17 @@
       "source_url": "https://arne.media/go-out/594561/"
     },
     {
-      "title": "期間限定OPEN！ThreeArrows POPUP",
-      "venue": "リバーウォーク北九州",
+      "title": "栗﨑和風 古代裂お雛様と江戸の小袖展",
+      "venue": "小倉井筒屋新館7階 画廊",
       "area": "小倉北区",
       "schedule_type": "dated",
-      "start_date": "2026-08-01",
-      "end_date": "2026-08-16",
-      "date_note": null,
+      "start_date": "2026-07-29",
+      "end_date": "2026-08-11",
+      "date_note": "最終日は午後4時閉場",
       "date_confidence": "exact",
       "family_friendly": true,
-      "summary": "ポップアップショップ",
-      "source_url": "https://riverwalk.co.jp/event/"
+      "summary": "古代裂お雛様と江戸の小袖展示",
+      "source_url": "https://www.izutsuya.co.jp/storelist/kokura/archives/category/008/"
     },
     {
       "title": "濡れ得サービス",
@@ -615,17 +602,17 @@
       "source_url": "https://riverwalk.co.jp/event/"
     },
     {
-      "title": "〈生活の木〉8月ワークショップ",
-      "venue": "小倉井筒屋本館6階",
-      "area": "小倉北区",
+      "title": "井手康人展―共鳴する祈り",
+      "venue": "北九州市立美術館 本館",
+      "area": "戸畑区",
       "schedule_type": "dated",
-      "start_date": "2026-08-05",
-      "end_date": "2026-08-22",
+      "start_date": "2026-07-11",
+      "end_date": "2026-08-30",
       "date_note": null,
       "date_confidence": "exact",
       "family_friendly": true,
-      "summary": "生活の木ワークショップ開催",
-      "source_url": "https://www.izutsuya.co.jp/storelist/kokura/archives/category/008/"
+      "summary": "現代美術展覧会",
+      "source_url": "https://artne.jp/event"
     },
     {
       "title": "白野江植物公園写真コンテスト受賞作品展",
@@ -654,43 +641,17 @@
       "source_url": "https://riverwalk.co.jp/event/"
     },
     {
-      "title": "栗﨑和風 古代裂お雛様と江戸の小袖展",
-      "venue": "小倉井筒屋新館7階 画廊",
+      "title": "〈生活の木〉8月ワークショップ",
+      "venue": "小倉井筒屋本館6階",
       "area": "小倉北区",
       "schedule_type": "dated",
-      "start_date": "2026-07-29",
-      "end_date": "2026-08-11",
-      "date_note": "最終日は午後4時閉場",
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "古代裂お雛様と江戸の小袖展示",
-      "source_url": "https://www.izutsuya.co.jp/storelist/kokura/archives/category/008/"
-    },
-    {
-      "title": "【ご予約承り中】〈RMK〉アーティストによる1on1のメイクアップレッスン",
-      "venue": "小倉井筒屋本館1階 RMK",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-15",
-      "end_date": "2026-08-15",
-      "date_note": "2026年8月15日(土)午前10時～午後6時30分",
-      "date_confidence": "exact",
-      "family_friendly": false,
-      "summary": "プロによるメイクアップレッスン",
-      "source_url": "https://www.izutsuya.co.jp/storelist/kokura/archives/category/008/"
-    },
-    {
-      "title": "井手康人展―共鳴する祈り",
-      "venue": "北九州市立美術館 本館",
-      "area": "戸畑区",
-      "schedule_type": "dated",
-      "start_date": "2026-07-11",
-      "end_date": "2026-08-30",
+      "start_date": "2026-08-05",
+      "end_date": "2026-08-22",
       "date_note": null,
       "date_confidence": "exact",
       "family_friendly": true,
-      "summary": "現代美術展覧会",
-      "source_url": "https://artne.jp/event"
+      "summary": "生活の木ワークショップ開催",
+      "source_url": "https://www.izutsuya.co.jp/storelist/kokura/archives/category/008/"
     },
     {
       "title": "夏の特別展「とぶ 空を旅する生きものたちの大冒険」",
@@ -704,6 +665,32 @@
       "family_friendly": true,
       "summary": "生きもの展示。こども向け体験あり",
       "source_url": "https://artne.jp/event"
+    },
+    {
+      "title": "期間限定OPEN！ThreeArrows POPUP",
+      "venue": "リバーウォーク北九州",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-16",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "ポップアップショップ",
+      "source_url": "https://riverwalk.co.jp/event/"
+    },
+    {
+      "title": "【ご予約承り中】〈RMK〉アーティストによる1on1のメイクアップレッスン",
+      "venue": "小倉井筒屋本館1階 RMK",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-08-15",
+      "end_date": "2026-08-15",
+      "date_note": "2026年8月15日(土)午前10時～午後6時30分",
+      "date_confidence": "exact",
+      "family_friendly": false,
+      "summary": "プロによるメイクアップレッスン",
+      "source_url": "https://www.izutsuya.co.jp/storelist/kokura/archives/category/008/"
     },
     {
       "title": "しぜんのじかんワークショップ「藍の生葉染め体験」",
@@ -1331,7 +1318,7 @@
     },
     {
       "title": "たをやめオルケスタ",
-      "venue": null,
+      "venue": "下関市民会館 大ホール",
       "area": "下関市",
       "schedule_type": "dated",
       "start_date": "2026-08-09",
@@ -1340,7 +1327,7 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "女性16人によるビッグバンドのライブ",
-      "source_url": "https://shimonoseki.goguynet.jp/2026/08/03/taoyame/"
+      "source_url": "https://shimonoseki.goguynet.jp/2026/08/03/taoyame-2/"
     },
     {
       "title": "KaZ ライブ",
@@ -1535,19 +1522,6 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "フラダンスパフォーマンス",
-      "source_url": "https://www.chachatown.com/eventinfo/"
-    },
-    {
-      "title": "クラウド9 LIVE",
-      "venue": "チャチャタウン小倉",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-03",
-      "end_date": "2026-08-03",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "ライブパフォーマンス",
       "source_url": "https://www.chachatown.com/eventinfo/"
     },
     {
