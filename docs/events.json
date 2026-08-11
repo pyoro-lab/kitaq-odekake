@@ -1,21 +1,8 @@
 {
-  "updated_at": "2026-08-11",
+  "updated_at": "2026-08-12",
   "title": "北九州おでかけ情報まとめ",
-  "count": 153,
+  "count": 138,
   "events": [
-    {
-      "title": "しぜんのじかんワークショップ「竹工作・トンボ」",
-      "venue": "白野江植物公園",
-      "area": "門司区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-11",
-      "end_date": "2026-08-11",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "竹製のオニヤンマ型ピンバッジ製作体験",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260801/infostation/goout.html"
-    },
     {
       "title": "NUKUMORIマルシェ in JR小倉駅JAM広場",
       "venue": "JR小倉駅 JAM広場",
@@ -121,32 +108,6 @@
       "source_url": "https://artne.jp/event"
     },
     {
-      "title": "ワークショップ開催！世界にひとつのアートフィギュア・キャラメイク",
-      "venue": "リバーウォーク北九州",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-08",
-      "end_date": "2026-08-16",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "アートフィギュアワークショップ",
-      "source_url": "https://riverwalk.co.jp/event/"
-    },
-    {
-      "title": "九州ボールルームダンス連盟プロフェッショナル選手会フェスティバル",
-      "venue": "会議場",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-11",
-      "end_date": "2026-08-11",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "社交ダンスのプロフェッショナル選手による競演",
-      "source_url": "https://hello-kitakyushu.or.jp/event/"
-    },
-    {
       "title": "カモンワーフ「海峡ファンファーレ2026」",
       "venue": "カモンワーフ 海側ステージ",
       "area": null,
@@ -160,17 +121,17 @@
       "source_url": "https://kitaq.media/138627/"
     },
     {
-      "title": "北九州昭和夏まつり",
-      "venue": "勝山公園大芝生広場ほか",
-      "area": "小倉北区",
+      "title": "SHANTHI MUSIC LIVE 第33回 チャリティーコンサート",
+      "venue": "道の駅きくがわ",
+      "area": "下関市",
       "schedule_type": "dated",
-      "start_date": "2026-08-13",
-      "end_date": "2026-08-23",
-      "date_note": "前夜祭は8月13日(木)17:00～、メイン開催は8月14日(金)～23日(日)",
+      "start_date": "2026-08-16",
+      "end_date": "2026-08-16",
+      "date_note": null,
       "date_confidence": "exact",
       "family_friendly": true,
-      "summary": "西日本最大級の巨大櫓を囲んだ盆踊り。約2,000個の提灯と屋台が並ぶ北九州屈指の夏まつり。",
-      "source_url": "https://riverwalk.co.jp/event/"
+      "summary": "熊本地震支援のチャリティー音楽ライブ",
+      "source_url": "https://shimonoseki.goguynet.jp/2026/08/12/shanthimusiclive-2/"
     },
     {
       "title": "ROBO PRIDE show in 九州",
@@ -184,6 +145,19 @@
       "family_friendly": true,
       "summary": "ヒューマノイドやロボット展示・デモ",
       "source_url": "https://hello-kitakyushu.or.jp/event/"
+    },
+    {
+      "title": "北九州昭和夏まつり",
+      "venue": "勝山公園大芝生広場ほか",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-08-13",
+      "end_date": "2026-08-23",
+      "date_note": "前夜祭は8月13日(木)17:00～、メイン開催は8月14日(金)～23日(日)",
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "西日本最大級の巨大櫓を囲んだ盆踊り。約2,000個の提灯と屋台が並ぶ北九州屈指の夏まつり。",
+      "source_url": "https://riverwalk.co.jp/event/"
     },
     {
       "title": "わっしょい百万夏まつり",
@@ -225,6 +199,32 @@
       "source_url": "https://artne.jp/event"
     },
     {
+      "title": "しものせき茶山塾キックオフイベント",
+      "venue": "HACORI 豊前田",
+      "area": "下関市",
+      "schedule_type": "dated",
+      "start_date": "2026-08-16",
+      "end_date": "2026-08-16",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "空き家改修とDIY体験の新しい試み",
+      "source_url": "https://shimonoseki.goguynet.jp/2026/08/12/post-73210/"
+    },
+    {
+      "title": "ワークショップ開催！世界にひとつのアートフィギュア・キャラ",
+      "venue": "リバーウォーク北九州",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-08-08",
+      "end_date": "2026-08-16",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "子ども向けアートフィギュア製作ワークショップ",
+      "source_url": "https://riverwalk.co.jp/event/"
+    },
+    {
       "title": "子育て世代の男性向け料理教室「作り置き男子」",
       "venue": "北九州市立男女共同参画センター・ムーブ 4階 料理室・工芸室",
       "area": "小倉北区",
@@ -264,19 +264,6 @@
       "source_url": "https://kitaq.media/139747/"
     },
     {
-      "title": "ギラヴァンツ北九州 2026/27シーズン ホーム開幕戦",
-      "venue": "ミクニワールドスタジアム北九州",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-15",
-      "end_date": "2026-08-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "Jリーグ開幕戦。先着1万人にEVOバッグプレゼント",
-      "source_url": "https://kitaq.media/139997/"
-    },
-    {
       "title": "ガストロ北九州（Gastro Kitakyushu）",
       "venue": "北九州メッセ",
       "area": "小倉北区",
@@ -301,19 +288,6 @@
       "family_friendly": true,
       "summary": "三大流星群観察、星空解説コーナー有り",
       "source_url": "https://arne.media/go-out/594561/"
-    },
-    {
-      "title": "栗﨑和風 古代裂お雛様と江戸の小袖展",
-      "venue": "小倉井筒屋新館7階 画廊",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-07-29",
-      "end_date": "2026-08-11",
-      "date_note": "最終日は午後4時閉場",
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "古代裂お雛様と江戸の小袖展示",
-      "source_url": "https://www.izutsuya.co.jp/storelist/kokura/archives/category/008/"
     },
     {
       "title": "白野江植物公園写真コンテスト受賞作品展",
@@ -355,45 +329,6 @@
       "source_url": "https://riverwalk.co.jp/event/"
     },
     {
-      "title": "【ご予約承り中】〈RMK〉アーティストによる1on1のメイクアップレッスン",
-      "venue": "小倉井筒屋本館1階 RMK",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-15",
-      "end_date": "2026-08-15",
-      "date_note": "2026年8月15日(土)午前10時～午後6時30分",
-      "date_confidence": "exact",
-      "family_friendly": false,
-      "summary": "プロによるメイクアップレッスン",
-      "source_url": "https://www.izutsuya.co.jp/storelist/kokura/archives/category/008/"
-    },
-    {
-      "title": "しぜんのじかんワークショップ「藍の生葉染め体験」",
-      "venue": "白野江植物公園",
-      "area": "門司区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-15",
-      "end_date": "2026-08-16",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "藍を使って絹のハンカチを染める体験",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260801/infostation/goout.html"
-    },
-    {
-      "title": "旧安川邸 夏休みキッズイベント「スイカ割り」",
-      "venue": "旧安川邸",
-      "area": "戸畑区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-01",
-      "end_date": "2026-08-11",
-      "date_note": "8月1日、2日、8日、9日、11日の開催",
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "スイカ割り体験（小学生以下対象）",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260801/infostation/goout.html"
-    },
-    {
       "title": "旧安川邸 甲斐みのりトークショー「歩いて食べる名建築の旅」",
       "venue": "旧安川邸",
       "area": "戸畑区",
@@ -420,19 +355,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260801/infostation/goout.html"
     },
     {
-      "title": "皿倉山ビジターセンター 山の日イベント",
-      "venue": "皿倉山ビジターセンター",
-      "area": "八幡東区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-11",
-      "end_date": "2026-08-11",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "登山者にかき氷進呈（先着50杯）",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260801/infostation/goout.html"
-    },
-    {
       "title": "皿倉山ビジターセンター 森のカルチャー教室「草木染め体験」",
       "venue": "皿倉山ビジターセンター",
       "area": "八幡東区",
@@ -456,19 +378,6 @@
       "date_confidence": "exact",
       "family_friendly": false,
       "summary": "映画上映会",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260801/infostation/goout.html"
-    },
-    {
-      "title": "高齢者運転シミュレーター体験教室",
-      "venue": "交通公園",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-15",
-      "end_date": "2026-08-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": false,
-      "summary": "運転シミュレーター体験教室（65歳以上対象）",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260801/infostation/goout.html"
     },
     {
@@ -693,19 +602,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260801/infostation/event.html"
     },
     {
-      "title": "たいけん！はっけん！こども博",
-      "venue": "子育てふれあい交流プラザ",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-13",
-      "end_date": "2026-08-16",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "体を使った遊びや工作体験（未就学児と保護者向け）",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260801/infostation/event.html"
-    },
-    {
       "title": "パパママ救急教室",
       "venue": "子育てふれあい交流プラザ",
       "area": "小倉北区",
@@ -729,19 +625,6 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "親子体操教室（2歳以上の未就学児と保護者向け）",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260801/infostation/event.html"
-    },
-    {
-      "title": "福岡教育大学書道専攻夏季書作展",
-      "venue": "美術館黒崎市民ギャラリー",
-      "area": "八幡西区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-10",
-      "end_date": "2026-08-16",
-      "date_note": "8月10日は13時30分から、8月16日は16時まで",
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "福岡教育大学書道専攻の夏季書作展",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260801/infostation/event.html"
     },
     {
@@ -873,19 +756,6 @@
       "family_friendly": true,
       "summary": "モノの立体感を出す影のつけ方講座（小学3年以上）",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260801/infostation/event.html"
-    },
-    {
-      "title": "木村 結香 ライブ",
-      "venue": "チャチャタウン小倉",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-11",
-      "end_date": "2026-08-11",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "ライブパフォーマンス",
-      "source_url": "https://www.chachatown.com/eventinfo/"
     },
     {
       "title": "ハル ライブ",
@@ -1096,16 +966,16 @@
       "source_url": "https://www.chachatown.com/eventinfo/"
     },
     {
-      "title": "変面パフォーマンス 轟",
+      "title": "アルパカ LIVE",
       "venue": "チャチャタウン小倉",
       "area": "小倉北区",
       "schedule_type": "dated",
-      "start_date": "2026-08-15",
-      "end_date": "2026-08-15",
+      "start_date": "2026-08-12",
+      "end_date": "2026-08-12",
       "date_note": null,
       "date_confidence": "exact",
       "family_friendly": true,
-      "summary": "変面パフォーマンス",
+      "summary": "ライブパフォーマンス",
       "source_url": "https://www.chachatown.com/eventinfo/"
     },
     {
@@ -1132,32 +1002,6 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "スパゲッティショー",
-      "source_url": "https://www.chachatown.com/eventinfo/"
-    },
-    {
-      "title": "紙で作る蓮の花展",
-      "venue": "長府庭園 書院",
-      "area": "下関市",
-      "schedule_type": "dated",
-      "start_date": "2026-08-07",
-      "end_date": "2026-08-11",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "本物の蓮と紙の蓮を楽しむ展示。ワークショップで蓮の花作り体験",
-      "source_url": "https://shimonoseki.goguynet.jp/2026/08/08/ivennt/"
-    },
-    {
-      "title": "アルパカ LIVE",
-      "venue": "チャチャタウン小倉",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-12",
-      "end_date": "2026-08-12",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "ライブパフォーマンス",
       "source_url": "https://www.chachatown.com/eventinfo/"
     },
     {
@@ -1902,19 +1746,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260815/infostation/event.html"
     },
     {
-      "title": "マティルタ夏祭り2026",
-      "venue": "ザ マティルタスイート",
-      "area": "若松区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-11",
-      "end_date": "2026-08-11",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "グルメ・縁日・花火の夏祭り",
-      "source_url": "https://kitaq.media/140427/"
-    },
-    {
       "title": "戦争映画資料展",
       "venue": "松永文庫（旧大連航路上屋）",
       "area": "門司区",
@@ -1928,19 +1759,6 @@
       "source_url": "https://kitaq.media/140219/"
     },
     {
-      "title": "takujiさん投げ銭ライブ",
-      "venue": "就労継続支援B型事業所なないろ",
-      "area": "下関市",
-      "schedule_type": "dated",
-      "start_date": "2026-08-11",
-      "end_date": "2026-08-11",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": false,
-      "summary": "シンガーソングライターのライブパフォーマンス",
-      "source_url": "https://shimonoseki.goguynet.jp/2026/08/09/takuji/"
-    },
-    {
       "title": "第2回大九州展",
       "venue": "小倉井筒屋 本館8階催場",
       "area": "小倉北区",
@@ -1952,19 +1770,6 @@
       "family_friendly": true,
       "summary": "九州8県の物産展。約50社が出店、15社が初出店。フードコート併設",
       "source_url": "https://kitaq.media/140383/"
-    },
-    {
-      "title": "振袖展示会 ルフレ in 北九州",
-      "venue": "AIM3F",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-14",
-      "end_date": "2026-08-16",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "振袖の展示会",
-      "source_url": "https://hello-kitakyushu.or.jp/event/"
     },
     {
       "title": "アイラブホームフェア2026 in 北九州",
