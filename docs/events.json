@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-14",
+  "updated_at": "2026-08-15",
   "title": "北九州おでかけ情報まとめ",
-  "count": 142,
+  "count": 148,
   "events": [
     {
       "title": "NUKUMORIマルシェ in JR小倉駅JAM広場",
@@ -56,6 +56,32 @@
       "source_url": "https://kitaq.media/138976/"
     },
     {
+      "title": "八幡南お盆まつりと花火大会",
+      "venue": "香月中央公園運動場",
+      "area": "八幡西区",
+      "schedule_type": "dated",
+      "start_date": "2026-08-16",
+      "end_date": "2026-08-16",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "1000発の花火、レーザーショー、露店、盆踊り",
+      "source_url": "https://kitaq.media/140678/"
+    },
+    {
+      "title": "蔵元、再始動。",
+      "venue": "北九州メッセ",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-13",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": false,
+      "summary": "40蔵以上の日本酒飲み比べイベント",
+      "source_url": "https://kitaq.media/139134/"
+    },
+    {
       "title": "脇田温泉 湯めぐりの宿楠水閣 ファミリー向けイベント",
       "venue": "脇田温泉 湯めぐりの宿楠水閣",
       "area": "宮若市",
@@ -82,17 +108,17 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/contents/v28700004_00001.html"
     },
     {
-      "title": "ダンスでいこう！！2026「北九州振付塾～ダンス作品を創作しよう～」",
+      "title": "映画ちいかわ 人魚の島のキーワードラリー",
       "venue": "リバーウォーク北九州",
       "area": "小倉北区",
       "schedule_type": "dated",
-      "start_date": "2026-08-26",
-      "end_date": "2026-08-30",
+      "start_date": "2026-08-14",
+      "end_date": "2026-08-23",
       "date_note": null,
       "date_confidence": "exact",
       "family_friendly": true,
-      "summary": "ダンス振付講座",
-      "source_url": "https://riverwalk.co.jp/event/"
+      "summary": "施設内のキーワード探しで映画オリジナル待ち受け画像獲得",
+      "source_url": "https://kitaq.media/140666/"
     },
     {
       "title": "「九州初開催」いっしょにわくわくしよう！パンダコパンダ展",
@@ -106,6 +132,32 @@
       "family_friendly": true,
       "summary": "高畑勲・宮崎駿による『パンダコパンダ』の体験型展覧会",
       "source_url": "https://artne.jp/event"
+    },
+    {
+      "title": "ダンスでいこう！！2026「北九州振付塾～ダンス作品を創作しよう～」",
+      "venue": "リバーウォーク北九州",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-08-26",
+      "end_date": "2026-08-30",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "ダンス振付講座",
+      "source_url": "https://riverwalk.co.jp/event/"
+    },
+    {
+      "title": "期間限定OPEN！natural ＆ ethnic",
+      "venue": "リバーウォーク北九州",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-31",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": null,
+      "summary": "期間限定ポップアップストア",
+      "source_url": "https://riverwalk.co.jp/event/"
     },
     {
       "title": "カモンワーフ「海峡ファンファーレ2026」",
@@ -134,19 +186,6 @@
       "source_url": "https://shimonoseki.goguynet.jp/2026/08/12/shanthimusiclive-2/"
     },
     {
-      "title": "北九州昭和夏まつり",
-      "venue": "勝山公園大芝生広場ほか",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-13",
-      "end_date": "2026-08-23",
-      "date_note": "前夜祭は8月13日(木)17:00～、メイン開催は8月14日(金)～23日(日)",
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "西日本最大級の巨大櫓を囲んだ盆踊り。約2,000個の提灯と屋台が並ぶ北九州屈指の夏まつり。",
-      "source_url": "https://riverwalk.co.jp/event/"
-    },
-    {
       "title": "ROBO PRIDE show in 九州",
       "venue": "AIM3F",
       "area": "小倉北区",
@@ -158,6 +197,19 @@
       "family_friendly": true,
       "summary": "ヒューマノイドやロボット展示・デモ",
       "source_url": "https://hello-kitakyushu.or.jp/event/"
+    },
+    {
+      "title": "北九州昭和夏まつり",
+      "venue": "勝山公園大芝生広場ほか",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-08-13",
+      "end_date": "2026-08-23",
+      "date_note": "前夜祭は8月13日(木)17:00～、メイン開催は8月14日(金)～23日(日)",
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "西日本最大級の巨大櫓を囲んだ盆踊り。約2,000個の提灯と屋台が並ぶ北九州屈指の夏まつり。",
+      "source_url": "https://riverwalk.co.jp/event/"
     },
     {
       "title": "わっしょい百万夏まつり",
@@ -184,6 +236,19 @@
       "family_friendly": true,
       "summary": "北九州唯一のレジャープール。開園40周年記念でコラボスライダー登場",
       "source_url": "https://arne.media/go-out/590376/"
+    },
+    {
+      "title": "リバキッズフェスタ キッズファッションカーニバル",
+      "venue": "リバーウォーク北九州",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-13",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "子ども向けファッションイベント",
+      "source_url": "https://riverwalk.co.jp/event/"
     },
     {
       "title": "しものせき茶山塾キックオフイベント",
@@ -225,6 +290,32 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/contents/v154_00002.html"
     },
     {
+      "title": "〈ディズニー〉フィギュアコレクション 2026",
+      "venue": "小倉井筒屋 本館6階 リビング特設会場",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-08-12",
+      "end_date": "2026-08-25",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "ディズニーキャラクターのフィギュア展示販売",
+      "source_url": "https://www.izutsuya.co.jp/storelist/kokura/archives/category/008/"
+    },
+    {
+      "title": "スペシャルグルメデー ONLY15",
+      "venue": "小倉井筒屋 本館地階 美・食館",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-08-15",
+      "end_date": "2026-08-15",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "お盆限定の食品グルメイベント",
+      "source_url": "https://www.izutsuya.co.jp/storelist/kokura/archives/category/008/"
+    },
+    {
       "title": "日本フェザー級王者防衛戦",
       "venue": "西日本総合展示場 中展示場",
       "area": "小倉北区",
@@ -264,19 +355,6 @@
       "source_url": "https://hello-kitakyushu.or.jp/event/"
     },
     {
-      "title": "白野江植物公園写真コンテスト受賞作品展",
-      "venue": "白野江植物公園",
-      "area": "門司区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-01",
-      "end_date": "2026-08-31",
-      "date_note": "8月31日（月）まで",
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "写真コンテスト受賞作品25点を展示",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260801/infostation/goout.html"
-    },
-    {
       "title": "濡れ得サービス",
       "venue": "リバーウォーク北九州",
       "area": "小倉北区",
@@ -301,6 +379,32 @@
       "family_friendly": true,
       "summary": "生きもの展示。こども向け体験あり",
       "source_url": "https://artne.jp/event"
+    },
+    {
+      "title": "トーベとムーミン展～とっておきのものを探しに～",
+      "venue": "福岡市美術館",
+      "area": "福岡市",
+      "schedule_type": "dated",
+      "start_date": "2026-07-04",
+      "end_date": "2026-08-30",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "ムーミンの世界を巡る展覧会",
+      "source_url": "https://artne.jp/event"
+    },
+    {
+      "title": "白野江植物公園写真コンテスト受賞作品展",
+      "venue": "白野江植物公園",
+      "area": "門司区",
+      "schedule_type": "dated",
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-31",
+      "date_note": "8月31日（月）まで",
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "写真コンテスト受賞作品25点を展示",
+      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260801/infostation/goout.html"
     },
     {
       "title": "旧安川邸 甲斐みのりトークショー「歩いて食べる名建築の旅」",
@@ -719,19 +823,6 @@
       "source_url": "https://kitaq.media/140644/"
     },
     {
-      "title": "マジックショー＆ライブ（マギー審司・Azuki）",
-      "venue": "サンリブシティ小倉 1階グリーンプラザ",
-      "area": "小倉南区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-14",
-      "end_date": "2026-08-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "本格マジックとイケオジアイドルライブ",
-      "source_url": "https://kitaq.media/140658/"
-    },
-    {
       "title": "彩夏 ライブ",
       "venue": "チャチャタウン小倉",
       "area": "小倉北区",
@@ -743,6 +834,19 @@
       "family_friendly": true,
       "summary": "ライブパフォーマンス",
       "source_url": "https://www.chachatown.com/eventinfo/"
+    },
+    {
+      "title": "マジックショー＆ライブ（マギー審司・Azuki）",
+      "venue": "サンリブシティ小倉 1階グリーンプラザ",
+      "area": "小倉南区",
+      "schedule_type": "dated",
+      "start_date": "2026-08-14",
+      "end_date": "2026-08-15",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "本格マジックとイケオジアイドルライブ",
+      "source_url": "https://kitaq.media/140658/"
     },
     {
       "title": "STAR☆PRINCE ライブ",
@@ -836,19 +940,6 @@
       "source_url": "https://www.chachatown.com/eventinfo/"
     },
     {
-      "title": "カトウナオキ LIVE",
-      "venue": "チャチャタウン小倉",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-14",
-      "end_date": "2026-08-14",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "ライブパフォーマンス",
-      "source_url": "https://www.chachatown.com/eventinfo/"
-    },
-    {
       "title": "ビアパーティー第3弾「肉・カレー・夏祭り」",
       "venue": "松柏園ホテル",
       "area": "小倉北区",
@@ -873,45 +964,6 @@
       "family_friendly": true,
       "summary": "ミニ縁日・ワークショップ・夏季限定グルメ",
       "source_url": "https://kitaq.media/140571/"
-    },
-    {
-      "title": "歌謡ジャズ一座",
-      "venue": "チャチャタウン小倉",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-25",
-      "end_date": "2026-08-25",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "歌謡ジャズパフォーマンス",
-      "source_url": "https://www.chachatown.com/eventinfo/"
-    },
-    {
-      "title": "ChaChaミュージックライブ",
-      "venue": "チャチャタウン小倉",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-29",
-      "end_date": "2026-08-29",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "ミュージックライブ",
-      "source_url": "https://www.chachatown.com/eventinfo/"
-    },
-    {
-      "title": "三線シンガー 沙織",
-      "venue": "チャチャタウン小倉",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-30",
-      "end_date": "2026-08-30",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "三線ライブ",
-      "source_url": "https://www.chachatown.com/eventinfo/"
     },
     {
       "title": "パラシュート部隊 スパゲッティショー",
@@ -940,16 +992,16 @@
       "source_url": "https://www.chachatown.com/eventinfo/"
     },
     {
-      "title": "ピアノ アラモード LIVE",
+      "title": "三線シンガー 沙織",
       "venue": "チャチャタウン小倉",
       "area": "小倉北区",
       "schedule_type": "dated",
-      "start_date": "2026-08-19",
-      "end_date": "2026-08-19",
+      "start_date": "2026-08-30",
+      "end_date": "2026-08-30",
       "date_note": null,
       "date_confidence": "exact",
       "family_friendly": true,
-      "summary": "ピアノライブ",
+      "summary": "三線ライブ",
       "source_url": "https://www.chachatown.com/eventinfo/"
     },
     {
@@ -966,6 +1018,45 @@
       "source_url": "https://www.chachatown.com/eventinfo/"
     },
     {
+      "title": "歌謡ジャズ一座",
+      "venue": "チャチャタウン小倉",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-08-25",
+      "end_date": "2026-08-25",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "歌謡ジャズパフォーマンス",
+      "source_url": "https://www.chachatown.com/eventinfo/"
+    },
+    {
+      "title": "ChaChaミュージックライブ",
+      "venue": "チャチャタウン小倉",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-08-29",
+      "end_date": "2026-08-29",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "ミュージックライブ",
+      "source_url": "https://www.chachatown.com/eventinfo/"
+    },
+    {
+      "title": "ピアノ アラモード LIVE",
+      "venue": "チャチャタウン小倉",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-08-19",
+      "end_date": "2026-08-19",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "ピアノライブ",
+      "source_url": "https://www.chachatown.com/eventinfo/"
+    },
+    {
       "title": "若菜潤一郎クラシックギターLIVE",
       "venue": "チャチャタウン小倉",
       "area": "小倉北区",
@@ -976,45 +1067,6 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "ギターライブ",
-      "source_url": "https://www.chachatown.com/eventinfo/"
-    },
-    {
-      "title": "KPF（北九州ポップカルチャーフェスティバル）2026",
-      "venue": "北九州メッセ、あるあるCity 他",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-28",
-      "end_date": "2026-11-29",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "マンガ・アニメ・ゲームの祭典。声優トークショー、ライブステージ、コスプレイベント",
-      "source_url": "https://www.city.kitakyushu.lg.jp/contents/29200100_00001.html"
-    },
-    {
-      "title": "北九州空港滑走路ウォーク",
-      "venue": "北九州空港",
-      "area": "小倉南区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-22",
-      "end_date": "2026-08-22",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "開港20周年記念。滑走路を歩く特別ツアー（早朝3:30～6:30）、格納庫・消防車両見学",
-      "source_url": "https://kitaq.media/140461/"
-    },
-    {
-      "title": "前川ブラザーズ Presents 紘毅・前川侑那 スペシャルライブ",
-      "venue": "チャチャタウン小倉",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-26",
-      "end_date": "2026-08-26",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "スペシャルライブ",
       "source_url": "https://www.chachatown.com/eventinfo/"
     },
     {
@@ -1068,6 +1120,45 @@
       "family_friendly": true,
       "summary": "子ども向けアートフィギュア製作ワークショップ",
       "source_url": "https://riverwalk.co.jp/event/"
+    },
+    {
+      "title": "前川ブラザーズ Presents 紘毅・前川侑那 スペシャルライブ",
+      "venue": "チャチャタウン小倉",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-08-26",
+      "end_date": "2026-08-26",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "スペシャルライブ",
+      "source_url": "https://www.chachatown.com/eventinfo/"
+    },
+    {
+      "title": "KPF（北九州ポップカルチャーフェスティバル）2026",
+      "venue": "北九州メッセ、あるあるCity 他",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-29",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "マンガ・アニメ・ゲームの祭典。声優トークショー、ライブステージ、コスプレイベント",
+      "source_url": "https://www.city.kitakyushu.lg.jp/contents/29200100_00001.html"
+    },
+    {
+      "title": "北九州空港滑走路ウォーク",
+      "venue": "北九州空港",
+      "area": "小倉南区",
+      "schedule_type": "dated",
+      "start_date": "2026-08-22",
+      "end_date": "2026-08-22",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "開港20周年記念。滑走路を歩く特別ツアー（早朝3:30～6:30）、格納庫・消防車両見学",
+      "source_url": "https://kitaq.media/140461/"
     },
     {
       "title": "第16回北九州風景街道フォト＆アートコンテスト 応募締切",
@@ -1772,45 +1863,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260815/infostation/event.html"
     },
     {
-      "title": "戦争映画資料展",
-      "venue": "松永文庫（旧大連航路上屋）",
-      "area": "門司区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-08",
-      "end_date": "2026-10-04",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "映画ポスター・資料183点の展示",
-      "source_url": "https://kitaq.media/140219/"
-    },
-    {
-      "title": "第2回大九州展",
-      "venue": "小倉井筒屋 本館8階催場",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-10",
-      "end_date": "2026-08-18",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "九州8県の物産展。約50社が出店、15社が初出店。フードコート併設",
-      "source_url": "https://kitaq.media/140383/"
-    },
-    {
-      "title": "本まぐろ解体即売会",
-      "venue": "ジアウトレット北九州 鮮魚専門店 とと市場",
-      "area": "八幡東区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-15",
-      "end_date": "2026-08-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "本まぐろ解体職人のトーク、ジャンケン大会、刺身・寿司の限定販売",
-      "source_url": "https://kitaq.media/140650/"
-    },
-    {
       "title": "アイラブホームフェア2026 in 北九州",
       "venue": "西日本総合展示場",
       "area": "小倉北区",
@@ -1837,17 +1889,43 @@
       "source_url": "https://hello-kitakyushu.or.jp/event/"
     },
     {
-      "title": "ペルピンズ Special LIVE",
-      "venue": "チャチャタウン小倉",
-      "area": "小倉北区",
+      "title": "戦争映画資料展",
+      "venue": "松永文庫（旧大連航路上屋）",
+      "area": "門司区",
       "schedule_type": "dated",
-      "start_date": "2026-08-14",
-      "end_date": "2026-08-14",
-      "date_note": "①11:00～ ②15:00～ 着席整理券あり",
+      "start_date": "2026-08-08",
+      "end_date": "2026-10-04",
+      "date_note": null,
       "date_confidence": "exact",
       "family_friendly": true,
-      "summary": "スペシャルライブ",
-      "source_url": "https://www.chachatown.com/eventinfo/"
+      "summary": "映画ポスター・資料183点の展示",
+      "source_url": "https://kitaq.media/140219/"
+    },
+    {
+      "title": "第2回大九州展",
+      "venue": "小倉井筒屋 本館8階催場",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-18",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "九州8県の物産展。約50社が出店、15社が初出店。フードコート併設",
+      "source_url": "https://www.izutsuya.co.jp/storelist/kokura/archives/category/008/"
+    },
+    {
+      "title": "本まぐろ解体即売会",
+      "venue": "ジアウトレット北九州 鮮魚専門店 とと市場",
+      "area": "八幡東区",
+      "schedule_type": "dated",
+      "start_date": "2026-08-15",
+      "end_date": "2026-08-15",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "本まぐろ解体職人のトーク、ジャンケン大会、刺身・寿司の限定販売",
+      "source_url": "https://kitaq.media/140650/"
     }
   ]
 }
