@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-27",
+  "updated_at": "2026-08-28",
   "title": "北九州おでかけ情報まとめ",
-  "count": 192,
+  "count": 194,
   "events": [
     {
       "title": "NUKUMORIマルシェ in JR小倉駅JAM広場",
@@ -225,19 +225,6 @@
       "source_url": "https://hello-kitakyushu.or.jp/event/"
     },
     {
-      "title": "トーベとムーミン展～とっておきのものを探しに～",
-      "venue": "福岡市美術館",
-      "area": "福岡市",
-      "schedule_type": "dated",
-      "start_date": "2026-07-04",
-      "end_date": "2026-08-30",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "ムーミンの世界を巡る展覧会",
-      "source_url": "https://artne.jp/event"
-    },
-    {
       "title": "白野江植物公園写真コンテスト受賞作品展",
       "venue": "白野江植物公園",
       "area": "門司区",
@@ -251,16 +238,16 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260801/infostation/goout.html"
     },
     {
-      "title": "夏の特別展「とぶ 空を旅する生きものたちの大冒険」",
-      "venue": "北九州市立自然史・歴史博物館（いのちのたび博物館）",
-      "area": "八幡東区",
+      "title": "トーベとムーミン展～とっておきのものを探しに～",
+      "venue": "福岡市美術館",
+      "area": "福岡市",
       "schedule_type": "dated",
-      "start_date": "2026-07-18",
-      "end_date": "2026-09-23",
+      "start_date": "2026-07-04",
+      "end_date": "2026-08-30",
       "date_note": null,
       "date_confidence": "exact",
       "family_friendly": true,
-      "summary": "生きもの展示。こども向け体験あり",
+      "summary": "ムーミンの世界を巡る展覧会",
       "source_url": "https://artne.jp/event"
     },
     {
@@ -275,6 +262,19 @@
       "family_friendly": true,
       "summary": "北九州出身選手・岡本恭佑の王座防衛戦。市民招待あり（締切7月28日）",
       "source_url": "https://hello-kitakyushu.or.jp/event/"
+    },
+    {
+      "title": "夏の特別展「とぶ 空を旅する生きものたちの大冒険」",
+      "venue": "北九州市立自然史・歴史博物館（いのちのたび博物館）",
+      "area": "八幡東区",
+      "schedule_type": "dated",
+      "start_date": "2026-07-18",
+      "end_date": "2026-09-23",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "生きもの展示。こども向け体験あり",
+      "source_url": "https://artne.jp/event"
     },
     {
       "title": "旧安川邸 甲斐みのりトークショー「歩いて食べる名建築の旅」",
@@ -524,19 +524,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260801/infostation/event.html"
     },
     {
-      "title": "企画展「戦争と郷土の記憶」",
-      "venue": "海の道むなかた館 特別展示室",
-      "area": "宗像市",
-      "schedule_type": "dated",
-      "start_date": "2026-08-01",
-      "end_date": "2026-08-30",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "戦争と地域の歴史を学ぶ",
-      "source_url": "https://artne.jp/event"
-    },
-    {
       "title": "観光物産展 in 北九州空港",
       "venue": "北九州空港ターミナルビル1階",
       "area": "小倉南区",
@@ -563,6 +550,32 @@
       "source_url": "https://kitaq.media/140844/"
     },
     {
+      "title": "企画展「戦争と郷土の記憶」",
+      "venue": "海の道むなかた館 特別展示室",
+      "area": "宗像市",
+      "schedule_type": "dated",
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-30",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "戦争と地域の歴史を学ぶ",
+      "source_url": "https://artne.jp/event"
+    },
+    {
+      "title": "BooBee コミカルマジック",
+      "venue": "チャチャタウン小倉",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-08-30",
+      "end_date": "2026-08-30",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "コミカルマジック",
+      "source_url": "https://www.chachatown.com/eventinfo/"
+    },
+    {
       "title": "INO JAZZライブ",
       "venue": "チャチャタウン小倉",
       "area": "小倉北区",
@@ -586,19 +599,6 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "フラダンスパフォーマンス",
-      "source_url": "https://www.chachatown.com/eventinfo/"
-    },
-    {
-      "title": "BooBee コミカルマジック",
-      "venue": "チャチャタウン小倉",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-30",
-      "end_date": "2026-08-30",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "コミカルマジック",
       "source_url": "https://www.chachatown.com/eventinfo/"
     },
     {
@@ -667,19 +667,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/contents/29200100_00001.html"
     },
     {
-      "title": "鈴木のりたけ「大ピンチ展！」",
-      "venue": "福岡市科学館 3階企画展示室",
-      "area": "福岡市",
-      "schedule_type": "dated",
-      "start_date": "2026-07-11",
-      "end_date": "2026-09-06",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "児童文学作家の作品・キャラクター展",
-      "source_url": "https://artne.jp/event"
-    },
-    {
       "title": "第31回北九州将棋フェスティバル",
       "venue": "会議場",
       "area": "小倉北区",
@@ -704,6 +691,19 @@
       "family_friendly": false,
       "summary": "書道用品の展示会",
       "source_url": "https://hello-kitakyushu.or.jp/event/"
+    },
+    {
+      "title": "鈴木のりたけ「大ピンチ展！」",
+      "venue": "福岡市科学館 3階企画展示室",
+      "area": "福岡市",
+      "schedule_type": "dated",
+      "start_date": "2026-07-11",
+      "end_date": "2026-09-06",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "児童文学作家の作品・キャラクター展",
+      "source_url": "https://artne.jp/event"
     },
     {
       "title": "第16回北九州風景街道フォト＆アートコンテスト 応募締切",
@@ -1291,19 +1291,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260815/infostation/event.html"
     },
     {
-      "title": "夏季特別展「もっと！こどもの視展～こどもになる12の体験～」",
-      "venue": "大野城心のふるさと館",
-      "area": "大野城市",
-      "schedule_type": "dated",
-      "start_date": "2026-07-14",
-      "end_date": "2026-09-23",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "子ども視点の体験型展覧会",
-      "source_url": "https://artne.jp/event"
-    },
-    {
       "title": "戦争映画資料展",
       "venue": "松永文庫（旧大連航路上屋）",
       "area": "門司区",
@@ -1382,6 +1369,19 @@
       "source_url": "https://kitaq.media/140702/"
     },
     {
+      "title": "夏季特別展「もっと！こどもの視展～こどもになる12の体験～」",
+      "venue": "大野城心のふるさと館",
+      "area": "大野城市",
+      "schedule_type": "dated",
+      "start_date": "2026-07-14",
+      "end_date": "2026-09-23",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "子ども視点の体験型展覧会",
+      "source_url": "https://artne.jp/event"
+    },
+    {
       "title": "門司港カーブーツ",
       "venue": "門司港レトロ 西海岸",
       "area": "門司区",
@@ -1431,19 +1431,6 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "頭と体を使った踏破型脱出アトラクション。謎を解いて7つの空間から脱出。",
-      "source_url": "https://riverwalk.co.jp/event/"
-    },
-    {
-      "title": "ダンスでいこう！！2026「北九州振付塾～ダンス作品を創作しよう～」",
-      "venue": "リバーウォーク北九州",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-26",
-      "end_date": "2026-08-30",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "ダンス振付講座",
       "source_url": "https://riverwalk.co.jp/event/"
     },
     {
@@ -1512,6 +1499,19 @@
       "source_url": "https://kitaq.media/141213/"
     },
     {
+      "title": "ダンスでいこう！！2026「北九州振付塾～ダンス作品を創作しよう～」",
+      "venue": "リバーウォーク北九州",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-08-26",
+      "end_date": "2026-08-30",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "ダンス振付講座",
+      "source_url": "https://riverwalk.co.jp/event/"
+    },
+    {
       "title": "令和8年度北九州市動物愛護デー",
       "venue": "北九州市立総合農事センター",
       "area": "小倉南区",
@@ -1575,45 +1575,6 @@
       "family_friendly": true,
       "summary": "お笑いライブ・キャラクターショー・巨大遊具・40店舗グルメ",
       "source_url": "https://kitaq.media/141275/"
-    },
-    {
-      "title": "期間限定！キッチンカーでランチメニュー販売",
-      "venue": "リバーウォーク北九州",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-28",
-      "end_date": "2026-09-30",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "キッチンカー出店",
-      "source_url": "https://riverwalk.co.jp/event/"
-    },
-    {
-      "title": "期間限定OPEN！つづみ団子",
-      "venue": "リバーウォーク北九州",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-05",
-      "end_date": "2026-09-06",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "期間限定和菓子店舗",
-      "source_url": "https://riverwalk.co.jp/event/"
-    },
-    {
-      "title": "お天気キャスターと防災について学ぼう！",
-      "venue": "リバーウォーク北九州",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-19",
-      "end_date": "2026-09-19",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "防災学習イベント",
-      "source_url": "https://riverwalk.co.jp/event/"
     },
     {
       "title": "〈安納 永子〉手編み帽子展",
@@ -1835,6 +1796,32 @@
       "family_friendly": true,
       "summary": "ヒガンバナなど約150点の秋の山野草展示",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/goout.html"
+    },
+    {
+      "title": "期間限定OPEN！つづみ団子",
+      "venue": "リバーウォーク北九州",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-09-05",
+      "end_date": "2026-09-06",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "期間限定和菓子店舗",
+      "source_url": "https://riverwalk.co.jp/event/"
+    },
+    {
+      "title": "お天気キャスターと防災について学ぼう！",
+      "venue": "リバーウォーク北九州",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-19",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "防災学習イベント",
+      "source_url": "https://riverwalk.co.jp/event/"
     },
     {
       "title": "秋を見つけにハイキング",
@@ -2498,6 +2485,45 @@
       "family_friendly": true,
       "summary": "古新聞でエコバッグを作成",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/event.html"
+    },
+    {
+      "title": "期間限定！キッチンカーでランチメニュー販売",
+      "venue": "リバーウォーク北九州",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-08-28",
+      "end_date": "2026-09-30",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "キッチンカー出店",
+      "source_url": "https://riverwalk.co.jp/event/"
+    },
+    {
+      "title": "「風景／身体／言葉のあいだ」 Between Landscape / Bodies / Languages 長野櫻子",
+      "venue": "EUREKA 久留米シティプラザ",
+      "area": "久留米市",
+      "schedule_type": "dated",
+      "start_date": "2026-08-28",
+      "end_date": "2026-09-06",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": null,
+      "summary": "長野櫻子による写真・作品展示",
+      "source_url": "https://artne.jp/event"
+    },
+    {
+      "title": "久留米シティプラザ写真展示プロジェクト「プラザあちこち写真館vol.2」『あなたの好きを掘ると、新しいあなたがいた』",
+      "venue": "久留米シティプラザ",
+      "area": "久留米市",
+      "schedule_type": "dated",
+      "start_date": "2026-08-29",
+      "end_date": "2026-09-27",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": null,
+      "summary": "写真展示プロジェクト",
+      "source_url": "https://artne.jp/event"
     }
   ]
 }
