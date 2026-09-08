@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-08",
+  "updated_at": "2026-09-09",
   "title": "北九州おでかけ情報まとめ",
-  "count": 156,
+  "count": 152,
   "events": [
     {
       "title": "NUKUMORIマルシェ in JR小倉駅JAM広場",
@@ -67,19 +67,6 @@
       "family_friendly": true,
       "summary": "コラボ営業・立ち呑みイベント・プレゼント企画",
       "source_url": "https://kitaq.media/141468/"
-    },
-    {
-      "title": "ラリー清末 ギターライブ",
-      "venue": "チャチャタウン小倉",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-08",
-      "end_date": "2026-09-08",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "ギターライブ",
-      "source_url": "https://www.chachatown.com/eventinfo/"
     },
     {
       "title": "2026北九州国際音楽祭",
@@ -652,19 +639,6 @@
       "family_friendly": true,
       "summary": "動物のふれあい体験・表彰式・ステージショーを楽しむ親子向け1日イベント",
       "source_url": "https://www.city.kitakyushu.lg.jp/contents/v18500004.html"
-    },
-    {
-      "title": "劉耀宗 夢幻の桂林山水画展",
-      "venue": "小倉井筒屋 新館7階 画廊",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-08-26",
-      "end_date": "2026-09-08",
-      "date_note": "最終日は午後4時閉場",
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "中国山水画展覧会",
-      "source_url": "https://www.izutsuya.co.jp/storelist/kokura/archives/category/008/"
     },
     {
       "title": "小倉ハンドメイドマルシェ2026",
@@ -1577,19 +1551,6 @@
       "source_url": "https://kitaq.media/141612/"
     },
     {
-      "title": "平山 花羽 デビューシングル「あじさい坂」発売記念キャンペーン",
-      "venue": "チャチャタウン小倉",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-08",
-      "end_date": "2026-09-08",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "シングル発売記念イベント",
-      "source_url": "https://www.chachatown.com/eventinfo/"
-    },
-    {
       "title": "ピエロショー",
       "venue": "チャチャタウン小倉",
       "area": "小倉北区",
@@ -1939,19 +1900,6 @@
       "family_friendly": true,
       "summary": "7月開催の小倉祇園太鼓の写真展示",
       "source_url": "https://kitaq.media/141408/"
-    },
-    {
-      "title": "〈日本ENJO〉お掃除用品実演販売会",
-      "venue": "小倉井筒屋 本館6階 北エスカレーター横",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-02",
-      "end_date": "2026-09-08",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "お掃除用品の実演販売会",
-      "source_url": "https://www.izutsuya.co.jp/storelist/kokura/archives/category/008/"
     },
     {
       "title": "熊本県立美術館開館50周年記念特別展 わたしたちのルノワール",
