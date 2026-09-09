@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-09",
+  "updated_at": "2026-09-10",
   "title": "北九州おでかけ情報まとめ",
-  "count": 152,
+  "count": 150,
   "events": [
     {
       "title": "NUKUMORIマルシェ in JR小倉駅JAM広場",
@@ -95,6 +95,19 @@
       "source_url": "https://shimonoseki.goguynet.jp/2026/09/07/suigetuen/"
     },
     {
+      "title": "Japan Craft beer Weekend",
+      "venue": "勝山公園 大芝生広場",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-09-11",
+      "end_date": "2026-09-13",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": false,
+      "summary": "12醸造所のクラフトビールと野外映画",
+      "source_url": "https://kitaq.media/142016/"
+    },
+    {
       "title": "ROBO PRIDE show in 九州",
       "venue": "AIM3F",
       "area": "小倉北区",
@@ -119,6 +132,19 @@
       "family_friendly": true,
       "summary": "150万人以上が訪れる北九州市最大級の夏祭。こども夢ステージ、百万踊りが見どころ。",
       "source_url": "https://kitaq.media/140021/"
+    },
+    {
+      "title": "直方市を知る2日間 in 北九州空港",
+      "venue": "北九州空港ターミナルビル1階",
+      "area": "小倉南区",
+      "schedule_type": "dated",
+      "start_date": "2026-09-11",
+      "end_date": "2026-09-12",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "直方の特産品販売や手作り体験",
+      "source_url": "https://kitaq.media/142094/"
     },
     {
       "title": "洋ラン展",
@@ -329,19 +355,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/contents/v05600047.html"
     },
     {
-      "title": "Lino ライブ",
-      "venue": "チャチャタウン小倉",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-09",
-      "end_date": "2026-09-09",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "ライブパフォーマンス",
-      "source_url": "https://www.chachatown.com/eventinfo/"
-    },
-    {
       "title": "しぜんのじかん・ネイチャーゲーム「タネあそび隊」",
       "venue": "白野江植物公園",
       "area": "門司区",
@@ -537,19 +550,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260815/infostation/event.html"
     },
     {
-      "title": "平和のまちミュージアム「被爆の記憶をAIで継承」実証体験・検証会",
-      "venue": "平和のまちミュージアム",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-08",
-      "end_date": "2026-09-09",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "AI被爆証言応答装置の体験",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260815/infostation/event.html"
-    },
-    {
       "title": "子どもの館「赤ちゃんとママのふれあい体操」",
       "venue": "子どもの館",
       "area": "八幡西区",
@@ -600,19 +600,6 @@
       "family_friendly": true,
       "summary": "漫画道具・タブレット・塗り絵体験",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260815/infostation/event.html"
-    },
-    {
-      "title": "おこさらまんち",
-      "venue": "AIM3F",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-08",
-      "end_date": "2026-09-09",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "子育てテーマの親子向けイベント",
-      "source_url": "https://hello-kitakyushu.or.jp/event/"
     },
     {
       "title": "転職プラザ×就活プラザ in 北九州",
@@ -1887,19 +1874,6 @@
       "family_friendly": true,
       "summary": "歌の魅力を発信。音楽団体による合唱ステージ披露",
       "source_url": "https://kitaq.media/141144/"
-    },
-    {
-      "title": "小倉祇園太鼓写真展",
-      "venue": "小倉北区役所 東棟1階",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-01",
-      "end_date": "2026-09-09",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "7月開催の小倉祇園太鼓の写真展示",
-      "source_url": "https://kitaq.media/141408/"
     },
     {
       "title": "熊本県立美術館開館50周年記念特別展 わたしたちのルノワール",
