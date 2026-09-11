@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-11",
+  "updated_at": "2026-09-12",
   "title": "北九州おでかけ情報まとめ",
-  "count": 239,
+  "count": 238,
   "events": [
     {
       "title": "NUKUMORIマルシェ in JR小倉駅JAM広場",
@@ -54,19 +54,6 @@
       "family_friendly": true,
       "summary": "YouTuberトークショー・市民モデルオーディション・ライブパフォーマンス",
       "source_url": "https://www.city.kitakyushu.lg.jp/contents/29200098_00001.html"
-    },
-    {
-      "title": "「ごはんとおかし ワカマツヤサイ穴生店」1周年感謝企画",
-      "venue": "ごはんとおかし ワカマツヤサイ穴生店",
-      "area": "八幡西区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-05",
-      "end_date": "2026-09-11",
-      "date_note": "9月5日と9日～11日の計4日間",
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "コラボ営業・立ち呑みイベント・プレゼント企画",
-      "source_url": "https://kitaq.media/141468/"
     },
     {
       "title": "2026北九州国際音楽祭",
@@ -849,45 +836,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/goout.html"
     },
     {
-      "title": "救急医療週間イベント in 戸畑区役所",
-      "venue": "戸畑区役所",
-      "area": "戸畑区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-11",
-      "end_date": "2026-09-11",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "心肺蘇生法体験、消防車・救急車展示",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/goout.html"
-    },
-    {
-      "title": "救急医療週間イベント in 小倉北区役所",
-      "venue": "小倉北区役所",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-11",
-      "end_date": "2026-09-11",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "心肺蘇生法体験、消防車・救急車展示",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/goout.html"
-    },
-    {
-      "title": "救急医療週間イベント in 門司消防署",
-      "venue": "門司消防署",
-      "area": "門司区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-11",
-      "end_date": "2026-09-11",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "心肺蘇生法体験、消防車・救急車展示",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/goout.html"
-    },
-    {
       "title": "救急医療週間イベント in イオンモール八幡東",
       "venue": "イオンモール八幡東",
       "area": "八幡東区",
@@ -1629,6 +1577,19 @@
       "source_url": "https://artne.jp/event"
     },
     {
+      "title": "保護犬譲渡会",
+      "venue": "THE OUTLETS KITAKYUSHU（ジ アウトレット北九州）",
+      "area": "八幡東区",
+      "schedule_type": "dated",
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-13",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "25頭以上の保護犬に会える譲渡会、入場無料",
+      "source_url": "https://kitaq.media/142148/"
+    },
+    {
       "title": "筑鉄列車運転体験",
       "venue": "筑豊電気鉄道楠橋車庫",
       "area": "八幡西区",
@@ -2155,19 +2116,6 @@
       "schedule_type": "dated",
       "start_date": "2026-09-14",
       "end_date": "2026-09-14",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "ライブパフォーマンス",
-      "source_url": "https://www.chachatown.com/eventinfo/"
-    },
-    {
-      "title": "INTHEGOOVE Mikazu&Ryo",
-      "venue": "チャチャタウン小倉",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-11",
-      "end_date": "2026-09-11",
       "date_note": null,
       "date_confidence": "exact",
       "family_friendly": true,
@@ -3046,6 +2994,19 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/ward/yahatanishi.html"
     },
     {
+      "title": "みんなの焼肉屋さん大集合！",
+      "venue": "響灘緑地／グリーンパーク",
+      "area": "若松区",
+      "schedule_type": "dated",
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-13",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "多彩な肉料理とスイーツが集まるグルメイベント",
+      "source_url": "https://kitaq.media/142135/"
+    },
+    {
       "title": "小林知弘と仲間たち 映画音楽コンサート",
       "venue": "黒崎ひびしんホール",
       "area": "八幡西区",
@@ -3109,6 +3070,32 @@
       "family_friendly": true,
       "summary": "高校生ガイド付きの歴史・建築まち歩き",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/ward/tobata.html"
+    },
+    {
+      "title": "海峡ファンファーレ",
+      "venue": "カモンワーフ",
+      "area": "下関市",
+      "schedule_type": "recurring",
+      "start_date": null,
+      "end_date": null,
+      "date_note": "9月の毎週土曜日、夕方から花火とステージ",
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "関門海峡背景の花火とステージ、毎週土曜開催",
+      "source_url": "https://kitaq.media/141883/"
+    },
+    {
+      "title": "リバキッズフェスタ2026",
+      "venue": "リバーウォーク北九州(1階エナジーコート)",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-13",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "マルシェ・ワークショップ・縁日など親子で楽しめる",
+      "source_url": "https://kitaq.media/142116/"
     }
   ]
 }
