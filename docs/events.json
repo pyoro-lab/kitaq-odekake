@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-12",
+  "updated_at": "2026-09-13",
   "title": "北九州おでかけ情報まとめ",
-  "count": 238,
+  "count": 235,
   "events": [
     {
       "title": "NUKUMORIマルシェ in JR小倉駅JAM広場",
@@ -43,19 +43,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/contents/v28700004_00001.html"
     },
     {
-      "title": "「TGC KITAKYUSHU 2026 KICK OFF STAGE」",
-      "venue": "小倉駅JAM広場",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-12",
-      "end_date": "2026-09-12",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "YouTuberトークショー・市民モデルオーディション・ライブパフォーマンス",
-      "source_url": "https://www.city.kitakyushu.lg.jp/contents/29200098_00001.html"
-    },
-    {
       "title": "2026北九州国際音楽祭",
       "venue": "北九州市立響ホール",
       "area": "八幡東区",
@@ -82,19 +69,6 @@
       "source_url": "https://shimonoseki.goguynet.jp/2026/09/07/suigetuen/"
     },
     {
-      "title": "Japan Craft beer Weekend",
-      "venue": "勝山公園 大芝生広場",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-11",
-      "end_date": "2026-09-13",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": false,
-      "summary": "12醸造所のクラフトビールと野外映画",
-      "source_url": "https://kitaq.media/142016/"
-    },
-    {
       "title": "ROBO PRIDE show in 九州",
       "venue": "AIM3F",
       "area": "小倉北区",
@@ -119,19 +93,6 @@
       "family_friendly": true,
       "summary": "150万人以上が訪れる北九州市最大級の夏祭。こども夢ステージ、百万踊りが見どころ。",
       "source_url": "https://kitaq.media/140021/"
-    },
-    {
-      "title": "直方市を知る2日間 in 北九州空港",
-      "venue": "北九州空港ターミナルビル1階",
-      "area": "小倉南区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-11",
-      "end_date": "2026-09-12",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "直方の特産品販売や手作り体験",
-      "source_url": "https://kitaq.media/142094/"
     },
     {
       "title": "洋ラン展",
@@ -171,6 +132,32 @@
       "family_friendly": true,
       "summary": "10組超のゲスト出演、名曲を歌唱する大型公開派遣番組の公開収録",
       "source_url": "https://kitaq.media/139747/"
+    },
+    {
+      "title": "Japan Craft beer Weekend",
+      "venue": "勝山公園 大芝生広場",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-09-11",
+      "end_date": "2026-09-13",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": false,
+      "summary": "12醸造所のクラフトビールと野外映画",
+      "source_url": "https://kitaq.media/142205/"
+    },
+    {
+      "title": "蚤の市(秋の熊手めぐり2026)",
+      "venue": "熊手銀天街",
+      "area": "八幡西区",
+      "schedule_type": "dated",
+      "start_date": "2026-09-13",
+      "end_date": "2026-09-13",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "古道具・古着・グルメ20店舗の蚤の市",
+      "source_url": "https://kitaq.media/142153/"
     },
     {
       "title": "旧安川邸 甲斐みのりトークショー「歩いて食べる名建築の旅」",
@@ -303,17 +290,17 @@
       "source_url": "https://hello-kitakyushu.or.jp/event/"
     },
     {
-      "title": "秋季大祭・なごみマルシェ",
-      "venue": "小田山神社",
-      "area": "若松区",
+      "title": "黄金でフリマ！",
+      "venue": "こがね市場商店街",
+      "area": "小倉北区",
       "schedule_type": "dated",
-      "start_date": "2026-09-12",
-      "end_date": "2026-09-12",
+      "start_date": "2026-09-13",
+      "end_date": "2026-09-13",
       "date_note": null,
       "date_confidence": "exact",
       "family_friendly": true,
-      "summary": "秋祭りとマルシェ、キッチンカーやスタンプラリーも",
-      "source_url": "https://kitaq.media/142108/"
+      "summary": "毎月第2日曜開催のフリーマーケット",
+      "source_url": "https://kitaq.media/142190/"
     },
     {
       "title": "第31回北九州将棋フェスティバル",
@@ -456,19 +443,6 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "絵画教室の作品展示",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260815/infostation/goout.html"
-    },
-    {
-      "title": "外国人と英語でコミュニケーション",
-      "venue": "ユースステーション",
-      "area": "八幡西区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-12",
-      "end_date": "2026-09-12",
-      "date_note": "対象：中学生以上の学生",
-      "date_confidence": "exact",
-      "family_friendly": false,
-      "summary": "外国出身者との英語交流",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260815/infostation/goout.html"
     },
     {
@@ -678,19 +652,6 @@
       "family_friendly": true,
       "summary": "漫画道具・タブレット・塗り絵体験",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260815/infostation/event.html"
-    },
-    {
-      "title": "転職プラザ×就活プラザ in 北九州",
-      "venue": "AIM3F",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-12",
-      "end_date": "2026-09-12",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": false,
-      "summary": "企業・団体が出展する就職説明会",
-      "source_url": "https://hello-kitakyushu.or.jp/event/"
     },
     {
       "title": "北九州ミュージックプロムナード",
