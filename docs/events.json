@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-14",
+  "updated_at": "2026-09-15",
   "title": "北九州おでかけ情報まとめ",
-  "count": 162,
+  "count": 164,
   "events": [
     {
       "title": "NUKUMORIマルシェ in JR小倉駅JAM広場",
@@ -316,6 +316,19 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260815/infostation/event.html"
     },
     {
+      "title": "企画展「松本昌太郎 鉄道の記憶」",
+      "venue": "九州鉄道記念館",
+      "area": "門司区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-14",
+      "end_date": "2026-10-14",
+      "date_note": "10月14日まで(開始日は記事に記載なし)",
+      "date_confidence": "estimated",
+      "family_friendly": true,
+      "summary": "鉄道写真約150点を展示する企画展",
+      "source_url": "https://kitaq.media/141920/"
+    },
+    {
       "title": "漫画ミュージアム「漫画体験」",
       "venue": "漫画ミュージアム",
       "area": "小倉北区",
@@ -327,6 +340,19 @@
       "family_friendly": true,
       "summary": "漫画道具・タブレット・塗り絵体験",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260815/infostation/event.html"
+    },
+    {
+      "title": "2026駅長対抗 ご当地カレー総選挙 決勝戦",
+      "venue": "門司港駅前広場",
+      "area": "門司区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-28",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "九州各駅長と名店がご当地カレーで競う決勝イベント",
+      "source_url": "https://kitaq.media/141792/"
     },
     {
       "title": "小倉ハンドメイドマルシェ2026",
