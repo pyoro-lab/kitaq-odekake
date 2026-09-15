@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-15",
+  "updated_at": "2026-09-16",
   "title": "北九州おでかけ情報まとめ",
-  "count": 164,
+  "count": 171,
   "events": [
     {
       "title": "NUKUMORIマルシェ in JR小倉駅JAM広場",
@@ -1226,6 +1226,19 @@
       "source_url": "https://kitaq.media/141144/"
     },
     {
+      "title": "北九州都市圏域マルシェin小倉駅JAM広場",
+      "venue": "JR小倉駅3階JAM広場",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-20",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "近隣市町の特産品やスイーツを楽しめるマルシェ",
+      "source_url": "https://www.city.kitakyushu.lg.jp/contents/285_00059.html"
+    },
+    {
       "title": "平尾台の自然に親しむ登山",
       "venue": "平尾台自然観察センター駐車場",
       "area": "小倉南区",
@@ -1289,6 +1302,19 @@
       "family_friendly": true,
       "summary": "家具・インテリア展示会",
       "source_url": "https://hello-kitakyushu.or.jp/event/"
+    },
+    {
+      "title": "みずべのゆうぐれコンサート",
+      "venue": "紫川親水広場",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-09-25",
+      "end_date": "2026-09-25",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "紫川沿いで夕暮れ時の無料コンサート",
+      "source_url": "https://www.city.kitakyushu.lg.jp/contents/v051_00007.html"
     },
     {
       "title": "脇田海釣り桟橋 親子釣り大会",
@@ -1746,6 +1772,19 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/event.html"
     },
     {
+      "title": "ふれあいカヌー大会inわっしょい百万夏まつり",
+      "venue": "紫川(勝山公園横水上ステージ)",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-19",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "紫川で親子参加できるカヌー大会・体験教室",
+      "source_url": "https://www.city.kitakyushu.lg.jp/contents/v051_00008.html"
+    },
+    {
       "title": "秋のいとうづの森調査隊",
       "venue": "到津の森公園",
       "area": "小倉北区",
@@ -2058,6 +2097,19 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/ward/yahatanishi.html"
     },
     {
+      "title": "【水環境館】絵本のじかん",
+      "venue": "水環境館",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-09-18",
+      "end_date": "2026-09-18",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "絵本や手あそびを楽しむ幼児向け催し",
+      "source_url": "https://www.city.kitakyushu.lg.jp/contents/v051_00009.html"
+    },
+    {
       "title": "小林知弘と仲間たち 映画音楽コンサート",
       "venue": "黒崎ひびしんホール",
       "area": "八幡西区",
@@ -2134,6 +2186,45 @@
       "family_friendly": true,
       "summary": "関門海峡背景の花火とステージ、毎週土曜開催",
       "source_url": "https://kitaq.media/141883/"
+    },
+    {
+      "title": "紫川でカヌー体験",
+      "venue": "紫川",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-04",
+      "date_note": "10月3日・4日・10日・11日開催",
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "紫川を水上散歩できるカヌー体験",
+      "source_url": "https://www.city.kitakyushu.lg.jp/contents/v051_00010.html"
+    },
+    {
+      "title": "紫川でカヌー体験",
+      "venue": "紫川",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-10",
+      "end_date": "2026-10-11",
+      "date_note": "10月3日・4日・10日・11日開催",
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "紫川を水上散歩できるカヌー体験",
+      "source_url": "https://www.city.kitakyushu.lg.jp/contents/v051_00010.html"
+    },
+    {
+      "title": "北九州国際映画祭",
+      "venue": null,
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2027-03-12",
+      "end_date": "2027-03-14",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": null,
+      "summary": "北九州出身俳優がナビゲーターの映画祭、来年3月開催",
+      "source_url": "https://kitaq.media/142387/"
     }
   ]
 }
