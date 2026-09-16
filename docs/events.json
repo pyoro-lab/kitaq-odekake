@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-16",
+  "updated_at": "2026-09-17",
   "title": "北九州おでかけ情報まとめ",
-  "count": 171,
+  "count": 172,
   "events": [
     {
       "title": "NUKUMORIマルシェ in JR小倉駅JAM広場",
@@ -69,19 +69,6 @@
       "source_url": "https://shimonoseki.goguynet.jp/2026/09/07/suigetuen/"
     },
     {
-      "title": "ROBO PRIDE show in 九州",
-      "venue": "AIM3F",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-15",
-      "end_date": "2026-09-16",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "ヒューマノイドやロボット展示・デモ",
-      "source_url": "https://hello-kitakyushu.or.jp/event/"
-    },
-    {
       "title": "わっしょい百万夏まつり",
       "venue": "小文字通りほか",
       "area": "小倉北区",
@@ -93,6 +80,19 @@
       "family_friendly": true,
       "summary": "150万人以上が訪れる北九州市最大級の夏祭。こども夢ステージ、百万踊りが見どころ。",
       "source_url": "https://kitaq.media/140021/"
+    },
+    {
+      "title": "門司港アニマル展",
+      "venue": "大連友好記念館2階",
+      "area": "門司区",
+      "schedule_type": "dated",
+      "start_date": "2026-09-18",
+      "end_date": "2026-09-23",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "動物モチーフの作品を集めたアート展、入場無料",
+      "source_url": "https://kitaq.media/142449/"
     },
     {
       "title": "旧安川邸 甲斐みのりトークショー「歩いて食べる名建築の旅」",
@@ -288,6 +288,19 @@
       "family_friendly": true,
       "summary": "貨物列車の運転シミュレーター体験",
       "source_url": "https://kitaq.media/141612/"
+    },
+    {
+      "title": "リバーウォーク北九州にキッチンカーがやってくる！",
+      "venue": "リバーウォーク北九州 1階インフォメーション横 三角広場",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-08-28",
+      "end_date": "2026-09-30",
+      "date_note": "9月30日まで開催中",
+      "date_confidence": "estimated",
+      "family_friendly": true,
+      "summary": "うどん・唐揚げなど3店のキッチンカーが集結",
+      "source_url": "https://kitaq.media/142280/"
     },
     {
       "title": "邸宅ランチ「天ざるとそば羊羹」",
