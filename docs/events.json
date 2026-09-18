@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-18",
+  "updated_at": "2026-09-19",
   "title": "北九州おでかけ情報まとめ",
-  "count": 176,
+  "count": 174,
   "events": [
     {
       "title": "NUKUMORIマルシェ in JR小倉駅JAM広場",
@@ -54,19 +54,6 @@
       "family_friendly": false,
       "summary": "世界的演奏家が集う国際音楽祭",
       "source_url": "https://kitaq.media/141831/"
-    },
-    {
-      "title": "ハート型の布リース作り",
-      "venue": "喫茶水月苑(小月パン工房)",
-      "area": "下関市",
-      "schedule_type": "dated",
-      "start_date": "2026-09-18",
-      "end_date": "2026-09-18",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": false,
-      "summary": "布のハート型リース作り体験、昭和プリン付き",
-      "source_url": "https://shimonoseki.goguynet.jp/2026/09/07/suigetuen/"
     },
     {
       "title": "門司港アニマル展",
@@ -392,19 +379,6 @@
       "family_friendly": true,
       "summary": "防災学習イベント",
       "source_url": "https://riverwalk.co.jp/event/"
-    },
-    {
-      "title": "漫画読書会「あなたの推しマンガを紹介しよう！」",
-      "venue": "北九州漫画ミュージアム",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-18",
-      "end_date": "2026-09-18",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": false,
-      "summary": "中学生以上対象の漫画読書会",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/goout.html"
     },
     {
       "title": "漫画スクール「服の描き方」",
@@ -2136,19 +2110,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/ward/yahatanishi.html"
     },
     {
-      "title": "【水環境館】絵本のじかん",
-      "venue": "水環境館",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-18",
-      "end_date": "2026-09-18",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "絵本や手あそびを楽しむ幼児向け催し",
-      "source_url": "https://www.city.kitakyushu.lg.jp/contents/v051_00009.html"
-    },
-    {
       "title": "小林知弘と仲間たち 映画音楽コンサート",
       "venue": "黒崎ひびしんホール",
       "area": "八幡西区",
@@ -2290,6 +2251,19 @@
       "family_friendly": true,
       "summary": "150万人以上が訪れる北九州市最大級の夏祭。こども夢ステージ、百万踊りが見どころ。",
       "source_url": "https://kitaq.media/142520/"
+    },
+    {
+      "title": "門司港レトロ ナイトビアガーデン＆門司港カーブーツ",
+      "venue": "門司港レトロ中央広場",
+      "area": "門司区",
+      "schedule_type": "dated",
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-23",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "生ビール7種とフリマを楽しむ夜イベント",
+      "source_url": "https://kitaq.media/142536/"
     }
   ]
 }
