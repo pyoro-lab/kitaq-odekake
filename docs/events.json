@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-19",
+  "updated_at": "2026-09-20",
   "title": "北九州おでかけ情報まとめ",
-  "count": 174,
+  "count": 176,
   "events": [
     {
       "title": "NUKUMORIマルシェ in JR小倉駅JAM広場",
@@ -144,7 +144,7 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "陶芸をテーマにした総合展示会",
-      "source_url": "https://hello-kitakyushu.or.jp/event/"
+      "source_url": "https://kitaq.media/142706/"
     },
     {
       "title": "（株）上海堂 展示会（書道用品販売）",
@@ -368,19 +368,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/goout.html"
     },
     {
-      "title": "お天気キャスターと防災について学ぼう！",
-      "venue": "リバーウォーク北九州",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-19",
-      "end_date": "2026-09-19",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "防災学習イベント",
-      "source_url": "https://riverwalk.co.jp/event/"
-    },
-    {
       "title": "漫画スクール「服の描き方」",
       "venue": "北九州漫画ミュージアム",
       "area": "小倉北区",
@@ -443,32 +430,6 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "ヒガンバナなど約150点の秋の山野草展示",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/goout.html"
-    },
-    {
-      "title": "自転車運転免許講習会",
-      "venue": "交通公園",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-19",
-      "end_date": "2026-09-19",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "小学生以上対象、免許証交付",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/goout.html"
-    },
-    {
-      "title": "高齢者運転シミュレーター体験教室",
-      "venue": "交通公園",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-19",
-      "end_date": "2026-09-19",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": false,
-      "summary": "65歳以上向け、運転シミュレーター体験",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/goout.html"
     },
     {
@@ -795,19 +756,6 @@
       "family_friendly": true,
       "summary": "乳児と保護者の友達づくり交流会",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/event.html"
-    },
-    {
-      "title": "小倉工場鉄道ランド特別ツアー",
-      "venue": "JR小倉総合車両センター",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-19",
-      "end_date": "2026-09-19",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "工場見学・車内放送体験・配線作業体験など鉄道技術を学べるツアー",
-      "source_url": "https://kitaq.media/141511/"
     },
     {
       "title": "山田緑地「バードウォッチング」",
@@ -1785,19 +1733,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/event.html"
     },
     {
-      "title": "ふれあいカヌー大会inわっしょい百万夏まつり",
-      "venue": "紫川(勝山公園横水上ステージ)",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-19",
-      "end_date": "2026-09-19",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "紫川で親子参加できるカヌー大会・体験教室",
-      "source_url": "https://www.city.kitakyushu.lg.jp/contents/v051_00008.html"
-    },
-    {
       "title": "秋のいとうづの森調査隊",
       "venue": "到津の森公園",
       "area": "小倉北区",
@@ -2264,6 +2199,97 @@
       "family_friendly": true,
       "summary": "生ビール7種とフリマを楽しむ夜イベント",
       "source_url": "https://kitaq.media/142536/"
+    },
+    {
+      "title": "小倉クリスマスマーケット＆キャッスル",
+      "venue": "紫川周辺",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-20",
+      "end_date": "2026-12-25",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "小倉のクリスマスマーケットと点灯式",
+      "source_url": "https://www.city.kitakyushu.lg.jp/contents/081_00014.html"
+    },
+    {
+      "title": "紫川ナイトスペクタクル",
+      "venue": "紫川親水広場",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-20",
+      "end_date": "2026-12-25",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "紫川で楽しむ光と音の夜間ショー",
+      "source_url": "https://www.city.kitakyushu.lg.jp/contents/081_00014.html"
+    },
+    {
+      "title": "小倉イルミネーション",
+      "venue": "鷗外橋、紫川河畔ほか",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-20",
+      "end_date": "2027-01-11",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "紫川沿いを彩る冬のイルミネーション",
+      "source_url": "https://www.city.kitakyushu.lg.jp/contents/081_00014.html"
+    },
+    {
+      "title": "ギラヴァンツフェスティバル(ギラフェス)2026",
+      "venue": "ミクニワールドスタジアム北九州",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-03",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "対高知ユナイテッド戦、フィナーレは花火600発",
+      "source_url": "https://kitaq.media/142740/"
+    },
+    {
+      "title": "動物愛護デーイベント＆花農丘公園ドッグフェスタ・オータムフェスタ",
+      "venue": "花農丘公園(北九州市立総合農事センター)",
+      "area": "小倉南区",
+      "schedule_type": "dated",
+      "start_date": "2026-09-23",
+      "end_date": "2026-09-23",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "ヤギ等のえさやり体験や犬雑貨マルシェ、グルメ販売",
+      "source_url": "https://kitaq.media/142542/"
+    },
+    {
+      "title": "戦国武将ステージショー",
+      "venue": "サニーサイドモール小倉",
+      "area": "小倉南区",
+      "schedule_type": "dated",
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-22",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "さが戦国武将隊のステージ、手裏剣・忍者服体験も",
+      "source_url": "https://kitaq.media/142531/"
+    },
+    {
+      "title": "猫面作りワークショップ",
+      "venue": "サニーサイドモール小倉",
+      "area": "小倉南区",
+      "schedule_type": "dated",
+      "start_date": "2026-09-22",
+      "end_date": "2026-09-22",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "オリジナル猫面を作れる、先着100人・参加費300円",
+      "source_url": "https://kitaq.media/142531/"
     }
   ]
 }
