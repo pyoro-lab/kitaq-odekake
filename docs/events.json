@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-20",
+  "updated_at": "2026-09-21",
   "title": "北九州おでかけ情報まとめ",
-  "count": 176,
+  "count": 171,
   "events": [
     {
       "title": "NUKUMORIマルシェ in JR小倉駅JAM広場",
@@ -54,6 +54,19 @@
       "family_friendly": false,
       "summary": "世界的演奏家が集う国際音楽祭",
       "source_url": "https://kitaq.media/141831/"
+    },
+    {
+      "title": "門司港バナちゃん大会2026",
+      "venue": "旧門司税関前 特設ステージ",
+      "area": "門司区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-11",
+      "end_date": "2026-10-11",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "バナナの叩き売りを体験できる秋の恒例イベント",
+      "source_url": "https://kitaq.media/142485/"
     },
     {
       "title": "門司港アニマル展",
@@ -420,32 +433,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/goout.html"
     },
     {
-      "title": "早咲き秋の山野草展",
-      "venue": "総合農事センター",
-      "area": "小倉南区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-19",
-      "end_date": "2026-09-20",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "ヒガンバナなど約150点の秋の山野草展示",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/goout.html"
-    },
-    {
-      "title": "わくわくサイエンスフェスタ",
-      "venue": "スペースLABO、スペースLABO ANNEX",
-      "area": "八幡東区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-20",
-      "end_date": "2026-09-20",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "科学体験イベント、館長サイエンスひろば開催",
-      "source_url": "https://kitaq.media/141780/"
-    },
-    {
       "title": "フィギュア造形ワークショップ",
       "venue": "ミクニワールドスタジアム北九州",
       "area": "小倉北区",
@@ -732,19 +719,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/event.html"
     },
     {
-      "title": "Chill Hawaiian Days",
-      "venue": "イオンモール八幡東",
-      "area": "八幡東区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-19",
-      "end_date": "2026-09-20",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "ハワイ文化・フラ音楽を楽しむイベント",
-      "source_url": "https://kitaq.media/142620/"
-    },
-    {
       "title": "子どもの館「赤ちゃん同窓会47～49期大集合！」",
       "venue": "子どもの館",
       "area": "八幡西区",
@@ -795,19 +769,6 @@
       "family_friendly": false,
       "summary": "万年青（オモト）の名品約150点を展示",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/goout.html"
-    },
-    {
-      "title": "北九州台湾祭 バナナロード",
-      "venue": "ZATTA ZISSE（ザッタジッセ）",
-      "area": "門司区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-18",
-      "end_date": "2026-09-20",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "台湾本格グルメと遊び体験の祭り",
-      "source_url": "https://kitaq.media/142526/"
     },
     {
       "title": "バスの運転体験会",
@@ -1185,19 +1146,6 @@
       "family_friendly": true,
       "summary": "歌の魅力を発信。音楽団体による合唱ステージ披露",
       "source_url": "https://kitaq.media/141144/"
-    },
-    {
-      "title": "北九州都市圏域マルシェin小倉駅JAM広場",
-      "venue": "JR小倉駅3階JAM広場",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-19",
-      "end_date": "2026-09-20",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "近隣市町の特産品やスイーツを楽しめるマルシェ",
-      "source_url": "https://www.city.kitakyushu.lg.jp/contents/285_00059.html"
     },
     {
       "title": "平尾台の自然に親しむ登山",
@@ -2107,7 +2055,7 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "高校生ガイド付きの歴史・建築まち歩き",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/ward/tobata.html"
+      "source_url": "https://kitaq.media/142128/"
     },
     {
       "title": "海峡ファンファーレ",
@@ -2173,19 +2121,6 @@
       "family_friendly": false,
       "summary": "西鉄バス運転体験・応募制",
       "source_url": "https://kitaq.media/142506/"
-    },
-    {
-      "title": "わっしょい百万夏まつり",
-      "venue": "小文字通りほか",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-19",
-      "end_date": "2026-09-20",
-      "date_note": "記事では「2日間」と記載。詳細日程は文中未記載のため推定",
-      "date_confidence": "estimated",
-      "family_friendly": true,
-      "summary": "150万人以上が訪れる北九州市最大級の夏祭。こども夢ステージ、百万踊りが見どころ。",
-      "source_url": "https://kitaq.media/142520/"
     },
     {
       "title": "門司港レトロ ナイトビアガーデン＆門司港カーブーツ",
