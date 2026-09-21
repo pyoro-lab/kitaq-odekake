@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-21",
+  "updated_at": "2026-09-22",
   "title": "北九州おでかけ情報まとめ",
-  "count": 171,
+  "count": 172,
   "events": [
     {
       "title": "NUKUMORIマルシェ in JR小倉駅JAM広場",
@@ -80,6 +80,19 @@
       "family_friendly": true,
       "summary": "動物モチーフの作品を集めたアート展、入場無料",
       "source_url": "https://kitaq.media/142449/"
+    },
+    {
+      "title": "企画展「終わらない戦争ー傷つけ／傷つけられたものたちー」",
+      "venue": "北九州市平和のまちミュージアム",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2027-01-17",
+      "end_date": "2027-01-17",
+      "date_note": "会期は来年1月17日まで(記事時点で開催中)",
+      "date_confidence": "estimated",
+      "family_friendly": null,
+      "summary": "漫画『生きとし生ける』取材資料を展示する企画展",
+      "source_url": "https://kitaq.media/142496/"
     },
     {
       "title": "旧安川邸 甲斐みのりトークショー「歩いて食べる名建築の旅」",
@@ -1223,7 +1236,7 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "紫川沿いで夕暮れ時の無料コンサート",
-      "source_url": "https://www.city.kitakyushu.lg.jp/contents/v051_00007.html"
+      "source_url": "https://kitaq.media/142668/"
     },
     {
       "title": "脇田海釣り桟橋 親子釣り大会",
