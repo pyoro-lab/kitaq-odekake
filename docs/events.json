@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-22",
+  "updated_at": "2026-09-23",
   "title": "北九州おでかけ情報まとめ",
-  "count": 172,
+  "count": 167,
   "events": [
     {
       "title": "NUKUMORIマルシェ in JR小倉駅JAM広場",
@@ -93,19 +93,6 @@
       "family_friendly": null,
       "summary": "漫画『生きとし生ける』取材資料を展示する企画展",
       "source_url": "https://kitaq.media/142496/"
-    },
-    {
-      "title": "旧安川邸 甲斐みのりトークショー「歩いて食べる名建築の旅」",
-      "venue": "旧安川邸",
-      "area": "戸畑区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-22",
-      "end_date": "2026-09-22",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": false,
-      "summary": "テレビドラマ原作者のトークショー",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260801/infostation/goout.html"
     },
     {
       "title": "新属新種クモヒトデ化石 特別公開",
@@ -443,19 +430,6 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "和菓子職人による手作り和菓子体験",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/goout.html"
-    },
-    {
-      "title": "フィギュア造形ワークショップ",
-      "venue": "ミクニワールドスタジアム北九州",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-20",
-      "end_date": "2026-09-22",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "粘土造形、焼成して持ち帰り可、1000円",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/goout.html"
     },
     {
@@ -1029,19 +1003,6 @@
       "family_friendly": false,
       "summary": "押花とレカンフラワーの作品展",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/goout.html"
-    },
-    {
-      "title": "シャボン玉パフォーマンス",
-      "venue": "チャチャタウン小倉",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-22",
-      "end_date": "2026-09-22",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "子ども向けシャボン玉パフォーマンス",
-      "source_url": "https://www.chachatown.com/eventinfo/"
     },
     {
       "title": "小川洋一郎 LIVE",
@@ -2212,32 +2173,6 @@
       "family_friendly": true,
       "summary": "ヤギ等のえさやり体験や犬雑貨マルシェ、グルメ販売",
       "source_url": "https://kitaq.media/142542/"
-    },
-    {
-      "title": "戦国武将ステージショー",
-      "venue": "サニーサイドモール小倉",
-      "area": "小倉南区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-21",
-      "end_date": "2026-09-22",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "さが戦国武将隊のステージ、手裏剣・忍者服体験も",
-      "source_url": "https://kitaq.media/142531/"
-    },
-    {
-      "title": "猫面作りワークショップ",
-      "venue": "サニーサイドモール小倉",
-      "area": "小倉南区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-22",
-      "end_date": "2026-09-22",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "オリジナル猫面を作れる、先着100人・参加費300円",
-      "source_url": "https://kitaq.media/142531/"
     }
   ]
 }
