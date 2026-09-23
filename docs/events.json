@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-23",
+  "updated_at": "2026-09-24",
   "title": "北九州おでかけ情報まとめ",
-  "count": 167,
+  "count": 157,
   "events": [
     {
       "title": "NUKUMORIマルシェ in JR小倉駅JAM広場",
@@ -69,19 +69,6 @@
       "source_url": "https://kitaq.media/142485/"
     },
     {
-      "title": "門司港アニマル展",
-      "venue": "大連友好記念館2階",
-      "area": "門司区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-18",
-      "end_date": "2026-09-23",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "動物モチーフの作品を集めたアート展、入場無料",
-      "source_url": "https://kitaq.media/142449/"
-    },
-    {
       "title": "企画展「終わらない戦争ー傷つけ／傷つけられたものたちー」",
       "venue": "北九州市平和のまちミュージアム",
       "area": "小倉北区",
@@ -95,17 +82,43 @@
       "source_url": "https://kitaq.media/142496/"
     },
     {
-      "title": "新属新種クモヒトデ化石 特別公開",
-      "venue": "いのちのたび博物館",
-      "area": "八幡東区",
+      "title": "熊手夜市 超縁日2026",
+      "venue": "熊手銀天街",
+      "area": "八幡西区",
       "schedule_type": "dated",
-      "start_date": "2026-09-13",
-      "end_date": "2026-09-23",
-      "date_note": "9月23日まで特別公開中",
-      "date_confidence": "estimated",
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-27",
+      "date_note": null,
+      "date_confidence": "exact",
       "family_friendly": true,
-      "summary": "新種化石の特別公開展示",
-      "source_url": "https://kitaq.media/142337/"
+      "summary": "商店街の縁日グルメとステージイベント",
+      "source_url": "https://kitaq.media/142639/"
+    },
+    {
+      "title": "coffee Bird",
+      "venue": "魚町みらい広場",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-27",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "県内外のコーヒー店とスイーツが集まるイベント",
+      "source_url": "https://kitaq.media/142413/"
+    },
+    {
+      "title": "第20回 関門よさこい大会",
+      "venue": "門司港駅前広場・親水広場(下関市唐戸地区でも同時開催)",
+      "area": "門司区",
+      "schedule_type": "dated",
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-26",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "門司港と下関唐戸で同時開催のよさこい祭り",
+      "source_url": "https://kitaq.media/142431/"
     },
     {
       "title": "耶馬渓ダム見学バスツアー",
@@ -145,19 +158,6 @@
       "family_friendly": true,
       "summary": "マンガ・アニメ・ゲームの祭典。声優トークショー、ライブステージ、コスプレイベント",
       "source_url": "https://kitaq.media/141542/"
-    },
-    {
-      "title": "第48回 西日本陶磁器フェスタ",
-      "venue": "西日本総合展示場・北九州メッセ",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-18",
-      "end_date": "2026-09-23",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "陶芸をテーマにした総合展示会",
-      "source_url": "https://kitaq.media/142706/"
     },
     {
       "title": "（株）上海堂 展示会（書道用品販売）",
@@ -875,58 +875,6 @@
       "source_url": "https://artne.jp/event"
     },
     {
-      "title": "しらぬ ひ 興梠優護 個展 Yugo Kohrogi | Beyond Boundaries",
-      "venue": "宇城市不知火美術館",
-      "area": "宇城市",
-      "schedule_type": "dated",
-      "start_date": "2026-07-16",
-      "end_date": "2026-09-23",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "興梠優護の個展",
-      "source_url": "https://artne.jp/event"
-    },
-    {
-      "title": "Hello Kitty展 -わたしが変わるとキティも変わる-",
-      "venue": "大分県立美術館(OPAM)",
-      "area": "大分市",
-      "schedule_type": "dated",
-      "start_date": "2026-07-17",
-      "end_date": "2026-09-23",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "ハローキティの企画展",
-      "source_url": "https://artne.jp/event"
-    },
-    {
-      "title": "特別展 国宝リボーン 高精細複製画が綴る、美の夢",
-      "venue": "大分市美術館",
-      "area": "大分市",
-      "schedule_type": "dated",
-      "start_date": "2026-07-17",
-      "end_date": "2026-09-23",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "国宝の高精細複製画展",
-      "source_url": "https://artne.jp/event"
-    },
-    {
-      "title": "2026年度特別企画展 落合陽一｜天孫帰るってよ？",
-      "venue": "鹿児島県霧島アートの森",
-      "area": "霧島市",
-      "schedule_type": "dated",
-      "start_date": "2026-07-11",
-      "end_date": "2026-09-23",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "落合陽一の企画展",
-      "source_url": "https://artne.jp/event"
-    },
-    {
       "title": "Yamaguchi Seasonal 2026／坂本龍一＋YCAM Forest Symphony",
       "venue": "常栄寺",
       "area": "山口市",
@@ -937,19 +885,6 @@
       "date_confidence": "exact",
       "family_friendly": null,
       "summary": "坂本龍一のアート企画",
-      "source_url": "https://artne.jp/event"
-    },
-    {
-      "title": "開館30周年記念 This is SUEKI ―古代のカタチ、無限大！",
-      "venue": "山口県立萩美術館・浦上記念館",
-      "area": "萩市",
-      "schedule_type": "dated",
-      "start_date": "2026-07-03",
-      "end_date": "2026-09-23",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "須恵器の企画展",
       "source_url": "https://artne.jp/event"
     },
     {
@@ -1042,19 +977,6 @@
       "family_friendly": true,
       "summary": "北九州高専の学校祭。学校説明会も同時開催",
       "source_url": "https://www.kct.ac.jp/campuslife/schedule"
-    },
-    {
-      "title": "夏季特別展「もっと！こどもの視展～こどもになる12の体験～」",
-      "venue": "大野城心のふるさと館",
-      "area": "大野城市",
-      "schedule_type": "dated",
-      "start_date": "2026-07-14",
-      "end_date": "2026-09-23",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "子ども視点の体験型展覧会",
-      "source_url": "https://artne.jp/event"
     },
     {
       "title": "特別展「氷河期展～人類が見た4万年前の世界～」",
@@ -1172,19 +1094,6 @@
       "family_friendly": true,
       "summary": "葉っぱ切り絵の展示会。邸宅ミュージアム企画",
       "source_url": "https://kitaq.media/140711/"
-    },
-    {
-      "title": "ファニチャーメッセ in KOKURA 2026",
-      "venue": "北九州メッセ",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-19",
-      "end_date": "2026-09-23",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "家具・インテリア展示会",
-      "source_url": "https://hello-kitakyushu.or.jp/event/"
     },
     {
       "title": "みずべのゆうぐれコンサート",
@@ -1642,19 +1551,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/event.html"
     },
     {
-      "title": "シルバーウイーク特別開園・夜間イベント",
-      "venue": "到津の森公園",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-19",
-      "end_date": "2026-09-23",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "20時まで開園延長、キツネザルツアーやナイトバブルショー",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/event.html"
-    },
-    {
       "title": "秋のいとうづの森調査隊",
       "venue": "到津の森公園",
       "area": "小倉北区",
@@ -2097,19 +1993,6 @@
       "source_url": "https://kitaq.media/142506/"
     },
     {
-      "title": "門司港レトロ ナイトビアガーデン＆門司港カーブーツ",
-      "venue": "門司港レトロ中央広場",
-      "area": "門司区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-19",
-      "end_date": "2026-09-23",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "生ビール7種とフリマを楽しむ夜イベント",
-      "source_url": "https://kitaq.media/142536/"
-    },
-    {
       "title": "小倉クリスマスマーケット＆キャッスル",
       "venue": "紫川周辺",
       "area": "小倉北区",
@@ -2160,19 +2043,6 @@
       "family_friendly": true,
       "summary": "対高知ユナイテッド戦、フィナーレは花火600発",
       "source_url": "https://kitaq.media/142740/"
-    },
-    {
-      "title": "動物愛護デーイベント＆花農丘公園ドッグフェスタ・オータムフェスタ",
-      "venue": "花農丘公園(北九州市立総合農事センター)",
-      "area": "小倉南区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-23",
-      "end_date": "2026-09-23",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "ヤギ等のえさやり体験や犬雑貨マルシェ、グルメ販売",
-      "source_url": "https://kitaq.media/142542/"
     }
   ]
 }
