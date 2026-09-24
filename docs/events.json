@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-24",
+  "updated_at": "2026-09-25",
   "title": "北九州おでかけ情報まとめ",
-  "count": 157,
+  "count": 159,
   "events": [
     {
       "title": "NUKUMORIマルシェ in JR小倉駅JAM広場",
@@ -147,6 +147,19 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260801/infostation/event.html"
     },
     {
+      "title": "みんなの串もんパラダイス",
+      "venue": "響灘緑地/グリーンパーク",
+      "area": "若松区",
+      "schedule_type": "dated",
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-27",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "串焼き・スイーツが集まるグルメイベント",
+      "source_url": "https://kitaq.media/142652/"
+    },
+    {
       "title": "KPF（北九州ポップカルチャーフェスティバル）2026",
       "venue": "北九州メッセ、あるあるCity 他",
       "area": "小倉北区",
@@ -184,6 +197,19 @@
       "family_friendly": true,
       "summary": "プロ棋士による指導対局・トークショー",
       "source_url": "https://hello-kitakyushu.or.jp/event/"
+    },
+    {
+      "title": "段ボール迷路お化け屋敷",
+      "venue": "サニーサイドモール小倉",
+      "area": "小倉南区",
+      "schedule_type": "dated",
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-27",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "段ボール迷路のお化け屋敷ゲーム",
+      "source_url": "https://kitaq.media/142440/"
     },
     {
       "title": "第16回北九州風景街道フォト＆アートコンテスト 応募締切",
@@ -365,7 +391,7 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "全国クリエイター1100ブース出店ハンドメイド",
-      "source_url": "https://hello-kitakyushu.or.jp/event/"
+      "source_url": "https://kitaq.media/142460/"
     },
     {
       "title": "お手軽工作「ハーバリウムのボールペンをつくろう」",
