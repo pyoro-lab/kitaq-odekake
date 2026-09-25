@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-25",
+  "updated_at": "2026-09-26",
   "title": "北九州おでかけ情報まとめ",
-  "count": 159,
+  "count": 163,
   "events": [
     {
       "title": "NUKUMORIマルシェ in JR小倉駅JAM広場",
@@ -183,20 +183,7 @@
       "date_confidence": "exact",
       "family_friendly": false,
       "summary": "書道用品の展示会",
-      "source_url": "https://hello-kitakyushu.or.jp/event/"
-    },
-    {
-      "title": "第31回北九州将棋フェスティバル",
-      "venue": "会議場",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-17",
-      "end_date": "2026-10-18",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "プロ棋士による指導対局・トークショー",
-      "source_url": "https://hello-kitakyushu.or.jp/event/"
+      "source_url": "https://kitaq.media/142422/"
     },
     {
       "title": "段ボール迷路お化け屋敷",
@@ -223,6 +210,19 @@
       "family_friendly": true,
       "summary": "フォト部門は2Lサイズ現像+JPEG2〜5MB・一人2作品まで。テーマは「祭りで活気づく風景街道」「乗り物や車窓から見える風景」。撮り方の下調べは /wiki の memex-photo-contest",
       "source_url": "https://www.city.kitakyushu.lg.jp/contents/v05600047.html"
+    },
+    {
+      "title": "北九州・映像の記憶(上映会)",
+      "venue": "北九州市立折尾まちづくり記念館",
+      "area": "八幡西区",
+      "schedule_type": "dated",
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-26",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": false,
+      "summary": "民俗行事・折尾神楽の記録映像を上映",
+      "source_url": "https://www.city.kitakyushu.lg.jp/contents/v121_00002.html"
     },
     {
       "title": "和菓子の道具展",
@@ -381,17 +381,30 @@
       "source_url": "https://kitaq.media/141792/"
     },
     {
-      "title": "小倉ハンドメイドマルシェ2026",
-      "venue": "北九州メッセ",
+      "title": "台湾祭 in 北九州2026",
+      "venue": "船場広場・小倉井筒屋本館新館間クロスロード",
       "area": "小倉北区",
       "schedule_type": "dated",
       "start_date": "2026-09-26",
-      "end_date": "2026-09-27",
+      "end_date": "2026-10-12",
       "date_note": null,
       "date_confidence": "exact",
       "family_friendly": true,
-      "summary": "全国クリエイター1100ブース出店ハンドメイド",
-      "source_url": "https://kitaq.media/142460/"
+      "summary": "台湾各地の夜市グルメを楽しめる祭り",
+      "source_url": "https://kitaq.media/142629/"
+    },
+    {
+      "title": "小石ちょうちん山笠まつり",
+      "venue": "小石小学校",
+      "area": "若松区",
+      "schedule_type": "dated",
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-26",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "高さ12段の提灯山笠と子ども山笠が巡行",
+      "source_url": "https://kitaq.media/142679/"
     },
     {
       "title": "お手軽工作「ハーバリウムのボールペンをつくろう」",
@@ -405,6 +418,19 @@
       "family_friendly": true,
       "summary": "ハーバリウム入りボールペンづくり体験",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/goout.html"
+    },
+    {
+      "title": "東谷マーケット2026",
+      "venue": "東谷興農会グラウンド",
+      "area": "小倉南区",
+      "schedule_type": "dated",
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-26",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "マルシェ・こども縁日・グルメが揃う市",
+      "source_url": "https://kitaq.media/142674/"
     },
     {
       "title": "漫画スクール「服の描き方」",
@@ -457,6 +483,19 @@
       "family_friendly": true,
       "summary": "和菓子職人による手作り和菓子体験",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/goout.html"
+    },
+    {
+      "title": "小倉ハンドメイドマルシェ2026",
+      "venue": "北九州メッセ",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-27",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "全国クリエイター1100ブース出店ハンドメイド",
+      "source_url": "https://kitaq.media/142422/"
     },
     {
       "title": "【演劇】市原佐都子/Q「キティ」",
@@ -732,6 +771,19 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/event.html"
     },
     {
+      "title": "「泡盛会」AIMガレリア2026 THE PREMIUM 沖縄",
+      "venue": "AIM3F",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-26",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": false,
+      "summary": "泡盛の女王も来場する試飲イベント",
+      "source_url": "https://kitaq.media/142422/"
+    },
+    {
       "title": "子どもの館「赤ちゃん同窓会47～49期大集合！」",
       "venue": "子どもの館",
       "area": "八幡西区",
@@ -769,6 +821,19 @@
       "family_friendly": true,
       "summary": "狂言の解説と実演",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/event.html"
+    },
+    {
+      "title": "第31回北九州将棋フェスティバル",
+      "venue": "会議場",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-18",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "プロ棋士による指導対局・トークショー",
+      "source_url": "https://kitaq.media/142422/"
     },
     {
       "title": "オモト名品展",
@@ -1120,19 +1185,6 @@
       "family_friendly": true,
       "summary": "葉っぱ切り絵の展示会。邸宅ミュージアム企画",
       "source_url": "https://kitaq.media/140711/"
-    },
-    {
-      "title": "みずべのゆうぐれコンサート",
-      "venue": "紫川親水広場",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-25",
-      "end_date": "2026-09-25",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "紫川沿いで夕暮れ時の無料コンサート",
-      "source_url": "https://kitaq.media/142668/"
     },
     {
       "title": "脇田海釣り桟橋 親子釣り大会",
