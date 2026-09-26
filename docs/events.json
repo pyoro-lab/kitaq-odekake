@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-26",
+  "updated_at": "2026-09-27",
   "title": "北九州おでかけ情報まとめ",
-  "count": 163,
+  "count": 155,
   "events": [
     {
       "title": "NUKUMORIマルシェ in JR小倉駅JAM広場",
@@ -108,19 +108,6 @@
       "source_url": "https://kitaq.media/142413/"
     },
     {
-      "title": "第20回 関門よさこい大会",
-      "venue": "門司港駅前広場・親水広場(下関市唐戸地区でも同時開催)",
-      "area": "門司区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-26",
-      "end_date": "2026-09-26",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "門司港と下関唐戸で同時開催のよさこい祭り",
-      "source_url": "https://kitaq.media/142431/"
-    },
-    {
       "title": "耶馬渓ダム見学バスツアー",
       "venue": "耶馬渓ダム",
       "area": "大分県",
@@ -199,6 +186,19 @@
       "source_url": "https://kitaq.media/142440/"
     },
     {
+      "title": "こども薬剤師体験",
+      "venue": "到津の森公園 子どもホール",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-25",
+      "end_date": "2026-10-25",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "お菓子で調剤体験する子ども向けイベント",
+      "source_url": "https://www.city.kitakyushu.lg.jp/kokurakita/vw2300069.html"
+    },
+    {
       "title": "第16回北九州風景街道フォト＆アートコンテスト 応募締切",
       "venue": "北九州風景街道(木屋瀬〜門司港)",
       "area": "北九州市",
@@ -210,19 +210,6 @@
       "family_friendly": true,
       "summary": "フォト部門は2Lサイズ現像+JPEG2〜5MB・一人2作品まで。テーマは「祭りで活気づく風景街道」「乗り物や車窓から見える風景」。撮り方の下調べは /wiki の memex-photo-contest",
       "source_url": "https://www.city.kitakyushu.lg.jp/contents/v05600047.html"
-    },
-    {
-      "title": "北九州・映像の記憶(上映会)",
-      "venue": "北九州市立折尾まちづくり記念館",
-      "area": "八幡西区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-26",
-      "end_date": "2026-09-26",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": false,
-      "summary": "民俗行事・折尾神楽の記録映像を上映",
-      "source_url": "https://www.city.kitakyushu.lg.jp/contents/v121_00002.html"
     },
     {
       "title": "和菓子の道具展",
@@ -249,32 +236,6 @@
       "family_friendly": true,
       "summary": "秋の花のフラワーアレンジ展示とツアー",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/goout.html"
-    },
-    {
-      "title": "内藤流「ト書きから想像する戯曲講座」",
-      "venue": "J:COM北九州芸術劇場",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-25",
-      "end_date": "2026-09-26",
-      "date_note": "対象：18～30歳（全2回）",
-      "date_confidence": "exact",
-      "family_friendly": false,
-      "summary": "短編戯曲の創作と即興演技",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260815/infostation/goout.html"
-    },
-    {
-      "title": "親子なかよし広場",
-      "venue": "三萩野体育館",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-26",
-      "end_date": "2026-09-26",
-      "date_note": "対象：小学3年生以下と保護者",
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "ゲーム・遊びの親子プログラム",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260815/infostation/goout.html"
     },
     {
       "title": "官営八幡製鐵所旧本事務所見学ツアー",
@@ -355,19 +316,6 @@
       "source_url": "https://kitaq.media/141920/"
     },
     {
-      "title": "漫画ミュージアム「漫画体験」",
-      "venue": "漫画ミュージアム",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-13",
-      "end_date": "2026-09-26",
-      "date_note": "9月13日・26日開催",
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "漫画道具・タブレット・塗り絵体験",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260815/infostation/event.html"
-    },
-    {
       "title": "2026駅長対抗 ご当地カレー総選挙 決勝戦",
       "venue": "門司港駅前広場",
       "area": "門司区",
@@ -394,19 +342,6 @@
       "source_url": "https://kitaq.media/142629/"
     },
     {
-      "title": "小石ちょうちん山笠まつり",
-      "venue": "小石小学校",
-      "area": "若松区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-26",
-      "end_date": "2026-09-26",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "高さ12段の提灯山笠と子ども山笠が巡行",
-      "source_url": "https://kitaq.media/142679/"
-    },
-    {
       "title": "お手軽工作「ハーバリウムのボールペンをつくろう」",
       "venue": "タカミヤ環境ミュージアム",
       "area": "八幡東区",
@@ -418,19 +353,6 @@
       "family_friendly": true,
       "summary": "ハーバリウム入りボールペンづくり体験",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/goout.html"
-    },
-    {
-      "title": "東谷マーケット2026",
-      "venue": "東谷興農会グラウンド",
-      "area": "小倉南区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-26",
-      "end_date": "2026-09-26",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "マルシェ・こども縁日・グルメが揃う市",
-      "source_url": "https://kitaq.media/142674/"
     },
     {
       "title": "漫画スクール「服の描き方」",
@@ -496,19 +418,6 @@
       "family_friendly": true,
       "summary": "全国クリエイター1100ブース出店ハンドメイド",
       "source_url": "https://kitaq.media/142422/"
-    },
-    {
-      "title": "【演劇】市原佐都子/Q「キティ」",
-      "venue": "J:COM北九州芸術劇場",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-26",
-      "end_date": "2026-09-26",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": false,
-      "summary": "16歳以上推奨、北九州出身劇作家による作品",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/goout.html"
     },
     {
       "title": "展示場見学ツアー",
@@ -769,19 +678,6 @@
       "family_friendly": true,
       "summary": "落語家・林家きく麿さんによる落語ライブ",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/event.html"
-    },
-    {
-      "title": "「泡盛会」AIMガレリア2026 THE PREMIUM 沖縄",
-      "venue": "AIM3F",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-26",
-      "end_date": "2026-09-26",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": false,
-      "summary": "泡盛の女王も来場する試飲イベント",
-      "source_url": "https://kitaq.media/142422/"
     },
     {
       "title": "子どもの館「赤ちゃん同窓会47～49期大集合！」",
