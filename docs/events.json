@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-28",
+  "updated_at": "2026-09-29",
   "title": "北九州おでかけ情報まとめ",
-  "count": 131,
+  "count": 128,
   "events": [
     {
       "title": "NUKUMORIマルシェ in JR小倉駅JAM広場",
@@ -693,19 +693,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/goout.html"
     },
     {
-      "title": "小川洋一郎 LIVE",
-      "venue": "チャチャタウン小倉",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-28",
-      "end_date": "2026-09-28",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "ライブパフォーマンス",
-      "source_url": "https://www.chachatown.com/eventinfo/"
-    },
-    {
       "title": "ナオミJAZZライブ",
       "venue": "チャチャタウン小倉",
       "area": "小倉北区",
@@ -1161,19 +1148,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/event.html"
     },
     {
-      "title": "ベビーマッサージ",
-      "venue": "子どもの館",
-      "area": "八幡西区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-28",
-      "end_date": "2026-09-28",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "乳児と保護者向けベビーマッサージ",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/event.html"
-    },
-    {
       "title": "アイシングクッキーに挑戦！〜ハロウィンver.",
       "venue": "子どもの館",
       "area": "八幡西区",
@@ -1510,19 +1484,6 @@
       "family_friendly": true,
       "summary": "世界遺産見学、菓子焼き印体験、昼食付き",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/ward/yahatahigashi.html"
-    },
-    {
-      "title": "穴生学舎ロビーコンサート",
-      "venue": "穴生学舎",
-      "area": "八幡西区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-28",
-      "end_date": "2026-09-28",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "シンガーソングライターKYOKOによるロビーコンサート",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/ward/yahatanishi.html"
     },
     {
       "title": "小林知弘と仲間たち 映画音楽コンサート",
