@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-29",
+  "updated_at": "2026-09-30",
   "title": "北九州おでかけ情報まとめ",
-  "count": 128,
+  "count": 132,
   "events": [
     {
       "title": "NUKUMORIマルシェ in JR小倉駅JAM広場",
@@ -93,6 +93,32 @@
       "family_friendly": true,
       "summary": "耶馬渓ダムのバックヤード見学バスツアー",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260801/infostation/goout.html"
+    },
+    {
+      "title": "企画展「小倉織2026」",
+      "venue": "小倉井筒屋本館",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-09-30",
+      "end_date": "2026-10-06",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": null,
+      "summary": "手織り小倉織の作品展示・販売、体験WSも",
+      "source_url": "https://kitaq.media/142801/"
+    },
+    {
+      "title": "キタゲキヒラクプロジェクト「キタゲキスタジオ」",
+      "venue": "J:COM北九州芸術劇場",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-05",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "中劇場ホワイエを無料開放、撮影も自由",
+      "source_url": "https://kitaq.media/143005/"
     },
     {
       "title": "KPF（北九州ポップカルチャーフェスティバル）2026",
@@ -550,6 +576,19 @@
       "source_url": "https://kitaq.media/142506/"
     },
     {
+      "title": "ゆめばこ秋マルシェ2026",
+      "venue": "カーニバルプラスひびきの店 敷地内",
+      "area": "若松区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-20",
+      "end_date": "2026-10-20",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "ハンドメイド雑貨とスイーツのマルシェ",
+      "source_url": "https://kitaq.media/142734/"
+    },
+    {
       "title": "歯大祭",
       "venue": "九州歯科大学",
       "area": "小倉北区",
@@ -693,6 +732,19 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/goout.html"
     },
     {
+      "title": "ゆめばこ秋マルシェ2026",
+      "venue": "カーニバルプラスひびきの店 敷地内",
+      "area": "若松区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-15",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "ハンドメイド雑貨とスイーツのマルシェ",
+      "source_url": "https://kitaq.media/142734/"
+    },
+    {
       "title": "ナオミJAZZライブ",
       "venue": "チャチャタウン小倉",
       "area": "小倉北区",
@@ -717,19 +769,6 @@
       "family_friendly": true,
       "summary": "北九州高専の学校祭。学校説明会も同時開催",
       "source_url": "https://www.kct.ac.jp/campuslife/schedule"
-    },
-    {
-      "title": "すずりん（創作和太鼓）",
-      "venue": "チャチャタウン小倉",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-29",
-      "end_date": "2026-09-29",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "和太鼓パフォーマンス",
-      "source_url": "https://www.chachatown.com/eventinfo/"
     },
     {
       "title": "まちかどSongsーハーモニー・フェスタinリバーウォーク北九州ー",
@@ -795,6 +834,19 @@
       "family_friendly": true,
       "summary": "葉っぱ切り絵の展示会。邸宅ミュージアム企画",
       "source_url": "https://kitaq.media/140711/"
+    },
+    {
+      "title": "作家たまごと先輩作家の会",
+      "venue": "カーニバルプラスひびきの店 敷地内(ゆめばこ)",
+      "area": "若松区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-26",
+      "end_date": "2026-11-26",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": null,
+      "summary": "作家を目指す人向けの交流会",
+      "source_url": "https://kitaq.media/142734/"
     },
     {
       "title": "脇田海釣り桟橋 親子釣り大会",
