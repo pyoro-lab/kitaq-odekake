@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-01",
+  "updated_at": "2026-10-02",
   "title": "北九州おでかけ情報まとめ",
-  "count": 208,
+  "count": 211,
   "events": [
     {
       "title": "「SBI証券 presents TGC KITAKYUSHU 2026 by TOKYO GIRLS COLLECTION」",
@@ -2706,6 +2706,45 @@
       "family_friendly": true,
       "summary": "若戸大橋周辺で行われる花火大会",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/ward/tobata.html"
+    },
+    {
+      "title": "シュガーロード周遊デジタルスタンプラリー",
+      "venue": null,
+      "area": null,
+      "schedule_type": "dated",
+      "start_date": "2026-10-01",
+      "end_date": "2026-12-28",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "沿線8市を巡るデジタルスタンプラリー",
+      "source_url": "https://www.city.kitakyushu.lg.jp/contents/v096_00006.html"
+    },
+    {
+      "title": "男性のための介護入門講座「介護男子」",
+      "venue": "北九州市立男女共同参画センター・ムーブ",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-31",
+      "end_date": "2026-11-28",
+      "date_note": "10/31・11/7・11/28の全3回開催",
+      "date_confidence": "estimated",
+      "family_friendly": false,
+      "summary": "介護の基礎を学ぶ男性向け全3回講座",
+      "source_url": "https://www.city.kitakyushu.lg.jp/contents/v154_00005.html"
+    },
+    {
+      "title": "第68回小倉お城まつり",
+      "venue": "小倉城",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-18",
+      "date_note": "10/3〜4・10〜12・17〜18の計7日間",
+      "date_confidence": "estimated",
+      "family_friendly": true,
+      "summary": "忍者なりきり体験や武者行列など多彩な企画",
+      "source_url": "https://kitaq.media/143306/"
     }
   ]
 }
