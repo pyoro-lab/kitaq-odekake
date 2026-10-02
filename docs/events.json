@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-02",
+  "updated_at": "2026-10-03",
   "title": "北九州おでかけ情報まとめ",
-  "count": 211,
+  "count": 202,
   "events": [
     {
       "title": "「SBI証券 presents TGC KITAKYUSHU 2026 by TOKYO GIRLS COLLECTION」",
@@ -28,19 +28,6 @@
       "family_friendly": true,
       "summary": "障害のあるクリエイターのアート作品・グッズ展示販売",
       "source_url": "https://www.city.kitakyushu.lg.jp/contents/v28700004_00001.html"
-    },
-    {
-      "title": "企画展「終わらない戦争ー傷つけ／傷つけられたものたちー」",
-      "venue": "北九州市平和のまちミュージアム",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2027-01-17",
-      "end_date": "2027-01-17",
-      "date_note": "会期は来年1月17日まで(記事時点で開催中)",
-      "date_confidence": "estimated",
-      "family_friendly": null,
-      "summary": "漫画『生きとし生ける』取材資料を展示する企画展",
-      "source_url": "https://kitaq.media/142496/"
     },
     {
       "title": "耶馬渓ダム見学バスツアー",
@@ -222,19 +209,6 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "心肺蘇生法体験、消防車・救急車展示",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/goout.html"
-    },
-    {
-      "title": "年長者の祭典",
-      "venue": "J:COM北九州芸術劇場",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-02",
-      "end_date": "2026-10-02",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": false,
-      "summary": "年長者表彰・活動発表、山田邦子講演",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/goout.html"
     },
     {
@@ -1330,19 +1304,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/contents/30300044_00003.html"
     },
     {
-      "title": "NUKUMORIマルシェ in JR小倉駅JAM広場",
-      "venue": "JR小倉駅 JAM広場",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-02",
-      "end_date": "2026-10-02",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "障害者就労施設の雑貨・菓子を販売するマルシェ",
-      "source_url": "https://kitaq.media/143051/"
-    },
-    {
       "title": "サンリオキャラクターズ ハロウィンパレード",
       "venue": "グリーンパーク",
       "area": "若松区",
@@ -1380,32 +1341,6 @@
       "family_friendly": true,
       "summary": "若松区で開催の秋の花火大会",
       "source_url": "https://kitaq.media/143045/"
-    },
-    {
-      "title": "日本遺産×高速道路スタンプラリー",
-      "venue": "門司・若松ゾーン/下関ゾーン/めかり・壇之浦パーキングエリア",
-      "area": "北九州市・下関市",
-      "schedule_type": "dated",
-      "start_date": "2026-10-01",
-      "end_date": "2026-11-30",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "日本遺産・関門エリアを巡るデジタルスタンプラリー",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/goout.html"
-    },
-    {
-      "title": "シュガーロード周遊スタンプラリー",
-      "venue": "長崎街道沿線8市の対象施設",
-      "area": "北九州市ほか",
-      "schedule_type": "dated",
-      "start_date": "2026-10-01",
-      "end_date": "2026-12-28",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "砂糖・菓子文化の街道を巡るスタンプラリー",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/goout.html"
     },
     {
       "title": "蝶と花の風景をめぐるアサギマダラ・スタンプラリー",
@@ -1980,19 +1915,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/event.html"
     },
     {
-      "title": "飼育員のおはなし「ワオキツネザル」編",
-      "venue": "到津の森公園",
-      "area": "小倉北区",
-      "schedule_type": "recurring",
-      "start_date": null,
-      "end_date": null,
-      "date_note": "10月の毎週土・日曜日、祝日11時30〜45分",
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "ワオキツネザルの生態解説",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/event.html"
-    },
-    {
       "title": "秋のファン感謝祭",
       "venue": "到津の森公園",
       "area": "小倉北区",
@@ -2186,32 +2108,6 @@
       "family_friendly": true,
       "summary": "絵本の読み聞かせとベビーマッサージ",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/child.html"
-    },
-    {
-      "title": "ライジングゼファーフクオカ バスケットボール教室",
-      "venue": "三萩野体育館",
-      "area": "小倉北区",
-      "schedule_type": "recurring",
-      "start_date": null,
-      "end_date": null,
-      "date_note": "10月6日〜来年3月23日のほぼ毎週火曜日（全22回）",
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "プロチームコーチによる子ども向けバスケ教室",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/sports.html"
-    },
-    {
-      "title": "シニア健康教室",
-      "venue": "的場池体育館",
-      "area": "八幡西区",
-      "schedule_type": "recurring",
-      "start_date": null,
-      "end_date": null,
-      "date_note": "11月6日〜12月25日の毎週金曜日（全8回）14〜16時",
-      "date_confidence": "exact",
-      "family_friendly": false,
-      "summary": "シニア向け健康体操教室",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/sports.html"
     },
     {
       "title": "北九州市民スポーツ大会「チャレンジザゲーム・シンプルヨガ」",
@@ -2706,19 +2602,6 @@
       "family_friendly": true,
       "summary": "若戸大橋周辺で行われる花火大会",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/ward/tobata.html"
-    },
-    {
-      "title": "シュガーロード周遊デジタルスタンプラリー",
-      "venue": null,
-      "area": null,
-      "schedule_type": "dated",
-      "start_date": "2026-10-01",
-      "end_date": "2026-12-28",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "沿線8市を巡るデジタルスタンプラリー",
-      "source_url": "https://www.city.kitakyushu.lg.jp/contents/v096_00006.html"
     },
     {
       "title": "男性のための介護入門講座「介護男子」",
