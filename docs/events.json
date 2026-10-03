@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-03",
+  "updated_at": "2026-10-04",
   "title": "北九州おでかけ情報まとめ",
-  "count": 202,
+  "count": 209,
   "events": [
     {
       "title": "「SBI証券 presents TGC KITAKYUSHU 2026 by TOKYO GIRLS COLLECTION」",
@@ -1148,19 +1148,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/ward/kokurakita.html"
     },
     {
-      "title": "小倉南区子どもまつり",
-      "venue": "小倉南区",
-      "area": "小倉南区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-03",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "子ども向けの区民まつり",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/ward/kokuraminami.html"
-    },
-    {
       "title": "昼間の星を見てみよう！",
       "venue": "スペースLABO",
       "area": "八幡東区",
@@ -1783,19 +1770,6 @@
       "family_friendly": null,
       "summary": "作家町田そのこさんのトークショー",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/goout.html"
-    },
-    {
-      "title": "美術館キッズデー",
-      "venue": "北九州市立美術館",
-      "area": "戸畑区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-03",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "子ども連れ歓迎の美術鑑賞日",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/event.html"
     },
     {
       "title": "白の會会員展",
@@ -2628,6 +2602,123 @@
       "family_friendly": true,
       "summary": "忍者なりきり体験や武者行列など多彩な企画",
       "source_url": "https://kitaq.media/143306/"
+    },
+    {
+      "title": "県境をこえて電車でハロウィン2026(LinQイチ推し・ご当地キーワードラリー)",
+      "venue": "JR日豊本線 下曽根駅ほか沿線10駅",
+      "area": "小倉南区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-05",
+      "end_date": "2026-11-08",
+      "date_note": "ポスターのキーワードを集めて応募、抽選で特産品が当たる",
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "沿線駅を巡るご当地キーワードラリー",
+      "source_url": "https://www.city.kitakyushu.lg.jp/kokuraminami/vw3100126.html"
+    },
+    {
+      "title": "第15回健康フェア",
+      "venue": "北九州メッセ A・B展示場(旧:西日本総合展示場新館)",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-01",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "専門家講演や子ども向け体験ができる健康フェア",
+      "source_url": "https://www.city.kitakyushu.lg.jp/contents/27200264_00001.html"
+    },
+    {
+      "title": "おいしいDAYS",
+      "venue": "サンリブシティ小倉(小倉南区上葛原2-14-1)",
+      "area": "小倉南区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-02",
+      "end_date": "2026-10-05",
+      "date_note": "10:00-17:00",
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "グルメ・雑貨が集まるマルシェ",
+      "source_url": "https://kitaq.media/143398/"
+    },
+    {
+      "title": "第3回 照養寺めぐる市",
+      "venue": "照養寺(戸畑区北鳥旗町6-21)",
+      "area": "戸畑区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-04",
+      "end_date": "2026-10-04",
+      "date_note": "11:00-15:30",
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "グルメ・子ども縁日・ワークショップのマルシェ",
+      "source_url": "https://kitaq.media/143265/"
+    },
+    {
+      "title": "国道3号黒崎バイパス特別イベント",
+      "venue": "黒崎バイパス西ランプ工事現場",
+      "area": "八幡西区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-04",
+      "end_date": "2026-10-04",
+      "date_note": "ウォーキング体験・メッセージ書き・写真展示",
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "開通前の工事中道路を歩ける特別イベント",
+      "source_url": "https://kitaq.media/143295/"
+    },
+    {
+      "title": "駅長おすすめのJR九州ウォーキング2026年秋編",
+      "venue": "黒崎駅周辺(春日神社・岡田宮・一宮神社ほか)",
+      "area": "八幡西区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-04",
+      "end_date": "2026-10-04",
+      "date_note": "特別御朱印あり",
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "黒崎バイパスや神社をめぐるウォーキングツアー",
+      "source_url": "https://kitaq.media/143295/"
+    },
+    {
+      "title": "KiTACUBE LAB",
+      "venue": "ZATTA ZISSE(ザッタジッセ)",
+      "area": "門司区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-04",
+      "end_date": "2026-10-04",
+      "date_note": "10:00-17:00・32店舗出店",
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "グルメ・雑貨・癒し体験が集まるマルシェ",
+      "source_url": "https://kitaq.media/143225/"
+    },
+    {
+      "title": "文教祭",
+      "venue": "ウェルとばた・汐井町公園",
+      "area": "戸畑区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-04",
+      "end_date": "2026-10-04",
+      "date_note": "戸畑区内6校+九州工業大学の合同学園祭",
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "キッズ体験ブースや3on3大会のある合同学園祭",
+      "source_url": "https://kitaq.media/143289/"
+    },
+    {
+      "title": "小倉宿場市",
+      "venue": "小倉城歴史の道・城テラス周辺",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-18",
+      "date_note": "10/3-4,10-12,17-18の計7日間",
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "昔の宿場町風マルシェ、グルメ・雑貨の出店多数",
+      "source_url": "https://kitaq.media/143390/"
     }
   ]
 }
