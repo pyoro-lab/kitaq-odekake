@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-04",
+  "updated_at": "2026-10-05",
   "title": "北九州おでかけ情報まとめ",
-  "count": 209,
+  "count": 199,
   "events": [
     {
       "title": "「SBI証券 presents TGC KITAKYUSHU 2026 by TOKYO GIRLS COLLECTION」",
@@ -420,19 +420,6 @@
       "source_url": "https://www.kyu-dent.ac.jp/"
     },
     {
-      "title": "特別展「中原未央 儚さと記憶の標本」",
-      "venue": "行橋市増田美術館 本館展示室、新館特別展示室1、2",
-      "area": "行橋市",
-      "schedule_type": "dated",
-      "start_date": "2026-07-18",
-      "end_date": "2026-10-04",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": null,
-      "summary": "中原未央の作品展覧会",
-      "source_url": "https://artne.jp/event"
-    },
-    {
       "title": "谷尾 勇滋 展 「folk art historical scape」",
       "venue": "甘木歴史資料館",
       "area": "朝倉市",
@@ -576,19 +563,6 @@
       "source_url": "https://kitaq.media/141144/"
     },
     {
-      "title": "平尾台の自然に親しむ登山",
-      "venue": "平尾台自然観察センター駐車場",
-      "area": "小倉南区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-04",
-      "end_date": "2026-10-04",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "貫山登山。カルスト地形・植生観察。小学生無料",
-      "source_url": "https://www.city.kitakyushu.lg.jp/kokuraminami/vw3100117.html"
-    },
-    {
       "title": "しぜんのじかん「あおぞらおはなし会」",
       "venue": "白野江植物公園",
       "area": "門司区",
@@ -678,19 +652,6 @@
       "family_friendly": true,
       "summary": "16施設をめぐるスタンプラリー、抽選も",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/goout.html"
-    },
-    {
-      "title": "ラブ! ヴァンガード!! 前衛を愛した、あるコレクターの眼",
-      "venue": "田川市美術館",
-      "area": "田川市",
-      "schedule_type": "dated",
-      "start_date": "2026-08-29",
-      "end_date": "2026-10-04",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": null,
-      "summary": "前衛美術コレクター展",
-      "source_url": "https://artne.jp/event"
     },
     {
       "title": "秋の企画展「虫の音展 〜あぁおもしろい虫の声」",
@@ -1343,19 +1304,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/goout.html"
     },
     {
-      "title": "総合農事センター 山野草展示会",
-      "venue": "総合農事センター",
-      "area": "小倉南区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-04",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "北九山草会・若葉山草会による山野草展示",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/goout.html"
-    },
-    {
       "title": "こどものためのハロウィンイベント(総合農事センター)",
       "venue": "総合農事センター",
       "area": "小倉南区",
@@ -1457,7 +1405,7 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "音楽ステージや職業体験、キッチンカー出店",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/goout.html"
+      "source_url": "https://kitaq.media/142809/"
     },
     {
       "title": "にこりのお祭り",
@@ -2552,19 +2500,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/ward/tobata.html"
     },
     {
-      "title": "とばたマンス！ キックオフイベント",
-      "venue": null,
-      "area": "戸畑区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-04",
-      "end_date": "2026-10-04",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": null,
-      "summary": "とばたマンス開始のキックオフイベント",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/ward/tobata.html"
-    },
-    {
       "title": "くきのうみ花火の祭典",
       "venue": "若戸大橋周辺",
       "area": "戸畑区",
@@ -2641,71 +2576,6 @@
       "family_friendly": true,
       "summary": "グルメ・雑貨が集まるマルシェ",
       "source_url": "https://kitaq.media/143398/"
-    },
-    {
-      "title": "第3回 照養寺めぐる市",
-      "venue": "照養寺(戸畑区北鳥旗町6-21)",
-      "area": "戸畑区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-04",
-      "end_date": "2026-10-04",
-      "date_note": "11:00-15:30",
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "グルメ・子ども縁日・ワークショップのマルシェ",
-      "source_url": "https://kitaq.media/143265/"
-    },
-    {
-      "title": "国道3号黒崎バイパス特別イベント",
-      "venue": "黒崎バイパス西ランプ工事現場",
-      "area": "八幡西区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-04",
-      "end_date": "2026-10-04",
-      "date_note": "ウォーキング体験・メッセージ書き・写真展示",
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "開通前の工事中道路を歩ける特別イベント",
-      "source_url": "https://kitaq.media/143295/"
-    },
-    {
-      "title": "駅長おすすめのJR九州ウォーキング2026年秋編",
-      "venue": "黒崎駅周辺(春日神社・岡田宮・一宮神社ほか)",
-      "area": "八幡西区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-04",
-      "end_date": "2026-10-04",
-      "date_note": "特別御朱印あり",
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "黒崎バイパスや神社をめぐるウォーキングツアー",
-      "source_url": "https://kitaq.media/143295/"
-    },
-    {
-      "title": "KiTACUBE LAB",
-      "venue": "ZATTA ZISSE(ザッタジッセ)",
-      "area": "門司区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-04",
-      "end_date": "2026-10-04",
-      "date_note": "10:00-17:00・32店舗出店",
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "グルメ・雑貨・癒し体験が集まるマルシェ",
-      "source_url": "https://kitaq.media/143225/"
-    },
-    {
-      "title": "文教祭",
-      "venue": "ウェルとばた・汐井町公園",
-      "area": "戸畑区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-04",
-      "end_date": "2026-10-04",
-      "date_note": "戸畑区内6校+九州工業大学の合同学園祭",
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "キッズ体験ブースや3on3大会のある合同学園祭",
-      "source_url": "https://kitaq.media/143289/"
     },
     {
       "title": "小倉宿場市",
