@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-05",
+  "updated_at": "2026-10-06",
   "title": "北九州おでかけ情報まとめ",
-  "count": 199,
+  "count": 196,
   "events": [
     {
       "title": "「SBI証券 presents TGC KITAKYUSHU 2026 by TOKYO GIRLS COLLECTION」",
@@ -41,19 +41,6 @@
       "family_friendly": true,
       "summary": "耶馬渓ダムのバックヤード見学バスツアー",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260801/infostation/goout.html"
-    },
-    {
-      "title": "キタゲキヒラクプロジェクト「キタゲキスタジオ」",
-      "venue": "J:COM北九州芸術劇場",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-05",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "中劇場ホワイエを無料開放、撮影も自由",
-      "source_url": "https://kitaq.media/143005/"
     },
     {
       "title": "KPF（北九州ポップカルチャーフェスティバル）2026",
@@ -132,19 +119,6 @@
       "family_friendly": true,
       "summary": "貨物列車の運転シミュレーター体験",
       "source_url": "https://kitaq.media/141612/"
-    },
-    {
-      "title": "邸宅ランチ「天ざるとそば羊羹」",
-      "venue": "旧安川邸",
-      "area": "戸畑区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-05",
-      "end_date": "2026-10-05",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": false,
-      "summary": "邸宅で味わう予約制の特別ランチ",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/goout.html"
     },
     {
       "title": "企画展「松本昌太郎 鉄道の記憶」",
@@ -274,19 +248,6 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "ステージ発表・作品展示・模擬店・バザー",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/goout.html"
-    },
-    {
-      "title": "若松芸能まつり",
-      "venue": "若松市民会館",
-      "area": "若松区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-11",
-      "end_date": "2026-10-11",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "日本舞踊・民踊など伝統芸能まつり",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/goout.html"
     },
     {
@@ -2539,6 +2500,19 @@
       "source_url": "https://kitaq.media/143306/"
     },
     {
+      "title": "若松芸能まつり",
+      "venue": "若松市民会館",
+      "area": "若松区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-11",
+      "end_date": "2026-10-11",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "日本舞踊・民踊など伝統芸能まつり",
+      "source_url": "https://kitaq.media/142993/"
+    },
+    {
       "title": "県境をこえて電車でハロウィン2026(LinQイチ推し・ご当地キーワードラリー)",
       "venue": "JR日豊本線 下曽根駅ほか沿線10駅",
       "area": "小倉南区",
@@ -2563,19 +2537,6 @@
       "family_friendly": true,
       "summary": "専門家講演や子ども向け体験ができる健康フェア",
       "source_url": "https://www.city.kitakyushu.lg.jp/contents/27200264_00001.html"
-    },
-    {
-      "title": "おいしいDAYS",
-      "venue": "サンリブシティ小倉(小倉南区上葛原2-14-1)",
-      "area": "小倉南区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-02",
-      "end_date": "2026-10-05",
-      "date_note": "10:00-17:00",
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "グルメ・雑貨が集まるマルシェ",
-      "source_url": "https://kitaq.media/143398/"
     },
     {
       "title": "小倉宿場市",
