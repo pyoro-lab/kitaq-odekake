@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-06",
+  "updated_at": "2026-10-07",
   "title": "北九州おでかけ情報まとめ",
-  "count": 196,
+  "count": 198,
   "events": [
     {
       "title": "「SBI証券 presents TGC KITAKYUSHU 2026 by TOKYO GIRLS COLLECTION」",
@@ -28,6 +28,32 @@
       "family_friendly": true,
       "summary": "障害のあるクリエイターのアート作品・グッズ展示販売",
       "source_url": "https://www.city.kitakyushu.lg.jp/contents/v28700004_00001.html"
+    },
+    {
+      "title": "巨大なくまモン(ロール紙芯アート展示)",
+      "venue": "小倉駅3階在来線改札内",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-05",
+      "end_date": "2026-12-25",
+      "date_note": "12月下旬ごろまでの展示予定(開始日は記事に明記なし)",
+      "date_confidence": "estimated",
+      "family_friendly": true,
+      "summary": "紙管416個で作った巨大くまモンの展示(入場に乗車券等必要)",
+      "source_url": "https://kitaq.media/143529/"
+    },
+    {
+      "title": "ランドセルランド in 北九州",
+      "venue": "イオンモール八幡東 1階ひまわりの広場",
+      "area": "八幡東区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-03",
+      "end_date": "2026-11-03",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "中古ランドセル無料譲渡と防犯スポーツ体験(新一年生向け)",
+      "source_url": "https://kitaq.media/143499/"
     },
     {
       "title": "耶馬渓ダム見学バスツアー",
