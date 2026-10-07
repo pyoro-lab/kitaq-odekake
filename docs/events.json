@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-07",
+  "updated_at": "2026-10-08",
   "title": "北九州おでかけ情報まとめ",
-  "count": 198,
+  "count": 199,
   "events": [
     {
       "title": "「SBI証券 presents TGC KITAKYUSHU 2026 by TOKYO GIRLS COLLECTION」",
@@ -54,6 +54,19 @@
       "family_friendly": true,
       "summary": "中古ランドセル無料譲渡と防犯スポーツ体験(新一年生向け)",
       "source_url": "https://kitaq.media/143499/"
+    },
+    {
+      "title": "赤から 小倉魚町店",
+      "venue": "赤から 小倉魚町店",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-09-21",
+      "end_date": "2026-10-21",
+      "date_note": "9月21日オープン",
+      "date_confidence": "estimated",
+      "family_friendly": null,
+      "summary": "名古屋名物の赤から鍋が楽しめる新店",
+      "source_url": "https://kitaq.media/143411/"
     },
     {
       "title": "耶馬渓ダム見学バスツアー",
@@ -651,7 +664,7 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "秋の虫の声をテーマにした企画展",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/goout.html"
+      "source_url": "https://kitaq.media/143346/"
     },
     {
       "title": "周望学舎大学祭",
