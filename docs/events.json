@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-08",
+  "updated_at": "2026-10-09",
   "title": "北九州おでかけ情報まとめ",
-  "count": 199,
+  "count": 192,
   "events": [
     {
       "title": "「SBI証券 presents TGC KITAKYUSHU 2026 by TOKYO GIRLS COLLECTION」",
@@ -28,19 +28,6 @@
       "family_friendly": true,
       "summary": "障害のあるクリエイターのアート作品・グッズ展示販売",
       "source_url": "https://www.city.kitakyushu.lg.jp/contents/v28700004_00001.html"
-    },
-    {
-      "title": "巨大なくまモン(ロール紙芯アート展示)",
-      "venue": "小倉駅3階在来線改札内",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-05",
-      "end_date": "2026-12-25",
-      "date_note": "12月下旬ごろまでの展示予定(開始日は記事に明記なし)",
-      "date_confidence": "estimated",
-      "family_friendly": true,
-      "summary": "紙管416個で作った巨大くまモンの展示(入場に乗車券等必要)",
-      "source_url": "https://kitaq.media/143529/"
     },
     {
       "title": "ランドセルランド in 北九州",
@@ -251,6 +238,19 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/goout.html"
     },
     {
+      "title": "クロサキシフト(“黒崎の未来”を語り合うパネルディスカッション)",
+      "venue": "黒崎ひびしんホール",
+      "area": "八幡西区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-10",
+      "end_date": "2026-10-10",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": false,
+      "summary": "黒崎の今とこれからを語り合う公開パネルディスカッション",
+      "source_url": "https://kitaq.media/143639/"
+    },
+    {
       "title": "学研都市「留学ゆるトーク」",
       "venue": "北九州学術研究都市内ヒビキノオドリバ",
       "area": "若松区",
@@ -446,19 +446,6 @@
       "source_url": "https://artne.jp/event"
     },
     {
-      "title": "サッカーロボットプログラミング",
-      "venue": "スペースLABO ANNEX",
-      "area": "八幡東区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-10",
-      "end_date": "2026-10-10",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "サッカーロボットの初歩的プログラミング体験",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/goout.html"
-    },
-    {
       "title": "開館10周年 ちくごist 河北秀也 デザインの旅",
       "venue": "久留米市美術館",
       "area": "久留米市",
@@ -587,19 +574,6 @@
       "family_friendly": true,
       "summary": "模擬店・研究発表・ステージパフォーマンスの学園祭",
       "source_url": "https://kyukoudaisai.jp/"
-    },
-    {
-      "title": "リト＠葉っぱ切り絵展～くらくらするほど超絶緻密～",
-      "venue": "旧安川邸",
-      "area": "戸畑区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-07",
-      "end_date": "2026-11-03",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "葉っぱ切り絵の展示会。邸宅ミュージアム企画",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/goout.html"
     },
     {
       "title": "作家たまごと先輩作家の会",
@@ -1265,19 +1239,6 @@
       "source_url": "https://kitaq.media/143045/"
     },
     {
-      "title": "若松イルミネーション・画板灯籠プロジェクト",
-      "venue": "久岐の浜",
-      "area": "若松区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-09",
-      "end_date": "2027-01-11",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "久岐の浜を彩る灯籠のイルミネーション",
-      "source_url": "https://kitaq.media/143045/"
-    },
-    {
       "title": "第41回くきのうみ花火の祭典",
       "venue": "久岐の浜",
       "area": "若松区",
@@ -1289,19 +1250,6 @@
       "family_friendly": true,
       "summary": "若松区で開催の秋の花火大会",
       "source_url": "https://kitaq.media/143045/"
-    },
-    {
-      "title": "蝶と花の風景をめぐるアサギマダラ・スタンプラリー",
-      "venue": "白野江植物公園ほか12施設",
-      "area": "門司区ほか",
-      "schedule_type": "dated",
-      "start_date": "2026-10-01",
-      "end_date": "2026-10-31",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "渡り蝶アサギマダラを巡るスタンプラリー",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/goout.html"
     },
     {
       "title": "こどものためのハロウィンイベント(総合農事センター)",
@@ -2253,19 +2201,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/ward/kokurakita.html"
     },
     {
-      "title": "区民文化祭 美術展（公募展）",
-      "venue": "市民ギャラリー（リバーウォーク北九州5階）",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-08",
-      "end_date": "2026-10-13",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "小倉北区民文化祭の公募美術展",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/ward/kokurakita.html"
-    },
-    {
       "title": "バッゴー大会",
       "venue": "小倉北体育館",
       "area": "小倉北区",
@@ -2552,19 +2487,6 @@
       "source_url": "https://kitaq.media/142993/"
     },
     {
-      "title": "県境をこえて電車でハロウィン2026(LinQイチ推し・ご当地キーワードラリー)",
-      "venue": "JR日豊本線 下曽根駅ほか沿線10駅",
-      "area": "小倉南区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-05",
-      "end_date": "2026-11-08",
-      "date_note": "ポスターのキーワードを集めて応募、抽選で特産品が当たる",
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "沿線駅を巡るご当地キーワードラリー",
-      "source_url": "https://www.city.kitakyushu.lg.jp/kokuraminami/vw3100126.html"
-    },
-    {
       "title": "第15回健康フェア",
       "venue": "北九州メッセ A・B展示場(旧:西日本総合展示場新館)",
       "area": "小倉北区",
@@ -2576,19 +2498,6 @@
       "family_friendly": true,
       "summary": "専門家講演や子ども向け体験ができる健康フェア",
       "source_url": "https://www.city.kitakyushu.lg.jp/contents/27200264_00001.html"
-    },
-    {
-      "title": "小倉宿場市",
-      "venue": "小倉城歴史の道・城テラス周辺",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-18",
-      "date_note": "10/3-4,10-12,17-18の計7日間",
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "昔の宿場町風マルシェ、グルメ・雑貨の出店多数",
-      "source_url": "https://kitaq.media/143390/"
     }
   ]
 }
