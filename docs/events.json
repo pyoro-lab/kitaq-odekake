@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-10",
+  "updated_at": "2026-10-11",
   "title": "北九州おでかけ情報まとめ",
-  "count": 309,
+  "count": 301,
   "events": [
     {
       "title": "七五三撮影会〜晴れの日を、旧安川邸で",
@@ -15,19 +15,6 @@
       "family_friendly": true,
       "summary": "庭園での七五三家族写真撮影会",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/infostation/goout.html"
-    },
-    {
-      "title": "「SBI証券 presents TGC KITAKYUSHU 2026 by TOKYO GIRLS COLLECTION」",
-      "venue": "北九州メッセ",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-10",
-      "end_date": "2026-10-10",
-      "date_note": "開場12時30分、開演14時、終演18時30分予定",
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "東京ガールズコレクション北九州大会、チケット販売8月22日開始",
-      "source_url": "https://kitaq.media/140011/"
     },
     {
       "title": "NUKUMORI PLUS アートマルシェ",
@@ -80,6 +67,19 @@
       "family_friendly": true,
       "summary": "耶馬渓ダムのバックヤード見学バスツアー",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260801/infostation/goout.html"
+    },
+    {
+      "title": "九州オクトーバーフェストin門司港",
+      "venue": "門司港レトロ中央広場",
+      "area": "門司区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-09",
+      "end_date": "2026-10-12",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": false,
+      "summary": "九州のビールと料理が楽しめるビアフェス",
+      "source_url": "https://kitaq.media/143780/"
     },
     {
       "title": "KPF（北九州ポップカルチャーフェスティバル）2026",
@@ -251,19 +251,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/goout.html"
     },
     {
-      "title": "クロサキシフト(“黒崎の未来”を語り合うパネルディスカッション)",
-      "venue": "黒崎ひびしんホール",
-      "area": "八幡西区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-10",
-      "end_date": "2026-10-10",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": false,
-      "summary": "黒崎の今とこれからを語り合う公開パネルディスカッション",
-      "source_url": "https://kitaq.media/143639/"
-    },
-    {
       "title": "家族で日帰りキャンプ体験",
       "venue": "夜宮青少年センター",
       "area": "戸畑区",
@@ -274,19 +261,6 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "小学3-6年生と保護者向けキャンプ体験",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/goout.html"
-    },
-    {
-      "title": "お祭り「ふれあい広場」",
-      "venue": "ウェルとばた",
-      "area": "戸畑区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-11",
-      "end_date": "2026-10-11",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "ステージ発表・作品展示・模擬店・バザー",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/goout.html"
     },
     {
@@ -589,32 +563,6 @@
       "source_url": "https://kitaq.media/142734/"
     },
     {
-      "title": "脇田海釣り桟橋 親子釣り大会",
-      "venue": "脇田海釣り桟橋",
-      "area": "若松区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-10",
-      "end_date": "2026-10-10",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "小学生と保護者向けの釣り大会",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/goout.html"
-    },
-    {
-      "title": "若松北海岸 脇田おさかなフェスタ",
-      "venue": "ひびき灘漁業協同組合脇田地区",
-      "area": "若松区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-10",
-      "end_date": "2026-10-10",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "キッチンカー出店や鮮魚販売、漁船クルージングも",
-      "source_url": "https://kitaq.media/143045/"
-    },
-    {
       "title": "若松北海岸フェスティバル いいね発見スタンプラリー",
       "venue": "若松北海岸一帯",
       "area": "若松区",
@@ -652,45 +600,6 @@
       "family_friendly": true,
       "summary": "学習成果発表や演芸大会、ニュースポーツ体験",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/goout.html"
-    },
-    {
-      "title": "KIA国際交流まつり",
-      "venue": "北九州国際交流協会(コムシティ3階)",
-      "area": "八幡西区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-10",
-      "end_date": "2026-10-10",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "市内在住の外国人との国際交流イベント",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/goout.html"
-    },
-    {
-      "title": "であい・ゆめ広場サークルフェスタ",
-      "venue": "西部障害者福祉会館",
-      "area": "八幡西区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-10",
-      "end_date": "2026-10-10",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "サークルによる体験会・バザー・ステージ発表",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/goout.html"
-    },
-    {
-      "title": "SINON カーペンターズコンサート",
-      "venue": "黒崎ひびしんホール",
-      "area": "八幡西区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-10",
-      "end_date": "2026-10-10",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "カーペンターズの名曲を楽しむコンサート",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/ward/yahatanishi.html"
     },
     {
       "title": "漫画体験",
@@ -885,19 +794,6 @@
       "date_confidence": "exact",
       "family_friendly": false,
       "summary": "非公開彫刻も観覧できる森の彫刻鑑賞ツアー",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/event.html"
-    },
-    {
-      "title": "アイシングクッキーに挑戦！〜ハロウィンver.",
-      "venue": "子どもの館",
-      "area": "八幡西区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-10",
-      "end_date": "2026-10-10",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "小学生向けハロウィンクッキー作り体験",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/event.html"
     },
     {
@@ -1120,32 +1016,6 @@
       "family_friendly": null,
       "summary": "東洋ラン約70点の展示会",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/infostation/goout.html"
-    },
-    {
-      "title": "昼間の星を見てみよう！",
-      "venue": "スペースLABO",
-      "area": "八幡東区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-10",
-      "end_date": "2026-10-10",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "昼間に星を観察するイベント",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/ward/yahatahigashi.html"
-    },
-    {
-      "title": "八幡東キッズ探検隊がゆく！バスで秋の自然満喫大冒険",
-      "venue": "スペースワールド駅ロータリー集合",
-      "area": "八幡東区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-10",
-      "end_date": "2026-10-10",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "小5・6年生向け河内貯水池周辺バスツアー",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/ward/yahatahigashi.html"
     },
     {
       "title": "官営八幡製鐵所内部見学と八幡東区満喫バスツアー",
@@ -1447,19 +1317,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/goout.html"
     },
     {
-      "title": "ひとみらい交流マンス ひとみらい☆フェスタ",
-      "venue": "八幡西生涯学習総合センター(コムシティ内)",
-      "area": "八幡西区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-10",
-      "end_date": "2026-10-10",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "体験型ワークショップやマルシェを開催",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/goout.html"
-    },
-    {
       "title": "穴生まつり",
       "venue": "穴生鷹見神社",
       "area": "八幡西区",
@@ -1470,20 +1327,7 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "ステージショーやバザーのある地域祭",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/goout.html"
-    },
-    {
-      "title": "史跡探訪ウォーク「小倉城下街歩き」",
-      "venue": "小倉城天守閣前広場ほか",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-10",
-      "end_date": "2026-10-10",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "ガイド付きで小倉城下の史跡を巡る",
-      "source_url": "https://kitaq.media/143661/"
+      "source_url": "https://kitaq.media/143650/"
     },
     {
       "title": "こくら de フリマ",
@@ -4019,6 +3863,58 @@
       "family_friendly": true,
       "summary": "地域住民の作品を展示する文化祭",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/ward/tobata.html"
+    },
+    {
+      "title": "カツキフェス",
+      "venue": "香月中央公園 芝生広場",
+      "area": "八幡西区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-11",
+      "end_date": "2026-10-11",
+      "date_note": "小雨決行・荒天時は12日に順延",
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "グルメ・ワークショップ・ふれあい動物園など",
+      "source_url": "https://kitaq.media/143728/"
+    },
+    {
+      "title": "Lumi7's 1stシングルリリースイベント",
+      "venue": "リバーウォーク北九州 ミスティックコート",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-12",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": false,
+      "summary": "アイドルグループのミニライブ＆特典会",
+      "source_url": "https://kitaq.media/143670/"
+    },
+    {
+      "title": "お祭り「ふれあい広場」",
+      "venue": "ウェルとばた",
+      "area": "戸畑区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-11",
+      "end_date": "2026-10-11",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "ステージ発表・作品展示・模擬店・バザー",
+      "source_url": "https://kitaq.media/143674/"
+    },
+    {
+      "title": "本まぐろ解体即売会",
+      "venue": "ジ アウトレット北九州 とと市場",
+      "area": "八幡東区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-11",
+      "end_date": "2026-10-11",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "まぐろ解体ショーと数量限定販売",
+      "source_url": "https://kitaq.media/143726/"
     }
   ]
 }
