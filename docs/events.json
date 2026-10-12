@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-12",
+  "updated_at": "2026-10-13",
   "title": "北九州おでかけ情報まとめ",
-  "count": 279,
+  "count": 266,
   "events": [
     {
       "title": "七五三撮影会〜晴れの日を、旧安川邸で",
@@ -67,19 +67,6 @@
       "family_friendly": true,
       "summary": "耶馬渓ダムのバックヤード見学バスツアー",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260801/infostation/goout.html"
-    },
-    {
-      "title": "九州オクトーバーフェストin門司港",
-      "venue": "門司港レトロ中央広場",
-      "area": "門司区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-09",
-      "end_date": "2026-10-12",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": false,
-      "summary": "九州のビールと料理が楽しめるビアフェス",
-      "source_url": "https://kitaq.media/143780/"
     },
     {
       "title": "KPF（北九州ポップカルチャーフェスティバル）2026",
@@ -368,19 +355,6 @@
       "source_url": "https://artne.jp/event"
     },
     {
-      "title": "開館10周年 ちくごist 河北秀也 デザインの旅",
-      "venue": "久留米市美術館",
-      "area": "久留米市",
-      "schedule_type": "dated",
-      "start_date": "2026-08-08",
-      "end_date": "2026-10-12",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": null,
-      "summary": "河北秀也のデザイン展覧会",
-      "source_url": "https://artne.jp/event"
-    },
-    {
       "title": "Yamaguchi Seasonal 2026／坂本龍一＋YCAM Forest Symphony",
       "venue": "常栄寺",
       "area": "山口市",
@@ -391,19 +365,6 @@
       "date_confidence": "exact",
       "family_friendly": null,
       "summary": "坂本龍一のアート企画",
-      "source_url": "https://artne.jp/event"
-    },
-    {
-      "title": "金曜ロードショーとジブリ展",
-      "venue": "山口県立美術館",
-      "area": "山口市",
-      "schedule_type": "dated",
-      "start_date": "2026-07-18",
-      "end_date": "2026-10-12",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "ジブリ作品の展覧会",
       "source_url": "https://artne.jp/event"
     },
     {
@@ -628,19 +589,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/goout.html"
     },
     {
-      "title": "ハロウィンワークショップランド",
-      "venue": "リバーウォーク北九州",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-10",
-      "end_date": "2026-10-12",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "ハロウィン工作ワークショップ(入場無料・体験有料)",
-      "source_url": "https://kitaq.media/143667/"
-    },
-    {
       "title": "すくすくマタニティサロン",
       "venue": "子育てふれあい交流プラザ",
       "area": "小倉北区",
@@ -768,19 +716,6 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "森の生き物を探す自然観察とスケッチ",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/event.html"
-    },
-    {
-      "title": "山﨑真理子と秋に歌う",
-      "venue": "山田緑地",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-12",
-      "end_date": "2026-10-12",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "声楽家とコーラス団体による合唱コンサート",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/event.html"
     },
     {
@@ -1145,7 +1080,7 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "洋上風力発電を学べる普及啓発イベント",
-      "source_url": "https://www.city.kitakyushu.lg.jp/contents/30300044_00003.html"
+      "source_url": "https://kitaq.media/143918/"
     },
     {
       "title": "第41回くきのうみ花火の祭典",
@@ -1161,19 +1096,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/ward/wakamatsu.html"
     },
     {
-      "title": "こどものためのハロウィンイベント(総合農事センター)",
-      "venue": "総合農事センター",
-      "area": "小倉南区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-10",
-      "end_date": "2026-10-12",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "ハロウィン鬼ごっこやお化け屋敷など",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/goout.html"
-    },
-    {
       "title": "樹心会 秋の盆栽展",
       "venue": "総合農事センター",
       "area": "小倉南区",
@@ -1184,19 +1106,6 @@
       "date_confidence": "exact",
       "family_friendly": null,
       "summary": "盆栽24席を展示",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/goout.html"
-    },
-    {
-      "title": "にこりのお祭り",
-      "venue": "黒崎商店街カムズ通り",
-      "area": "八幡西区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-12",
-      "end_date": "2026-10-12",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "インクルーシブ社会をテーマにした祭り",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/goout.html"
     },
     {
@@ -1642,19 +1551,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/event.html"
     },
     {
-      "title": "元気のもりの運動会",
-      "venue": "子育てふれあい交流プラザ",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-11",
-      "end_date": "2026-10-12",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "未就学児と保護者向け運動会",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/event.html"
-    },
-    {
       "title": "パパママ救急教室",
       "venue": "子育てふれあい交流プラザ",
       "area": "小倉北区",
@@ -1678,19 +1574,6 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "生後12カ月までの乳児向けマッサージ教室",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/event.html"
-    },
-    {
-      "title": "響灘の激レア生きもの大捜索",
-      "venue": "響灘ビオトープ",
-      "area": "若松区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-12",
-      "end_date": "2026-10-12",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "湿地の水生生物を探す親子向け観察会",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/event.html"
     },
     {
@@ -2019,19 +1902,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/ward/moji.html"
     },
     {
-      "title": "スポーツフェスタ IN 北九州",
-      "venue": "小倉北体育館",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-12",
-      "end_date": "2026-10-12",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "のど自慢やフットサル教室など体育イベント",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/ward/kokurakita.html"
-    },
-    {
       "title": "リズム&貯筋体操",
       "venue": "小倉北体育館",
       "area": "小倉北区",
@@ -2149,19 +2019,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/ward/wakamatsu.html"
     },
     {
-      "title": "木のおもちゃ広場",
-      "venue": "スペースLABO ANNEX（東田2丁目）",
-      "area": "八幡東区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-11",
-      "end_date": "2026-10-12",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "木のおもちゃで遊びからくりを学ぶ体験",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/ward/yahatahigashi.html"
-    },
-    {
       "title": "サイエンスショー「わくわく化学実験」",
       "venue": "スペースLABO（東田4丁目）",
       "area": "八幡東区",
@@ -2225,19 +2082,6 @@
       "family_friendly": null,
       "summary": "シクラメンの育て方講座(中学生以上)",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/infostation/goout.html"
-    },
-    {
-      "title": "箏・三絃・尺八演奏会",
-      "venue": "戸畑市民会館 中ホール",
-      "area": "戸畑区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-12",
-      "end_date": "2026-10-12",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": false,
-      "summary": "戸畑区文化祭の箏・三味線・尺八演奏会",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/ward/tobata.html"
     },
     {
       "title": "俳句大会",
@@ -3605,30 +3449,17 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/ward/tobata.html"
     },
     {
-      "title": "Lumi7's 1stシングルリリースイベント",
-      "venue": "リバーウォーク北九州 ミスティックコート",
+      "title": "小倉城グリーンリボンデーライトアップ",
+      "venue": "小倉城天守閣",
       "area": "小倉北区",
       "schedule_type": "dated",
-      "start_date": "2026-10-12",
-      "end_date": "2026-10-12",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": false,
-      "summary": "アイドルグループのミニライブ＆特典会",
-      "source_url": "https://kitaq.media/143670/"
-    },
-    {
-      "title": "地球マルシェ in 北九州",
-      "venue": "門司赤煉瓦プレイス",
-      "area": "門司区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-12",
-      "end_date": "2026-10-12",
-      "date_note": null,
+      "start_date": "2026-10-14",
+      "end_date": "2026-10-16",
+      "date_note": "日没〜22時頃点灯",
       "date_confidence": "exact",
       "family_friendly": true,
-      "summary": "28店舗が集まるマルシェ、キッズコーナーもあり",
-      "source_url": "https://kitaq.media/143731/"
+      "summary": "小倉城を3日間グリーンにライトアップ",
+      "source_url": "https://kitaq.media/143948/"
     }
   ]
 }
