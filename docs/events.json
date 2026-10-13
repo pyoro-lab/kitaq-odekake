@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-13",
+  "updated_at": "2026-10-14",
   "title": "北九州おでかけ情報まとめ",
-  "count": 266,
+  "count": 269,
   "events": [
     {
       "title": "七五三撮影会〜晴れの日を、旧安川邸で",
@@ -3460,6 +3460,45 @@
       "family_friendly": true,
       "summary": "小倉城を3日間グリーンにライトアップ",
       "source_url": "https://kitaq.media/143948/"
+    },
+    {
+      "title": "第17回小倉駅ナカ本の市",
+      "venue": "JAM広場(JR小倉駅3階 改札前)",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-14",
+      "end_date": "2026-10-25",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": null,
+      "summary": "古本・レコード11店が出店する古本市",
+      "source_url": "https://kitaq.media/143974/"
+    },
+    {
+      "title": "リト＠葉っぱ切り絵展",
+      "venue": "旧安川邸",
+      "area": "戸畑区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-07",
+      "end_date": "2026-11-03",
+      "date_note": "火曜休館、最終日(11/3)は開館",
+      "date_confidence": "exact",
+      "family_friendly": null,
+      "summary": "葉っぱの切り絵による緻密な展示",
+      "source_url": "https://kitaq.media/143917/"
+    },
+    {
+      "title": "関門周遊スタンプラリー",
+      "venue": "門司港・下関両岸のみなとオアシス施設",
+      "area": "門司区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-15",
+      "date_note": "開始日不明、11/15まで開催中",
+      "date_confidence": "estimated",
+      "family_friendly": null,
+      "summary": "門司港・下関でスタンプ10個を集める催し",
+      "source_url": "https://kitaq.media/143738/"
     }
   ]
 }
