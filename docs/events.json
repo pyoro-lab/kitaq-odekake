@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-14",
+  "updated_at": "2026-10-15",
   "title": "北九州おでかけ情報まとめ",
-  "count": 269,
+  "count": 266,
   "events": [
     {
       "title": "七五三撮影会〜晴れの日を、旧安川邸で",
@@ -54,19 +54,6 @@
       "family_friendly": null,
       "summary": "名古屋名物の赤から鍋が楽しめる新店",
       "source_url": "https://kitaq.media/143411/"
-    },
-    {
-      "title": "耶馬渓ダム見学バスツアー",
-      "venue": "耶馬渓ダム",
-      "area": "大分県",
-      "schedule_type": "dated",
-      "start_date": "2026-10-14",
-      "end_date": "2026-10-14",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "耶馬渓ダムのバックヤード見学バスツアー",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260801/infostation/goout.html"
     },
     {
       "title": "KPF（北九州ポップカルチャーフェスティバル）2026",
@@ -132,19 +119,6 @@
       "family_friendly": true,
       "summary": "貨物列車の運転シミュレーター体験",
       "source_url": "https://kitaq.media/141612/"
-    },
-    {
-      "title": "企画展「松本昌太郎 鉄道の記憶」",
-      "venue": "九州鉄道記念館",
-      "area": "門司区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-14",
-      "end_date": "2026-10-14",
-      "date_note": "10月14日まで(開始日は記事に記載なし)",
-      "date_confidence": "estimated",
-      "family_friendly": true,
-      "summary": "鉄道写真約150点を展示する企画展",
-      "source_url": "https://kitaq.media/141920/"
     },
     {
       "title": "2026駅長対抗 ご当地カレー総選挙 決勝戦",
@@ -1106,19 +1080,6 @@
       "date_confidence": "exact",
       "family_friendly": null,
       "summary": "盆栽24席を展示",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/goout.html"
-    },
-    {
-      "title": "ヒビキノシネマ(「お終活 再春！人生ラプソディ」上映)",
-      "venue": "学術研究都市学術情報センター",
-      "area": "若松区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-14",
-      "end_date": "2026-10-14",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": false,
-      "summary": "映画上映会、限定200席",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/goout.html"
     },
     {
