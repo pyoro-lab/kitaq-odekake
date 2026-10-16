@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-16",
+  "updated_at": "2026-10-17",
   "title": "北九州おでかけ情報まとめ",
-  "count": 267,
+  "count": 266,
   "events": [
     {
       "title": "七五三撮影会〜晴れの日を、旧安川邸で",
@@ -641,19 +641,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/event.html"
     },
     {
-      "title": "たのしい親子体操",
-      "venue": "子どもの館",
-      "area": "八幡西区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-16",
-      "end_date": "2026-10-16",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "音楽に合わせた親子体操",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/event.html"
-    },
-    {
       "title": "東田ミュージアムパーク 子どもスクール",
       "venue": "いのちのたび博物館ほか",
       "area": "八幡東区",
@@ -795,19 +782,6 @@
       "family_friendly": true,
       "summary": "地図とコンパスを使うオリエンテーリング体験",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/sports.html"
-    },
-    {
-      "title": "門司区文化祭 門司美術公募展",
-      "venue": "旧大阪商船",
-      "area": "門司区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-09",
-      "end_date": "2026-10-16",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": false,
-      "summary": "公募による美術作品の展示会",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/ward/moji.html"
     },
     {
       "title": "健康フェス はぴフェス",
@@ -1068,6 +1042,19 @@
       "family_friendly": true,
       "summary": "洋上風力発電を学べる普及啓発イベント",
       "source_url": "https://kitaq.media/143918/"
+    },
+    {
+      "title": "老松公園パークラボ2026",
+      "venue": "老松公園",
+      "area": "門司区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-17",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "巨大オセロ・モルックや工作など親子で楽しめる体験、夜はライトアップ",
+      "source_url": "https://kitaq.media/144089/"
     },
     {
       "title": "第41回くきのうみ花火の祭典",
@@ -2110,6 +2097,32 @@
       "source_url": "https://kitaq.media/143306/"
     },
     {
+      "title": "魚町ボタニカルマーケット",
+      "venue": "魚町みらい広場",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-18",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": false,
+      "summary": "アガベ・ビカクシダなど個性派植物が集まる夜間マーケット",
+      "source_url": "https://kitaq.media/144146/"
+    },
+    {
+      "title": "ひびきの祭",
+      "venue": "北九州学術研究都市",
+      "area": "若松区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-15",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "サイエンスショーやプログラミング体験など多数の子ども向け企画",
+      "source_url": "https://kitaq.media/143560/"
+    },
+    {
       "title": "ナチュラル講座「緑の薬箱・基本のメディカルハーブ」",
       "venue": "白野江植物公園",
       "area": "門司区",
@@ -2302,19 +2315,6 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "関門海峡の歴史的建造物を海上から鑑賞するクルーズ",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/infostation/goout.html"
-    },
-    {
-      "title": "ひびきの祭",
-      "venue": "北九州学術研究都市",
-      "area": "若松区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "サイエンスショーやプログラミング体験など多数の子ども向け企画",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/infostation/goout.html"
     },
     {
@@ -3421,19 +3421,6 @@
       "family_friendly": true,
       "summary": "地域住民の作品を展示する文化祭",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/ward/tobata.html"
-    },
-    {
-      "title": "小倉城グリーンリボンデーライトアップ",
-      "venue": "小倉城天守閣",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-14",
-      "end_date": "2026-10-16",
-      "date_note": "日没〜22時頃点灯",
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "小倉城を3日間グリーンにライトアップ",
-      "source_url": "https://kitaq.media/143948/"
     },
     {
       "title": "第17回小倉駅ナカ本の市",
