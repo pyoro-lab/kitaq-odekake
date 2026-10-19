@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-19",
+  "updated_at": "2026-10-20",
   "title": "北九州おでかけ情報まとめ",
-  "count": 222,
+  "count": 220,
   "events": [
     {
       "title": "七五三撮影会〜晴れの日を、旧安川邸で",
@@ -602,19 +602,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/infostation/goout.html"
     },
     {
-      "title": "北九州市新ビジョンキャラクター名称発表イベント",
-      "venue": "北九州市役所本庁舎1階",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-19",
-      "end_date": "2026-10-19",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "新キャラクター名称発表・ゆうこすメッセージも",
-      "source_url": "https://kitaq.media/144410/"
-    },
-    {
       "title": "さわやか健康清掃登山",
       "venue": "皿倉山ビジターセンター",
       "area": "八幡東区",
@@ -901,19 +888,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/goout.html"
     },
     {
-      "title": "開館25周年企画展「遠賀川沿い伝承の盆踊り」",
-      "venue": "長崎街道木屋瀬宿記念館",
-      "area": "八幡西区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-24",
-      "end_date": "2026-12-20",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": null,
-      "summary": "盆踊りの衣装や道具を展示、開館25周年記念",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/goout.html"
-    },
-    {
       "title": "筑前木屋瀬宿場まつり",
       "venue": "木屋瀬地区(長崎街道沿い)",
       "area": "八幡西区",
@@ -1028,19 +1002,6 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "丁寧な暮らしを提案するマーケット",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/event.html"
-    },
-    {
-      "title": "親子リズム体操",
-      "venue": "子どもの館",
-      "area": "八幡西区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-19",
-      "end_date": "2026-10-19",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "1歳児と保護者向けリズム体操",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/event.html"
     },
     {
@@ -2888,6 +2849,19 @@
       "family_friendly": null,
       "summary": "門司港・下関でスタンプ10個を集める催し",
       "source_url": "https://kitaq.media/143738/"
+    },
+    {
+      "title": "開館25周年企画展「遠賀川沿い伝承の盆踊り」",
+      "venue": "長崎街道木屋瀬宿記念館",
+      "area": "八幡西区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-24",
+      "end_date": "2026-12-20",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "盆踊りの衣装や道具を展示、開館25周年記念",
+      "source_url": "https://kitaq.media/143912/"
     }
   ]
 }
