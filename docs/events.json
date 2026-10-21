@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-21",
+  "updated_at": "2026-10-22",
   "title": "北九州おでかけ情報まとめ",
-  "count": 170,
+  "count": 173,
   "events": [
     {
       "title": "七五三撮影会〜晴れの日を、旧安川邸で",
@@ -30,6 +30,19 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/contents/v28700004_00001.html"
     },
     {
+      "title": "令和8年新米祭り",
+      "venue": "合馬農産物直売所",
+      "area": "小倉南区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "新米販売・抽選会・合馬名産グルメ",
+      "source_url": "https://kitaq.media/144495/"
+    },
+    {
       "title": "ランドセルランド in 北九州",
       "venue": "イオンモール八幡東 1階ひまわりの広場",
       "area": "八幡東区",
@@ -41,19 +54,6 @@
       "family_friendly": true,
       "summary": "中古ランドセル無料譲渡と防犯スポーツ体験(新一年生向け)",
       "source_url": "https://kitaq.media/143499/"
-    },
-    {
-      "title": "赤から 小倉魚町店",
-      "venue": "赤から 小倉魚町店",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-21",
-      "end_date": "2026-10-21",
-      "date_note": "9月21日オープン",
-      "date_confidence": "estimated",
-      "family_friendly": null,
-      "summary": "名古屋名物の赤から鍋が楽しめる新店",
-      "source_url": "https://kitaq.media/143411/"
     },
     {
       "title": "KPF（北九州ポップカルチャーフェスティバル）2026",
@@ -145,6 +145,45 @@
       "family_friendly": true,
       "summary": "小中学生と保護者向け陶芸教室",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/goout.html"
+    },
+    {
+      "title": "一期一食2026(推し食オシエタイ抽選会)",
+      "venue": null,
+      "area": null,
+      "schedule_type": "dated",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-15",
+      "date_note": "推し食スタンプラリー達成者が参加できるグルメイベント会場での抽選会",
+      "date_confidence": "estimated",
+      "family_friendly": null,
+      "summary": "推し食スタンプラリーの抽選会があるグルメイベント",
+      "source_url": "https://kitaq.media/143366/"
+    },
+    {
+      "title": "バーガーキング イオン戸畑ショッピングセンター店",
+      "venue": "イオン戸畑ショッピングセンター",
+      "area": "戸畑区",
+      "schedule_type": "dated",
+      "start_date": "2026-09-30",
+      "end_date": "2026-10-30",
+      "date_note": "9月30日オープン",
+      "date_confidence": "estimated",
+      "family_friendly": true,
+      "summary": "バーガーキング市内3店舗目オープン",
+      "source_url": "https://kitaq.media/144415/"
+    },
+    {
+      "title": "清走中(ゲーム感覚ごみ拾いイベント)",
+      "venue": "JR小倉駅3階 JAM広場",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-31",
+      "end_date": "2026-10-31",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "ゴミ拾いをゲーム化したミッション型イベント",
+      "source_url": "https://kitaq.media/144467/"
     },
     {
       "title": "バスの運転体験会",
