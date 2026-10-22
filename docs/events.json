@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-22",
+  "updated_at": "2026-10-23",
   "title": "北九州おでかけ情報まとめ",
-  "count": 173,
+  "count": 174,
   "events": [
     {
       "title": "七五三撮影会〜晴れの日を、旧安川邸で",
@@ -158,19 +158,6 @@
       "family_friendly": null,
       "summary": "推し食スタンプラリーの抽選会があるグルメイベント",
       "source_url": "https://kitaq.media/143366/"
-    },
-    {
-      "title": "バーガーキング イオン戸畑ショッピングセンター店",
-      "venue": "イオン戸畑ショッピングセンター",
-      "area": "戸畑区",
-      "schedule_type": "dated",
-      "start_date": "2026-09-30",
-      "end_date": "2026-10-30",
-      "date_note": "9月30日オープン",
-      "date_confidence": "estimated",
-      "family_friendly": true,
-      "summary": "バーガーキング市内3店舗目オープン",
-      "source_url": "https://kitaq.media/144415/"
     },
     {
       "title": "清走中(ゲーム感覚ごみ拾いイベント)",
@@ -498,6 +485,19 @@
       "source_url": "https://kitaq.media/142387/"
     },
     {
+      "title": "秋の鉄道の祭典2026",
+      "venue": "九州鉄道記念館",
+      "area": "門司区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-25",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "気動車の展示撮影会や鉄道グッズ販売など",
+      "source_url": "https://kitaq.media/144603/"
+    },
+    {
       "title": "バスの運転体験会",
       "venue": null,
       "area": "小倉南区",
@@ -509,6 +509,19 @@
       "family_friendly": false,
       "summary": "西鉄バス運転体験・応募制",
       "source_url": "https://kitaq.media/142506/"
+    },
+    {
+      "title": "第5回 下関くじら祭",
+      "venue": "竹崎公園",
+      "area": "下関市",
+      "schedule_type": "dated",
+      "start_date": "2026-10-31",
+      "end_date": "2026-10-31",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "くじら串カツ1000本無料ふるまい・鯨なべ",
+      "source_url": "https://shimonoseki.goguynet.jp/2026/10/20/kujira-matsuri-2026/"
     },
     {
       "title": "健康登山「河内貯水池、せせらぎ遊歩道を歩く」",
@@ -686,11 +699,11 @@
       "schedule_type": "dated",
       "start_date": "2026-10-23",
       "end_date": "2026-11-03",
-      "date_note": null,
+      "date_note": "当初10/23開始予定だったが雨予報で10/23〜27中止、10/28〜11/3に変更",
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "約3万5千個の竹灯籠で小倉城周辺を彩る",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/goout.html"
+      "source_url": "https://kitaq.media/144584/"
     },
     {
       "title": "筑前木屋瀬宿場まつり",
