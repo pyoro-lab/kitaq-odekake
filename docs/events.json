@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-23",
+  "updated_at": "2026-10-24",
   "title": "北九州おでかけ情報まとめ",
-  "count": 174,
+  "count": 176,
   "events": [
     {
       "title": "七五三撮影会〜晴れの日を、旧安川邸で",
@@ -716,7 +716,7 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "宿場踊りや総踊り、のみの市など",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/goout.html"
+      "source_url": "https://www.city.kitakyushu.lg.jp/contents/v05600048_00002.html"
     },
     {
       "title": "風力発電見学会「グローバルウインドデイ」",
@@ -898,19 +898,6 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "サイエンスショーや木のおもちゃ広場",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/event.html"
-    },
-    {
-      "title": "よく見るおえかき体験講座",
-      "venue": "タカミヤ環境ミュージアム",
-      "area": "八幡東区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-16",
-      "end_date": "2026-10-23",
-      "date_note": "10月16日・23日（全2回）",
-      "date_confidence": "exact",
-      "family_friendly": false,
-      "summary": "水彩画初心者向け絵画講座(全2回)",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/event.html"
     },
     {
@@ -1408,6 +1395,19 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/infostation/event.html"
     },
     {
+      "title": "こどもシゴト博®2026 in 北九州",
+      "venue": "西日本総合展示場 中展示場",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-01",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "親子向け職業体験イベント(事前申込制)",
+      "source_url": "https://www.city.kitakyushu.lg.jp/contents/p098_00017.html"
+    },
+    {
       "title": "セイロンゾウのくらしを考えよう",
       "venue": "到津の森公園",
       "area": "小倉北区",
@@ -1889,6 +1889,19 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/ward/moji.html"
     },
     {
+      "title": "栄町マルシェ",
+      "venue": "門司港 栄町銀天街",
+      "area": "門司区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-25",
+      "end_date": "2026-10-25",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "商店街でグルメ・ハンドメイドと親子ワークショップ",
+      "source_url": "https://kitaq.media/144741/"
+    },
+    {
       "title": "戸畑区美術展(絵画)",
       "venue": "戸畑生涯学習センター",
       "area": "戸畑区",
@@ -1913,6 +1926,19 @@
       "family_friendly": true,
       "summary": "ギラヴァンツのコーチによる小学生向け体力づくりイベント",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/ward/kokurakita.html"
+    },
+    {
+      "title": "第21回長府企業フェスタ",
+      "venue": "ボートレース下関(中央スタンド1階とその周辺)",
+      "area": "下関市",
+      "schedule_type": "dated",
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-25",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "企業PR・キッズダンス・ちびっこ段ボール広場など",
+      "source_url": "https://shimonoseki.goguynet.jp/2026/10/21/chofu-kigyo-festa/"
     },
     {
       "title": "区民文化祭 三曲（箏・三絃・尺八）演奏会",
