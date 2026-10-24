@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-24",
+  "updated_at": "2026-10-25",
   "title": "北九州おでかけ情報まとめ",
-  "count": 176,
+  "count": 173,
   "events": [
     {
       "title": "七五三撮影会〜晴れの日を、旧安川邸で",
@@ -28,19 +28,6 @@
       "family_friendly": true,
       "summary": "障害のあるクリエイターのアート作品・グッズ展示販売",
       "source_url": "https://www.city.kitakyushu.lg.jp/contents/v28700004_00001.html"
-    },
-    {
-      "title": "令和8年新米祭り",
-      "venue": "合馬農産物直売所",
-      "area": "小倉南区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-24",
-      "end_date": "2026-10-24",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "新米販売・抽選会・合馬名産グルメ",
-      "source_url": "https://kitaq.media/144495/"
     },
     {
       "title": "ランドセルランド in 北九州",
@@ -264,19 +251,6 @@
       "source_url": "https://www.kct.ac.jp/campuslife/schedule"
     },
     {
-      "title": "まちかどSongsーハーモニー・フェスタinリバーウォーク北九州ー",
-      "venue": "リバーウォーク北九州 ミスティックコート",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-24",
-      "end_date": "2026-10-24",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "歌の魅力を発信。音楽団体による合唱ステージ披露",
-      "source_url": "https://kitaq.media/141144/"
-    },
-    {
       "title": "作家たまごと先輩作家の会",
       "venue": "カーニバルプラスひびきの店 敷地内(ゆめばこ)",
       "area": "若松区",
@@ -288,19 +262,6 @@
       "family_friendly": null,
       "summary": "作家を目指す人向けの交流会",
       "source_url": "https://kitaq.media/142734/"
-    },
-    {
-      "title": "漫画体験",
-      "venue": "漫画ミュージアム",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-24",
-      "end_date": "2026-10-24",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "漫画道具やタブレットでの漫画体験",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/goout.html"
     },
     {
       "title": "【演劇】「リア王-KING LEAR-」",
@@ -327,32 +288,6 @@
       "family_friendly": true,
       "summary": "釣り初心者の親子向け1泊2日の釣り体験",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/goout.html"
-    },
-    {
-      "title": "オープントップバスツアー",
-      "venue": "小倉駅新幹線口集合",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-24",
-      "end_date": "2026-10-24",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "若戸大橋や皿倉山、花火祭典を巡るバスツアー",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/goout.html"
-    },
-    {
-      "title": "おはなしワールド「絵本と音楽で楽しむハロウィンパーティー」",
-      "venue": "こども文化会館",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-24",
-      "end_date": "2026-10-24",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "読み聞かせや紙芝居、チェロ演奏のハロウィン会",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/event.html"
     },
     {
       "title": "陶工 河井寬次郎の息吹",
@@ -433,6 +368,19 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/sports.html"
     },
     {
+      "title": "TeamUKYOチャレンジスクール 平尾台ウォークラリー2026",
+      "venue": "ソラランド平尾台",
+      "area": "小倉南区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-03",
+      "end_date": "2026-11-03",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "片山右京と平尾台でウォークラリー体験",
+      "source_url": "https://www.city.kitakyushu.lg.jp/kokuraminami/vw3100127.html"
+    },
+    {
       "title": "オリエンテーリング教室",
       "venue": "夜宮青少年センター",
       "area": "戸畑区",
@@ -495,7 +443,7 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "気動車の展示撮影会や鉄道グッズ販売など",
-      "source_url": "https://kitaq.media/144603/"
+      "source_url": "https://kitaq.media/144819/"
     },
     {
       "title": "バスの運転体験会",
@@ -556,11 +504,11 @@
       "schedule_type": "dated",
       "start_date": "2026-10-25",
       "end_date": "2026-10-25",
-      "date_note": null,
+      "date_note": "台風接近のため中止と発表(10/23)",
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "航空会社の出店やステージイベント",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/infostation/goout.html"
+      "source_url": "https://kitaq.media/144623/"
     },
     {
       "title": "京町とほほん市（古本フリーマーケット）",
@@ -678,6 +626,19 @@
       "family_friendly": true,
       "summary": "愛犬仮装コンテストやマルシェ(愛犬同伴可)",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/infostation/goout.html"
+    },
+    {
+      "title": "第11回けやきマルシェ",
+      "venue": "JR八幡駅前(国際通り歩道・駅前広場)",
+      "area": "八幡東区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-03",
+      "end_date": "2026-11-03",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "グルメ&ハンドメイド32店舗、子ども向けブースも",
+      "source_url": "https://kitaq.media/144609/"
     },
     {
       "title": "秋のきのこ観察会",
@@ -1977,7 +1938,7 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "お菓子で調剤体験する子ども向けイベント",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/ward/kokuraminami.html"
+      "source_url": "https://kitaq.media/144718/"
     },
     {
       "title": "コクランタン2026",
