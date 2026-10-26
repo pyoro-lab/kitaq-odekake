@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-26",
+  "updated_at": "2026-10-27",
   "title": "北九州おでかけ情報まとめ",
-  "count": 163,
+  "count": 161,
   "events": [
     {
       "title": "七五三撮影会〜晴れの日を、旧安川邸で",
@@ -654,19 +654,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/event.html"
     },
     {
-      "title": "ベビーマッサージ(子どもの館)",
-      "venue": "子どもの館",
-      "area": "八幡西区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-26",
-      "end_date": "2026-10-26",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "乳児と保護者向けベビーマッサージ",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/event.html"
-    },
-    {
       "title": "おばけをやっつけろ！ハロウィンストラックアウト大会",
       "venue": "子どもの館",
       "area": "八幡西区",
@@ -886,19 +873,6 @@
       "family_friendly": false,
       "summary": "歌謡曲に振付けた創作日本舞踊の発表(入場料500円)",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/ward/wakamatsu.html"
-    },
-    {
-      "title": "親子体操教室「コアラくらぶ」",
-      "venue": "レインボープラザ（中央2丁目）",
-      "area": "八幡東区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-26",
-      "end_date": "2026-10-26",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "未就学児と親子で楽しむ運動遊び",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/ward/yahatahigashi.html"
     },
     {
       "title": "フッ素イオン de 歯ッピーフェスタ",
@@ -1915,19 +1889,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/ward/yahatahigashi.html"
     },
     {
-      "title": "穴生学舎ロビーコンサート",
-      "venue": "穴生学舎",
-      "area": "八幡西区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-26",
-      "end_date": "2026-10-26",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": null,
-      "summary": "土谷カルテットによるロビーコンサート",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/ward/yahatanishi.html"
-    },
-    {
       "title": "岸谷香10回目のひとり旅",
       "venue": "黒崎ひびしんホール",
       "area": "八幡西区",
@@ -2121,6 +2082,19 @@
       "family_friendly": true,
       "summary": "レシート提示で参加できる抽選会",
       "source_url": "https://kitaq.media/144423/"
+    },
+    {
+      "title": "バーチャル宇宙体験フェス",
+      "venue": "スペースLABO",
+      "area": "八幡東区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-07",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "VR・ARで宇宙を体験する親子向け科学イベント",
+      "source_url": "https://kitaq.media/144648/"
     }
   ]
 }
