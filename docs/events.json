@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-27",
+  "updated_at": "2026-10-28",
   "title": "北九州おでかけ情報まとめ",
-  "count": 161,
+  "count": 165,
   "events": [
     {
       "title": "七五三撮影会〜晴れの日を、旧安川邸で",
@@ -937,7 +937,7 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "サイエンスショーやプログラミング体験など多数の子ども向け企画",
-      "source_url": "https://kitaq.media/143560/"
+      "source_url": "https://kitaq.media/144936/"
     },
     {
       "title": "ナチュラル講座「緑の薬箱・基本のメディカルハーブ」",
@@ -2056,6 +2056,58 @@
       "family_friendly": true,
       "summary": "京都発ベーグル専門店の新規オープン",
       "source_url": "https://kitaq.media/144925/"
+    },
+    {
+      "title": "区役所de角打ちクロノヨル(第4夜)",
+      "venue": "八幡西区役所5階(コムシティ内)",
+      "area": "八幡西区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-28",
+      "end_date": "2026-12-23",
+      "date_note": "毎週水曜9回(10/28,11/4,11/11,11/18,11/25,12/2,12/9,12/16,12/23)17:30-19:30",
+      "date_confidence": "exact",
+      "family_friendly": false,
+      "summary": "黒崎で角打ち、ビールと夜景を楽しむ催し",
+      "source_url": "https://www.city.kitakyushu.lg.jp/yahatanishi/vw6100075.html"
+    },
+    {
+      "title": "日本遺産×高速道路 関門の軌跡巡りスタンプラリー",
+      "venue": "関門ノスタルジック海峡(門司・若松・下関)および関門自動車道PA(めかりPA・壇之浦PA)",
+      "area": "門司区・若松区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-26",
+      "end_date": "2026-11-30",
+      "date_note": "記事公開(10/26)時点で開催中、期間は11月30日まで",
+      "date_confidence": "estimated",
+      "family_friendly": true,
+      "summary": "関門エリア周遊デジタルスタンプラリーで抽選景品",
+      "source_url": "https://kitaq.media/144631/"
+    },
+    {
+      "title": "第62回北海道物産展",
+      "venue": "小倉井筒屋本館8階催場",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-23",
+      "end_date": "2026-11-10",
+      "date_note": "第1弾10/23-29、第2弾10/30-11/10の2部制",
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "北海道70社出店、物産展で旬グルメ販売",
+      "source_url": "https://kitaq.media/144830/"
+    },
+    {
+      "title": "ノルウェージャン・ジェイド初寄港お見送りイベント",
+      "venue": "長州出島(新港2号岸壁)",
+      "area": "下関市",
+      "schedule_type": "dated",
+      "start_date": "2026-11-06",
+      "end_date": "2026-11-06",
+      "date_note": "15:10-15:40(小雨決行)、要事前申込(締切10/30)",
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "初寄港の客船を手旗で見送る無料イベント",
+      "source_url": "https://shimonoseki.goguynet.jp/2026/10/26/norwegian-jade/"
     },
     {
       "title": "歴代ゴジラ映画ポスターパネル展",
