@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28",
+  "updated_at": "2026-10-29",
   "title": "北九州おでかけ情報まとめ",
   "count": 165,
   "events": [
@@ -693,19 +693,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/event.html"
     },
     {
-      "title": "ベビーマッサージ教室(子育てふれあい交流プラザ)",
-      "venue": "子育てふれあい交流プラザ",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-28",
-      "end_date": "2026-10-28",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "生後12カ月までの乳児向けマッサージ教室",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/event.html"
-    },
-    {
       "title": "どんぐりと遊ぼう！食べよう！",
       "venue": "いのちのたび博物館",
       "area": "八幡東区",
@@ -963,7 +950,7 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "専門家講演や子ども向け体験ができる健康フェア",
-      "source_url": "https://www.city.kitakyushu.lg.jp/contents/27200264_00001.html"
+      "source_url": "https://kitaq.media/145000/"
     },
     {
       "title": "もじ少年自然の家まつり",
@@ -2147,6 +2134,19 @@
       "family_friendly": true,
       "summary": "VR・ARで宇宙を体験する親子向け科学イベント",
       "source_url": "https://kitaq.media/144648/"
+    },
+    {
+      "title": "関西うまいもの展",
+      "venue": "THE OUTLETS KITAKYUSHU フードフォレスト1954区画",
+      "area": "八幡東区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-29",
+      "end_date": "2026-11-03",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "関西各地の名物グルメが集まる物産展",
+      "source_url": "https://kitaq.media/145083/"
     }
   ]
 }
