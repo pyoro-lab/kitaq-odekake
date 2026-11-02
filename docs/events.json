@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-02",
+  "updated_at": "2026-11-03",
   "title": "北九州おでかけ情報まとめ",
-  "count": 202,
+  "count": 204,
   "events": [
     {
       "title": "七五三撮影会〜晴れの日を、旧安川邸で",
@@ -15,19 +15,6 @@
       "family_friendly": true,
       "summary": "庭園での七五三家族写真撮影会",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/infostation/goout.html"
-    },
-    {
-      "title": "ランドセルランド in 北九州",
-      "venue": "イオンモール八幡東 1階ひまわりの広場",
-      "area": "八幡東区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-03",
-      "end_date": "2026-11-03",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "中古ランドセル無料譲渡と防犯スポーツ体験(新一年生向け)",
-      "source_url": "https://kitaq.media/143499/"
     },
     {
       "title": "サイクリングデイ北九州空港2026",
@@ -602,6 +589,19 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/sports.html"
     },
     {
+      "title": "門司港、時を奏でる音楽祭",
+      "venue": "門司市民会館",
+      "area": "門司区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-03",
+      "end_date": "2026-11-03",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "ワークショップと楽器作り、親子向け音楽祭",
+      "source_url": "https://kitaq.media/145181/"
+    },
+    {
       "title": "市民センター文化祭(伊川市民サブセンター)",
       "venue": "伊川市民サブセンター",
       "area": "門司区",
@@ -613,6 +613,19 @@
       "family_friendly": true,
       "summary": "合唱や作品展示を楽しむ地域文化祭",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/ward/moji.html"
+    },
+    {
+      "title": "ランドセルランド in 北九州",
+      "venue": "イオンモール八幡東 1階ひまわりの広場",
+      "area": "八幡東区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-03",
+      "end_date": "2026-11-03",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "中古ランドセル無料譲渡と防犯スポーツ体験(新一年生向け)",
+      "source_url": "https://kitaq.media/145176/"
     },
     {
       "title": "フッ素イオン de 歯ッピーフェスタ",
@@ -652,6 +665,19 @@
       "family_friendly": null,
       "summary": "シクラメンの育て方講座(中学生以上)",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/infostation/goout.html"
+    },
+    {
+      "title": "ONE LIFE 北九州",
+      "venue": "福岡県営中央公園",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-03",
+      "end_date": "2026-11-03",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "愛犬と参加できるマルシェ・ステージイベント",
+      "source_url": "https://kitaq.media/145191/"
     },
     {
       "title": "男性のための介護入門講座「介護男子」",
