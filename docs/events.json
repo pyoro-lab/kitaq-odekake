@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-04",
+  "updated_at": "2026-11-05",
   "title": "北九州おでかけ情報まとめ",
-  "count": 186,
+  "count": 201,
   "events": [
     {
       "title": "七五三撮影会〜晴れの日を、旧安川邸で",
@@ -15,6 +15,19 @@
       "family_friendly": true,
       "summary": "庭園での七五三家族写真撮影会",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/infostation/goout.html"
+    },
+    {
+      "title": "U字工事スペシャルお笑いライブ",
+      "venue": "チャチャタウン小倉",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-28",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "お笑いライブ",
+      "source_url": "https://www.chachatown.com/eventinfo/"
     },
     {
       "title": "KPF（北九州ポップカルチャーフェスティバル）2026",
@@ -223,19 +236,6 @@
       "family_friendly": true,
       "summary": "東田地区の施設をめぐる連続体験学習(隔週土曜全11回)",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/event.html"
-    },
-    {
-      "title": "ライジングゼファーフクオカ公式戦 市民招待",
-      "venue": "総合体育館",
-      "area": "八幡東区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-04",
-      "end_date": "2026-11-04",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "Bリーグ公式戦に市内在住者を招待",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/sports.html"
     },
     {
       "title": "オリエンテーリング教室",
@@ -560,19 +560,6 @@
       "date_confidence": "exact",
       "family_friendly": null,
       "summary": "メディカルハーブのチンキ作り講座",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/infostation/goout.html"
-    },
-    {
-      "title": "消防音楽隊「水曜コンサート」",
-      "venue": "リバーウォーク北九州 1階",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-04",
-      "end_date": "2026-11-04",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "消防音楽隊とカラーガード隊の演奏",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/infostation/goout.html"
     },
     {
@@ -1366,7 +1353,7 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "周年祭(カラオケ歌うまチャレンジ&SuperBoysライブ)",
-      "source_url": "https://kitaq.media/144469/"
+      "source_url": "https://www.chachatown.com/eventinfo/"
     },
     {
       "title": "第6回 世界身体障害者野球日本大会",
@@ -1431,7 +1418,7 @@
       "date_confidence": "exact",
       "family_friendly": false,
       "summary": "黒崎で角打ち、ビールと夜景を楽しむ催し",
-      "source_url": "https://www.city.kitakyushu.lg.jp/yahatanishi/vw6100075.html"
+      "source_url": "https://kitaq.media/145331/"
     },
     {
       "title": "日本遺産×高速道路 関門の軌跡巡りスタンプラリー",
@@ -1535,7 +1522,7 @@
       "date_confidence": "estimated",
       "family_friendly": true,
       "summary": "全31作品のゴジラ映画ポスターを一堂展示",
-      "source_url": "https://kitaq.media/144423/"
+      "source_url": "https://riverwalk.co.jp/event/"
     },
     {
       "title": "『ゴジラ-0.0』公開記念ガラポン抽選会",
@@ -1834,19 +1821,6 @@
       "date_confidence": "exact",
       "family_friendly": null,
       "summary": "障害者による芸術作品の展示",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/goout.html"
-    },
-    {
-      "title": "【演劇】「他人」",
-      "venue": "J:COM北九州芸術劇場(リバーウォーク北九州6階)",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-22",
-      "end_date": "2026-11-23",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "演劇「他人」の公演",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/goout.html"
     },
     {
@@ -2420,6 +2394,227 @@
       "family_friendly": true,
       "summary": "フルート二重奏とYELLマーケット同時開催",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/ward/tobata.html"
+    },
+    {
+      "title": "Theトレフェス ポケモンカード大会",
+      "venue": "AIM3F",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-08",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "ポケモンカードの大会",
+      "source_url": "https://hello-kitakyushu.or.jp/event/"
+    },
+    {
+      "title": "新しい学校選びフェア",
+      "venue": "AIM3F",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-15",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "中高生・保護者向け学校選びフェア",
+      "source_url": "https://hello-kitakyushu.or.jp/event/"
+    },
+    {
+      "title": "第257回北九州市民寄席『柳家喬太郎 独演会』",
+      "venue": "会議場(AIM)",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-12-20",
+      "end_date": "2026-12-20",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": false,
+      "summary": "柳家喬太郎の落語独演会",
+      "source_url": "https://hello-kitakyushu.or.jp/event/"
+    },
+    {
+      "title": "からぴちエクスプレス～山陽新幹線に乗って！～",
+      "venue": "リバーウォーク北九州",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-09",
+      "end_date": "2026-12-27",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "新幹線モチーフの親子向け企画",
+      "source_url": "https://riverwalk.co.jp/event/"
+    },
+    {
+      "title": "Qの森 11月の読み聞かせ(テーマ:スポーツ)",
+      "venue": "リバーウォーク北九州",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-28",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "子ども向け読み聞かせ会",
+      "source_url": "https://riverwalk.co.jp/event/"
+    },
+    {
+      "title": "パンフェス＆ご当地パン in リバーウォーク",
+      "venue": "リバーウォーク北九州",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-06",
+      "end_date": "2026-11-08",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "ご当地パンを集めた物産展",
+      "source_url": "https://riverwalk.co.jp/event/"
+    },
+    {
+      "title": "連続企画「私たちの北九州を知る」2026 第2回",
+      "venue": "リバーウォーク北九州",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-23",
+      "date_note": null,
+      "date_confidence": "estimated",
+      "family_friendly": false,
+      "summary": "北九州を知る連続企画・講座",
+      "source_url": "https://riverwalk.co.jp/event/"
+    },
+    {
+      "title": "福岡県警察音楽隊「安全・安心コンサート」",
+      "venue": "リバーウォーク北九州",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-18",
+      "end_date": "2026-11-18",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "警察音楽隊のコンサート",
+      "source_url": "https://riverwalk.co.jp/event/"
+    },
+    {
+      "title": "ふわふわ絵の具でアートしよう！テクスチャーアート ワークショップ",
+      "venue": "リバーウォーク北九州",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-22",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "親子で楽しめるアート体験",
+      "source_url": "https://riverwalk.co.jp/event/"
+    },
+    {
+      "title": "【演劇】「他人」",
+      "venue": "J:COM北九州芸術劇場(リバーウォーク北九州6階)",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-22",
+      "end_date": "2026-11-23",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "演劇「他人」の公演",
+      "source_url": "https://riverwalk.co.jp/event/"
+    },
+    {
+      "title": "カレーフェス in リバーウォーク",
+      "venue": "リバーウォーク北九州",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-29",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "カレーを集めたグルメフェス",
+      "source_url": "https://riverwalk.co.jp/event/"
+    },
+    {
+      "title": "北九州芸術劇場＋市民共同創作劇「Re:北九州の記憶」",
+      "venue": "リバーウォーク北九州",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-05",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": false,
+      "summary": "市民参加の創作劇公演",
+      "source_url": "https://riverwalk.co.jp/event/"
+    },
+    {
+      "title": "ChaChaアイドルフェス",
+      "venue": "チャチャタウン小倉",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-07",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "アイドルのフェスイベント",
+      "source_url": "https://www.chachatown.com/eventinfo/"
+    },
+    {
+      "title": "ペルピンズ スペシャルライブ",
+      "venue": "チャチャタウン小倉",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-21",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "スペシャルライブ",
+      "source_url": "https://www.chachatown.com/eventinfo/"
+    },
+    {
+      "title": "秋のばら展",
+      "venue": "小倉井筒屋 本館9階屋上ローズガーデン",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-08",
+      "date_note": "開催は11/1・2・3・7・8のみ(10〜17時、11/3・8は16時閉場)",
+      "date_confidence": "estimated",
+      "family_friendly": true,
+      "summary": "秋ばらの展示(屋上ローズガーデン)",
+      "source_url": "https://www.izutsuya.co.jp/storelist/kokura/archives/category/008/"
+    },
+    {
+      "title": "THE 新版画 版元・渡邊庄三郎の挑戦",
+      "venue": "北九州市立美術館 本館",
+      "area": null,
+      "schedule_type": "dated",
+      "start_date": "2026-09-12",
+      "end_date": "2026-11-08",
+      "date_note": "終了間近",
+      "date_confidence": "exact",
+      "family_friendly": null,
+      "summary": "新版画の版元・渡邊庄三郎を紹介する展覧会",
+      "source_url": "https://artne.jp/event"
+    },
+    {
+      "title": "秋の特別展「昭和100年 おもちゃと暮らしの大博覧会 タイムトラベル北九州」",
+      "venue": "北九州市立自然史・歴史博物館(いのちのたび博物館)",
+      "area": null,
+      "schedule_type": "dated",
+      "start_date": "2026-10-24",
+      "end_date": "2027-01-11",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "昭和の暮らしとおもちゃの大博覧会",
+      "source_url": "https://artne.jp/event"
     }
   ]
 }
