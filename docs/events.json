@@ -1,7 +1,7 @@
 {
   "updated_at": "2026-11-07",
   "title": "北九州おでかけ情報まとめ",
-  "count": 247,
+  "count": 261,
   "events": [
     {
       "title": "七五三撮影会〜晴れの日を、旧安川邸で",
@@ -67,19 +67,6 @@
       "family_friendly": true,
       "summary": "フォト部門は2Lサイズ現像+JPEG2〜5MB・一人2作品まで。テーマは「祭りで活気づく風景街道」「乗り物や車窓から見える風景」。撮り方の下調べは /wiki の memex-photo-contest",
       "source_url": "https://www.city.kitakyushu.lg.jp/contents/v05600047.html"
-    },
-    {
-      "title": "官営八幡製鐵所旧本事務所見学ツアー",
-      "venue": "官営八幡製鐵所旧本事務所眺望スペース",
-      "area": "八幡東区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-03",
-      "end_date": "2026-12-05",
-      "date_note": "10月3日・17日、11月14日・28日、12月5日開催。対象：小学5年生以上",
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "旧本事務所の内部見学ツアー",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260815/infostation/goout.html"
     },
     {
       "title": "2026駅長対抗 ご当地カレー総選挙 決勝戦",
@@ -560,7 +547,7 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "ステージイベントや大物産展",
-      "source_url": "https://kitaq.media/145529/"
+      "source_url": "https://kitaq.media/145525/"
     },
     {
       "title": "星の観望の夕べ",
@@ -1561,7 +1548,7 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "収穫体験や焼きサンマ、花苗販売",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/goout.html"
+      "source_url": "https://kitaq.media/145557/"
     },
     {
       "title": "講演会「かたらせて宇宙講座」",
@@ -2640,7 +2627,7 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "全国の人気パン屋・ご当地パン60種以上が集合",
-      "source_url": "https://riverwalk.co.jp/event/"
+      "source_url": "https://kitaq.media/145534/"
     },
     {
       "title": "U字工事スペシャルお笑いライブ",
@@ -3213,6 +3200,201 @@
       "family_friendly": false,
       "summary": "柿右衛門とマイセンの陶磁交流展",
       "source_url": "https://artne.jp/event"
+    },
+    {
+      "title": "市民感謝デー",
+      "venue": "北九州市公設地方卸売市場",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-07",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "海鮮丼やまぐろ解体ショーなど市場開放イベント",
+      "source_url": "https://kitaq.media/145538/"
+    },
+    {
+      "title": "キタキュウシュウ ボタニカルマーケット",
+      "venue": "平田ナーセリー本城店",
+      "area": "八幡西区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-08",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "過去最大22店舗が出店する植物マーケット",
+      "source_url": "https://kitaq.media/145587/"
+    },
+    {
+      "title": "特別企画展「北九州ゆかりの映画資料館 ―特集・映画俳優 高倉健―」",
+      "venue": "松永文庫(旧大連航路上屋内)",
+      "area": "門司区",
+      "schedule_type": "dated",
+      "start_date": "2027-01-11",
+      "end_date": "2027-01-11",
+      "date_note": "開始日の記載なし。会期は2027年1月11日まで",
+      "date_confidence": "estimated",
+      "family_friendly": null,
+      "summary": "高倉健の映画ポスター企画展(約160点)",
+      "source_url": "https://kitaq.media/145111/"
+    },
+    {
+      "title": "ボートレース芦屋 あしや夢リアホール イベント3日間",
+      "venue": "ボートレース芦屋(あしや夢リアホール)",
+      "area": "遠賀郡芦屋町",
+      "schedule_type": "dated",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-23",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "はなわ等豪華ゲストのお笑い・ライブ3日間",
+      "source_url": "https://kitaq.media/144771/"
+    },
+    {
+      "title": "2026ふれあい・NUKUMORIフェスタ",
+      "venue": "小倉駅JAM広場",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-22",
+      "end_date": "2026-11-22",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "人権テーマのトークショー・ライブ・体験が集まるフェスタ",
+      "source_url": "https://kitaq.media/143356/"
+    },
+    {
+      "title": "官営八幡製鐵所旧本事務所見学ツアー",
+      "venue": "官営八幡製鐵所旧本事務所眺望スペース",
+      "area": "八幡東区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-03",
+      "end_date": "2026-12-05",
+      "date_note": "10月3日・17日、11月14日・28日、12月5日開催。対象：小学5年生以上",
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "旧本事務所の内部見学ツアー",
+      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/ward/moji.html"
+    },
+    {
+      "title": "黒崎リブート！〜次世代につなぐまちづくり",
+      "venue": "八幡西生涯学習総合センター",
+      "area": "八幡西区",
+      "schedule_type": "dated",
+      "start_date": "2026-09-29",
+      "end_date": "2026-12-09",
+      "date_note": "9/29,10/14・28,11/11・25,12/9の全6回(平日夜中心)",
+      "date_confidence": "estimated",
+      "family_friendly": false,
+      "summary": "黒崎の未来を考える連続講座",
+      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/ward/yahatanishi.html"
+    },
+    {
+      "title": "門司区文化祭 写真公募展",
+      "venue": "旧大阪商船(門司港レトロ地区)",
+      "area": "門司区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-04",
+      "end_date": "2026-11-12",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "区民公募の写真展",
+      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/ward/moji.html"
+    },
+    {
+      "title": "キッズ体験教室",
+      "venue": "三萩野体育館",
+      "area": "小倉北区",
+      "schedule_type": "recurring",
+      "start_date": null,
+      "end_date": null,
+      "date_note": "10月〜来年2月の毎月1回土曜(全6回)",
+      "date_confidence": "estimated",
+      "family_friendly": true,
+      "summary": "5歳〜小学生の体力アップ・友達づくり教室",
+      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/study.html"
+    },
+    {
+      "title": "健康卓球教室",
+      "venue": "三萩野体育館",
+      "area": "小倉北区",
+      "schedule_type": "recurring",
+      "start_date": null,
+      "end_date": null,
+      "date_note": "月曜初心者コース10/5〜3/29毎週・水曜中級者コース10/7〜3/24隔週",
+      "date_confidence": "estimated",
+      "family_friendly": false,
+      "summary": "初心者・中級者向け卓球の継続教室",
+      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/sports.html"
+    },
+    {
+      "title": "アクアビクス",
+      "venue": "新門司温水プール",
+      "area": "門司区",
+      "schedule_type": "recurring",
+      "start_date": null,
+      "end_date": null,
+      "date_note": "10/9〜12/25の毎週金曜(全11回)",
+      "date_confidence": "estimated",
+      "family_friendly": false,
+      "summary": "18歳以上対象の水中運動教室",
+      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/ward/moji.html"
+    },
+    {
+      "title": "福岡大学エコスクール",
+      "venue": "北九州学術研究都市産学連携センター",
+      "area": "若松区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-17",
+      "end_date": "2026-11-07",
+      "date_note": "10/17・11/7の全2回(中学生は対象外)",
+      "date_confidence": "estimated",
+      "family_friendly": false,
+      "summary": "15歳以上向け環境技術の連続講座",
+      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/study.html"
+    },
+    {
+      "title": "初心者のための登山教室",
+      "venue": "皿倉山ビジターセンター・矢筈山・風師山",
+      "area": "門司区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-25",
+      "end_date": "2026-11-15",
+      "date_note": "10/25(皿倉山)・11/15(矢筈山・風師山)の全2回",
+      "date_confidence": "estimated",
+      "family_friendly": true,
+      "summary": "中学生から参加できる登山入門講座",
+      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/sports.html"
+    },
+    {
+      "title": "スペースLABO ANNEX 科学クラブ 初級コース",
+      "venue": "スペースLABO ANNEX",
+      "area": "八幡東区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-08",
+      "end_date": "2027-01-23",
+      "date_note": "11/8・12/12・1/10・1/23の全4回",
+      "date_confidence": "estimated",
+      "family_friendly": true,
+      "summary": "小4〜6年生向け科学クラブ全4回",
+      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/study.html"
+    },
+    {
+      "title": "スポーツ協会のスポーツ教室(卓球・弓道・なぎなた)",
+      "venue": null,
+      "area": "北九州市",
+      "schedule_type": "recurring",
+      "start_date": null,
+      "end_date": null,
+      "date_note": "10月から毎週1〜2回(全8〜12回)",
+      "date_confidence": "estimated",
+      "family_friendly": false,
+      "summary": "卓球・弓道・なぎなたの継続教室",
+      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/sports.html"
     }
   ]
 }
