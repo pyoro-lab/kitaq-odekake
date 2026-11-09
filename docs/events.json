@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-09",
+  "updated_at": "2026-11-10",
   "title": "北九州おでかけ情報まとめ",
-  "count": 214,
+  "count": 212,
   "events": [
     {
       "title": "森崎和江展 響きあういのち、響きあうことば",
@@ -394,19 +394,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/event.html"
     },
     {
-      "title": "秋のファン感謝祭",
-      "venue": "到津の森公園",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-11",
-      "end_date": "2026-11-09",
-      "date_note": "複数企画(スタンプラリー・のぞき見ガイド等)をまとめた期間、代表として裏側スコープの会期で推定",
-      "date_confidence": "estimated",
-      "family_friendly": true,
-      "summary": "スタンプラリーなど盛りだくさんの感謝祭",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261001/infostation/event.html"
-    },
-    {
       "title": "哺乳類の頭骨を観察してみよう",
       "venue": "いのちのたび博物館",
       "area": "八幡東区",
@@ -625,19 +612,6 @@
       "date_confidence": "exact",
       "family_friendly": null,
       "summary": "ペット動物の解説講座",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/infostation/event.html"
-    },
-    {
-      "title": "赤ちゃんとママのふれあい体操",
-      "venue": "子どもの館",
-      "area": "八幡西区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-09",
-      "end_date": "2026-11-09",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "0歳児と保護者のふれあい体操",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/infostation/event.html"
     },
     {
