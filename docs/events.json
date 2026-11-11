@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-11",
+  "updated_at": "2026-11-12",
   "title": "北九州おでかけ情報まとめ",
-  "count": 217,
+  "count": 225,
   "events": [
     {
       "title": "森崎和江展 響きあういのち、響きあうことば",
@@ -288,19 +288,6 @@
       "family_friendly": null,
       "summary": "香木を聞き分ける組香体験",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/goout.html"
-    },
-    {
-      "title": "この秋、ゴジラが北九州に襲来——",
-      "venue": "リバーウォーク北九州",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-13",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "ゴジラをテーマにした展示企画",
-      "source_url": "https://riverwalk.co.jp/event/"
     },
     {
       "title": "小倉クリスマスマーケット＆キャッスル",
@@ -847,19 +834,6 @@
       "family_friendly": true,
       "summary": "三味線の生演奏と体験ワークショップ(小学生以上)",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/ward/yahatanishi.html"
-    },
-    {
-      "title": "エリック・カール展 はじまりは、はらぺこあおむし",
-      "venue": "福岡県立美術館",
-      "area": "福岡市",
-      "schedule_type": "dated",
-      "start_date": "2026-10-23",
-      "end_date": "2026-12-20",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "絵本『はらぺこあおむし』の原画展",
-      "source_url": "https://artne.jp/event"
     },
     {
       "title": "クリスマススタンプラリー",
@@ -2328,7 +2302,7 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "唐戸・下関駅前がキャンドルで灯る夜の催し",
-      "source_url": "https://shimonoseki.goguynet.jp/2026/11/09/candlenight-kanmon/"
+      "source_url": "https://kitaq.media/145757/"
     },
     {
       "title": "車いすバスケフェスタ",
@@ -2719,6 +2693,136 @@
       "family_friendly": true,
       "summary": "中学生から参加できる登山入門講座",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/sports.html"
+    },
+    {
+      "title": "NTTドコモpresents ～よしもとお笑いライブ～",
+      "venue": "イオンモール八幡東 1階ひまわりの広場",
+      "area": "八幡東区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-14",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "吉本新喜劇芸人によるお笑いライブ",
+      "source_url": "https://kitaq.media/145816/"
+    },
+    {
+      "title": "とくりきGO！〜歩いて発見！徳力のまち〜",
+      "venue": "モノレール徳力公団前駅周辺",
+      "area": "小倉南区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-14",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "クイズに答えて巡るまち歩きイベント",
+      "source_url": "https://kitaq.media/145793/"
+    },
+    {
+      "title": "謎解きイベント「目指せ一流のナゾ忍者」",
+      "venue": "リバーウォーク北九州",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-14",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "忍者をテーマにした謎解きイベント",
+      "source_url": "https://riverwalk.co.jp/event/"
+    },
+    {
+      "title": "【2026年】リバーウォークのクリスマス！",
+      "venue": "リバーウォーク北九州",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-03",
+      "end_date": "2026-12-25",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "館内のクリスマス装飾イベント",
+      "source_url": "https://riverwalk.co.jp/event/"
+    },
+    {
+      "title": "劇団バナナ公演『Wolfgang's B…』",
+      "venue": "リバーウォーク北九州",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-12",
+      "date_note": "タイトル後半は原文で文字化け(&#8217;s B…)",
+      "date_confidence": "exact",
+      "family_friendly": false,
+      "summary": "劇団バナナによる演劇公演",
+      "source_url": "https://riverwalk.co.jp/event/"
+    },
+    {
+      "title": "この秋、ゴジラが北九州に襲来——",
+      "venue": "リバーウォーク北九州",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-13",
+      "end_date": "2026-11-15",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "ゴジラをテーマにした展示企画",
+      "source_url": "https://riverwalk.co.jp/event/"
+    },
+    {
+      "title": "〈ハーレーダビッドソン〉と愉しむ、こだわりのライフスタイル展①",
+      "venue": "小倉井筒屋 新館1階 イベントステージ",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-26",
+      "end_date": "2026-12-06",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": false,
+      "summary": "ライフスタイルをテーマにした展示",
+      "source_url": "https://www.izutsuya.co.jp/storelist/kokura/archives/category/008/"
+    },
+    {
+      "title": "〈彩乃庵〉創作手染め服と小物展",
+      "venue": "小倉井筒屋 本館6階リビング特設会場",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-12-09",
+      "end_date": "2026-12-15",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": false,
+      "summary": "手染めの服や小物の展示",
+      "source_url": "https://www.izutsuya.co.jp/storelist/kokura/archives/category/008/"
+    },
+    {
+      "title": "〈犬の一日〉びわ温灸体験会",
+      "venue": "小倉井筒屋 新館1階 犬の一日",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-13",
+      "end_date": "2026-11-13",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": false,
+      "summary": "ペット向けの温灸体験会",
+      "source_url": "https://www.izutsuya.co.jp/storelist/kokura/archives/category/008/"
+    },
+    {
+      "title": "エリック・カール展 はじまりは、はらぺこあおむし",
+      "venue": "福岡県立美術館",
+      "area": "福岡市",
+      "schedule_type": "dated",
+      "start_date": "2026-10-23",
+      "end_date": "2026-12-20",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "絵本『はらぺこあおむし』の原画展",
+      "source_url": "https://artne.jp/event"
     },
     {
       "title": "スペースLABO ANNEX 科学クラブ 初級コース",
