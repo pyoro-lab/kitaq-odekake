@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-15",
+  "updated_at": "2026-11-16",
   "title": "北九州おでかけ情報まとめ",
-  "count": 300,
+  "count": 252,
   "events": [
     {
       "title": "森崎和江展 響きあういのち、響きあうことば",
@@ -95,19 +95,6 @@
       "source_url": "https://kitaq.media/141792/"
     },
     {
-      "title": "一期一食2026(推し食オシエタイ抽選会)",
-      "venue": null,
-      "area": null,
-      "schedule_type": "dated",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-15",
-      "date_note": "推し食スタンプラリー達成者が参加できるグルメイベント会場での抽選会",
-      "date_confidence": "estimated",
-      "family_friendly": null,
-      "summary": "推し食スタンプラリーの抽選会があるグルメイベント",
-      "source_url": "https://kitaq.media/143366/"
-    },
-    {
       "title": "バスの運転体験会",
       "venue": null,
       "area": "小倉南区",
@@ -132,19 +119,6 @@
       "family_friendly": false,
       "summary": "坂本龍一のアート企画",
       "source_url": "https://artne.jp/event"
-    },
-    {
-      "title": "ゆめばこ秋マルシェ2026",
-      "venue": "カーニバルプラスひびきの店 敷地内",
-      "area": "若松区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "ハンドメイド雑貨とスイーツのマルシェ",
-      "source_url": "https://kitaq.media/142734/"
     },
     {
       "title": "パフェ＆スイーツコレクション 2026秋冬",
@@ -210,32 +184,6 @@
       "family_friendly": true,
       "summary": "東田地区の施設をめぐる連続体験学習(隔週土曜全11回)",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260915/infostation/event.html"
-    },
-    {
-      "title": "Gruun 秋の大運動会",
-      "venue": "Gruunわかまつ",
-      "area": "若松区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "玉入れ・綱引きなど運動会種目、入場無料・全年代OK",
-      "source_url": "https://kitaq.media/144055/"
-    },
-    {
-      "title": "出光美術館名品展 出光佐三のこころ ー美を守り、未来へつなぐ",
-      "venue": "大分県立美術館(OPAM)",
-      "area": "大分県",
-      "schedule_type": "dated",
-      "start_date": "2026-11-13",
-      "end_date": "2027-01-11",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": null,
-      "summary": "出光美術館の名品展",
-      "source_url": "https://artne.jp/event"
     },
     {
       "title": "北九州国際映画祭",
@@ -381,19 +329,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/contents/v154_00005.html"
     },
     {
-      "title": "ひびきの祭",
-      "venue": "北九州学術研究都市",
-      "area": "若松区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "サイエンスショーやプログラミング体験など多数の子ども向け企画",
-      "source_url": "https://kitaq.media/144936/"
-    },
-    {
       "title": "期間限定OPEN！Warung（ワルン）",
       "venue": "リバーウォーク北九州",
       "area": "小倉北区",
@@ -417,45 +352,6 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "中級者向け展望登山",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/infostation/goout.html"
-    },
-    {
-      "title": "秋の福智山登山〜リンドウを見よう",
-      "venue": "かぐめよし少年自然の家",
-      "area": "小倉南区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "親子向けの福智山登山(小・中学生と保護者)",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/infostation/goout.html"
-    },
-    {
-      "title": "ケイケン・タカラ フェス",
-      "venue": "北九州メッセ",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "認証状授与や体験ブースのあるフェス",
-      "source_url": "https://kitaq.media/145911/"
-    },
-    {
-      "title": "日本遺産「関門ノスタルジック海峡」クルージング",
-      "venue": "マリンゲートもじ",
-      "area": "門司区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "関門海峡の歴史的建造物を海上から鑑賞するクルーズ",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/infostation/goout.html"
     },
     {
@@ -485,19 +381,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/infostation/goout.html"
     },
     {
-      "title": "BlueStarもりもり交流会",
-      "venue": "山田緑地",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "障害の有無を問わない交流会(WS・キッチンカー)",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/infostation/event.html"
-    },
-    {
       "title": "園内ガイドツアー",
       "venue": "響灘ビオトープ",
       "area": "若松区",
@@ -508,19 +391,6 @@
       "date_confidence": "exact",
       "family_friendly": null,
       "summary": "スタッフ案内のビオトープガイドツアー",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/infostation/event.html"
-    },
-    {
-      "title": "生き物講座「昔のペット、今のペット」",
-      "venue": "北九州市ほたる館",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": null,
-      "summary": "ペット動物の解説講座",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/infostation/event.html"
     },
     {
@@ -615,97 +485,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/infostation/study.html"
     },
     {
-      "title": "市民センター文化祭(清見市民センター)",
-      "venue": "清見市民センター",
-      "area": "門司区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "合唱・子どもコーナー・食品バザーなどの文化祭",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/ward/moji.html"
-    },
-    {
-      "title": "市民センター文化祭(小森江東市民センター)",
-      "venue": "小森江東市民センター",
-      "area": "門司区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "合唱・子どもコーナー・食品バザーなどの文化祭",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/ward/moji.html"
-    },
-    {
-      "title": "市民センター文化祭(白野江市民センター)",
-      "venue": "白野江市民センター",
-      "area": "門司区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "合唱・子どもコーナー・食品バザーなどの文化祭",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/ward/moji.html"
-    },
-    {
-      "title": "市民センター文化祭(大里東市民センター)",
-      "venue": "大里東市民センター",
-      "area": "門司区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "合唱・子どもコーナー・食品バザーなどの文化祭",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/ward/moji.html"
-    },
-    {
-      "title": "市民センター文化祭(錦町市民センター)",
-      "venue": "錦町市民センター",
-      "area": "門司区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "合唱・子どもコーナー・食品バザーなどの文化祭",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/ward/moji.html"
-    },
-    {
-      "title": "市民センター文化祭(柄杓田市民サブセンター)",
-      "venue": "柄杓田市民サブセンター",
-      "area": "門司区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "合唱・子どもコーナー・食品バザーなどの文化祭",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/ward/moji.html"
-    },
-    {
-      "title": "市民茶会",
-      "venue": "小倉城庭園",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": null,
-      "summary": "区民文化祭の市民茶会",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/ward/kokurakita.html"
-    },
-    {
       "title": "小学生対抗ドッヂビー大会",
       "venue": "曽根体育館",
       "area": "小倉南区",
@@ -745,19 +524,6 @@
       "source_url": "https://riverwalk.co.jp/event/"
     },
     {
-      "title": "市民センター文化祭(天籟寺市民センター)",
-      "venue": "天籟寺市民センター",
-      "area": "戸畑区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-13",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "地域住民の作品を展示する文化祭",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/ward/tobata.html"
-    },
-    {
       "title": "チャチャタウン周年祭",
       "venue": "チャチャタウン小倉",
       "area": "小倉北区",
@@ -784,45 +550,6 @@
       "source_url": "https://kitaq.media/145657/"
     },
     {
-      "title": "関門周遊スタンプラリー",
-      "venue": "門司港・下関両岸のみなとオアシス施設",
-      "area": "門司区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "date_note": "開始日不明、11/15まで開催中",
-      "date_confidence": "estimated",
-      "family_friendly": null,
-      "summary": "門司港・下関でスタンプ10個を集める催し",
-      "source_url": "https://kitaq.media/143738/"
-    },
-    {
-      "title": "サイクリングデイ北九州空港2026",
-      "venue": "北九州空港",
-      "area": "小倉南区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "date_note": "参加登録は11月5日まで",
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "北九州空港発着・京築を巡るサイクリング大会",
-      "source_url": "https://kitaq.media/145196/"
-    },
-    {
-      "title": "こどものフリーマーケット",
-      "venue": "花農丘公園（北九州市立総合農事センター）",
-      "area": "小倉南区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "子ども店長のフリマ＆縁日",
-      "source_url": "https://kitaq.media/145819/"
-    },
-    {
       "title": "北九州芸術劇場＋市民共同創作劇「Re:北九州の記憶～未来へ～」",
       "venue": "リバーウォーク北九州",
       "area": "小倉北区",
@@ -846,7 +573,7 @@
       "date_confidence": "estimated",
       "family_friendly": true,
       "summary": "京都発ベーグル専門店の新規オープン",
-      "source_url": "https://kitaq.media/144925/"
+      "source_url": "https://kitaq.media/145987/"
     },
     {
       "title": "区役所de角打ちクロノヨル(第4夜)",
@@ -901,45 +628,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/goout.html"
     },
     {
-      "title": "監視艇の船内公開",
-      "venue": "関門海峡ミュージアム横岸壁",
-      "area": "門司区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "税関監視艇の船内を一般公開",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/goout.html"
-    },
-    {
-      "title": "歴代ゴジラ映画ポスターパネル展",
-      "venue": "リバーウォーク北九州",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-13",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "estimated",
-      "family_friendly": true,
-      "summary": "全31作品のゴジラ映画ポスターを一堂展示",
-      "source_url": "https://riverwalk.co.jp/event/"
-    },
-    {
-      "title": "『ゴジラ-0.0』公開記念ガラポン抽選会",
-      "venue": "リバーウォーク北九州",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-13",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "レシート提示で参加できる抽選会",
-      "source_url": "https://kitaq.media/144423/"
-    },
-    {
       "title": "クリスマスゲートパークin福岡大名ガーデンシティ",
       "venue": "福岡大名ガーデンシティ",
       "area": "福岡市",
@@ -951,19 +639,6 @@
       "family_friendly": true,
       "summary": "クリスマスをテーマにしたパーク企画",
       "source_url": "https://artne.jp/event"
-    },
-    {
-      "title": "門司税関特別展(知的財産侵害物品の展示)",
-      "venue": "旧大連航路上屋",
-      "area": "門司区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "知財侵害物品展示と麻薬探知犬実演",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/goout.html"
     },
     {
       "title": "ステンドグラス作品展",
@@ -1002,84 +677,6 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "中学生作成の入賞ポスター展示",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/goout.html"
-    },
-    {
-      "title": "安川の杜ワンダフルマーケット",
-      "venue": "旧安川邸",
-      "area": "戸畑区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "食品・雑貨約50店舗のマーケット",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/goout.html"
-    },
-    {
-      "title": "オトの日ガーデン",
-      "venue": "旧安川邸",
-      "area": "戸畑区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "尺八・オルガン等の無料演奏会",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/goout.html"
-    },
-    {
-      "title": "手づくり市場&日専連マーケット",
-      "venue": "北九州メッセ",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "手作り作品販売と子ども向け工作",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/goout.html"
-    },
-    {
-      "title": "響嵐祭(北九州市立大学ひびきのキャンパス大学祭)",
-      "venue": "北九州市立大学ひびきのキャンパス",
-      "area": "若松区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "模擬店とアーティストライブの大学祭",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/goout.html"
-    },
-    {
-      "title": "こくら de フリマ",
-      "venue": "勝山公園大芝生広場",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "雑貨販売フリマ・食イベント同時開催",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/goout.html"
-    },
-    {
-      "title": "第16回門司シネマフェスタ(黒澤明「生きる」＆「天国と地獄」上映+シネマトーク)",
-      "venue": "門司市民会館",
-      "area": "門司区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": false,
-      "summary": "黒澤映画2本上映とトーク",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/goout.html"
     },
     {
@@ -1239,32 +836,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/goout.html"
     },
     {
-      "title": "秋のバラフェア",
-      "venue": "グリーンパーク",
-      "area": "若松区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "date_note": "11月15日(日)まで開催中(開始日の記載なし)",
-      "date_confidence": "estimated",
-      "family_friendly": true,
-      "summary": "約560種のバラを観賞",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/event.html"
-    },
-    {
-      "title": "講習会「身近な野鳥を観察しよう」",
-      "venue": "グリーンパーク",
-      "area": "若松区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "双眼鏡無料貸出の野鳥観察講習会",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/event.html"
-    },
-    {
       "title": "やまだレンジャープロジェクト「両生類の水路づくり」",
       "venue": "山田緑地",
       "area": "小倉北区",
@@ -1288,19 +859,6 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "養蜂見学・木育ワークショップなど",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/event.html"
-    },
-    {
-      "title": "たのしい工作の日",
-      "venue": "タカミヤ環境ミュージアム",
-      "area": "八幡東区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "リサイクル工作体験",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/event.html"
     },
     {
@@ -1421,19 +979,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/event.html"
     },
     {
-      "title": "さわやかシルバー作品展",
-      "venue": "美術館黒崎市民ギャラリー",
-      "area": "八幡西区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-10",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": null,
-      "summary": "シニアによる作品展",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/event.html"
-    },
-    {
       "title": "チャリティーD級バドミントン大会",
       "venue": "北九州パレス",
       "area": "小倉北区",
@@ -1512,19 +1057,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/ward/kokuraminami.html"
     },
     {
-      "title": "芦屋基地航空祭",
-      "venue": "航空自衛隊芦屋基地",
-      "area": "遠賀郡芦屋町",
-      "schedule_type": "dated",
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "飛行展示・地上展示の航空祭",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/ward/yahatanishi.html"
-    },
-    {
       "title": "元気まるかじりウォーク",
       "venue": "若松区役所発着",
       "area": "若松区",
@@ -1588,32 +1120,6 @@
       "family_friendly": false,
       "summary": "出光興産創業者の美術コレクション展",
       "source_url": "https://artne.jp/event"
-    },
-    {
-      "title": "戸畑区文化祭 邦舞の会",
-      "venue": "戸畑市民会館",
-      "area": "戸畑区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": null,
-      "summary": "邦舞の発表会",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/ward/tobata.html"
-    },
-    {
-      "title": "手作り市場in北九州2026",
-      "venue": "北九州メッセ",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "ハンドメイド200ブース超と手作り教室",
-      "source_url": "https://kitaq.media/145813/"
     },
     {
       "title": "紅葉まつり ボタニカルマーケット",
@@ -1759,19 +1265,6 @@
       "source_url": "https://kitaq.media/145833/"
     },
     {
-      "title": "新しい学校選びフェア",
-      "venue": "AIM3F",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "中高生・保護者向け学校選びフェア",
-      "source_url": "https://hello-kitakyushu.or.jp/event/"
-    },
-    {
       "title": "第257回北九州市民寄席『柳家喬太郎 独演会』",
       "venue": "会議場(AIM)",
       "area": "小倉北区",
@@ -1860,19 +1353,6 @@
       "date_confidence": "exact",
       "family_friendly": false,
       "summary": "国宝銅板法華経など古代経典の特別展",
-      "source_url": "https://artne.jp/event"
-    },
-    {
-      "title": "第81回 福岡県美術展覧会 筑豊巡回展",
-      "venue": "嘉麻市立織田廣喜美術館",
-      "area": "嘉麻市",
-      "schedule_type": "dated",
-      "start_date": "2026-10-28",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": false,
-      "summary": "福岡県美術展覧会の筑豊巡回展",
       "source_url": "https://artne.jp/event"
     },
     {
@@ -2058,32 +1538,6 @@
       "source_url": "https://artne.jp/event"
     },
     {
-      "title": "6人の竹芸作家とコシノジュンコの出会い『対極』",
-      "venue": "大分市美術館",
-      "area": "大分市",
-      "schedule_type": "dated",
-      "start_date": "2026-09-16",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": false,
-      "summary": "竹芸作家とコシノジュンコのコラボ展",
-      "source_url": "https://artne.jp/event"
-    },
-    {
-      "title": "特別展 Oちゃん、キミはだあれ？松永真のデザインと大分市美術館のこれから",
-      "venue": "大分市美術館",
-      "area": "大分市",
-      "schedule_type": "dated",
-      "start_date": "2026-10-02",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": false,
-      "summary": "デザイナー松永真の回顧展",
-      "source_url": "https://artne.jp/event"
-    },
-    {
       "title": "特別展 岸田劉生 美の軌跡",
       "venue": "都城市立美術館",
       "area": "都城市",
@@ -2120,19 +1574,6 @@
       "date_confidence": "exact",
       "family_friendly": false,
       "summary": "さつま焼の企画展",
-      "source_url": "https://artne.jp/event"
-    },
-    {
-      "title": "特別企画展 写真家ソール・ライターの原点 Origins in Color",
-      "venue": "鹿児島市立美術館",
-      "area": "鹿児島市",
-      "schedule_type": "dated",
-      "start_date": "2026-10-02",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": false,
-      "summary": "写真家ソール・ライターの原点を辿る展覧会",
       "source_url": "https://artne.jp/event"
     },
     {
@@ -2173,32 +1614,6 @@
       "family_friendly": false,
       "summary": "最大400名規模の出会い・恋活イベント",
       "source_url": "https://hello-kitakyushu.or.jp/event/"
-    },
-    {
-      "title": "関門海峡キャンドルナイト2026",
-      "venue": "唐戸・下関駅前(亀山八幡宮等)",
-      "area": "下関市",
-      "schedule_type": "dated",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "唐戸・下関駅前がキャンドルで灯る夜の催し",
-      "source_url": "https://kitaq.media/146008/"
-    },
-    {
-      "title": "車いすバスケフェスタ",
-      "venue": "総合体育館",
-      "area": "八幡東区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-12",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "日本・カナダ・オランダの国別対抗車いすバスケ大会",
-      "source_url": "https://kitaq.media/145657/"
     },
     {
       "title": "「ちくらすクリスマスチャリティオーナメント」ワークショップ",
@@ -2578,19 +1993,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/ward/moji.html"
     },
     {
-      "title": "初心者のための登山教室",
-      "venue": "皿倉山ビジターセンター・矢筈山・風師山",
-      "area": "門司区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-25",
-      "end_date": "2026-11-15",
-      "date_note": "10/25(皿倉山)・11/15(矢筈山・風師山)の全2回",
-      "date_confidence": "estimated",
-      "family_friendly": true,
-      "summary": "中学生から参加できる登山入門講座",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/infostation/sports.html"
-    },
-    {
       "title": "【2026年】リバーウォークのクリスマス！",
       "venue": "リバーウォーク北九州",
       "area": "小倉北区",
@@ -2614,19 +2016,6 @@
       "date_confidence": "exact",
       "family_friendly": false,
       "summary": "劇団バナナによる演劇公演",
-      "source_url": "https://riverwalk.co.jp/event/"
-    },
-    {
-      "title": "この秋、ゴジラが北九州に襲来——",
-      "venue": "リバーウォーク北九州",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-13",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "ゴジラをテーマにした展示企画",
       "source_url": "https://riverwalk.co.jp/event/"
     },
     {
@@ -2734,19 +2123,6 @@
       "source_url": "https://kitaq.media/145351/"
     },
     {
-      "title": "門司港バナナフェア",
-      "venue": "栄町銀天街",
-      "area": "門司区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-06",
-      "end_date": "2026-11-15",
-      "date_note": "開始日は記事に明記なし。11月15日まで開催中(11/7・14〜15はモノはうすで限定企画)",
-      "date_confidence": "estimated",
-      "family_friendly": true,
-      "summary": "栄町銀天街でバナナ料理を味わえるグルメ企画",
-      "source_url": "https://kitaq.media/145596/"
-    },
-    {
       "title": "下関さかな祭",
       "venue": "下関漁港",
       "area": "下関市",
@@ -2786,19 +2162,6 @@
       "source_url": "https://www.izutsuya.co.jp/storelist/kokura/archives/category/008/"
     },
     {
-      "title": "北九州港開港記念イベント",
-      "venue": "門司区西海岸イベント広場",
-      "area": "門司区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-15",
-      "date_note": "記事本文が途中で切れ詳細未読、今週末11/14-15開催の一覧に記載",
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "船舶4隻が集合、船内を一般公開",
-      "source_url": "https://kitaq.media/146008/"
-    },
-    {
       "title": "紅葉フェア",
       "venue": "到津の森公園",
       "area": "小倉北区",
@@ -2823,19 +2186,6 @@
       "family_friendly": true,
       "summary": "雑貨・キッチンカーが集まる秋マルシェ",
       "source_url": "https://kitaq.media/145836/"
-    },
-    {
-      "title": "ココカラパレット",
-      "venue": "門司赤煉瓦交流館",
-      "area": "門司区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "雑貨・グルメの親子マルシェ",
-      "source_url": "https://kitaq.media/145929/"
     },
     {
       "title": "リトル釜山フェスタ2026",
@@ -2875,19 +2225,6 @@
       "family_friendly": null,
       "summary": "市民参加の創作劇公演",
       "source_url": "https://riverwalk.co.jp/event/"
-    },
-    {
-      "title": "大分市美術館展覧会 6人の竹芸作家とコシノジュンコの出会い『対極』",
-      "venue": "大分市美術館",
-      "area": "大分市",
-      "schedule_type": "dated",
-      "start_date": "2026-09-16",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": null,
-      "summary": "竹芸とファッションの企画展",
-      "source_url": "https://artne.jp/event"
     },
     {
       "title": "競輪祭アリーナイベント",
@@ -3696,6 +3033,19 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261115/ward/yahatahigashi.html"
     },
     {
+      "title": "R8年度舞台表現者育成事業 キタゲキスクール2026",
+      "venue": "リバーウォーク北九州",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-12-19",
+      "end_date": "2026-12-20",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": null,
+      "summary": "舞台表現者を育成する事業プログラム",
+      "source_url": "https://riverwalk.co.jp/event/"
+    },
+    {
       "title": "新きたきゅう音楽塾 in 黒崎「木の響きの重なりを味わうマリンバの世界」",
       "venue": "黒崎ひびしんホール",
       "area": "八幡西区",
@@ -3839,19 +3189,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/contents/p016_00005.html"
     },
     {
-      "title": "川と水の音楽会",
-      "venue": "水環境館",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "紫川を望むくつろぎエリアで聴ける無料の音楽会",
-      "source_url": "https://kitaq.media/145914/"
-    },
-    {
       "title": "関門せんべろ",
       "venue": "門司港レトロ・唐戸・豊前田エリアの飲食店",
       "area": "門司区・下関市",
@@ -3878,19 +3215,6 @@
       "source_url": "https://kitaq.media/145969/"
     },
     {
-      "title": "るんるんマルシェ",
-      "venue": "ZATTA ZISSE(ザッタジッセ)",
-      "area": "門司区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "多彩なグルメ・ワークショップ・占いが楽しめるマルシェ",
-      "source_url": "https://kitaq.media/145918/"
-    },
-    {
       "title": "井筒屋開店90周年記念 重要無形文化財 人間国宝 十四代 今泉今右衛門展",
       "venue": "小倉井筒屋 新館9階パステルホール",
       "area": "小倉北区",
@@ -3902,6 +3226,58 @@
       "family_friendly": true,
       "summary": "人間国宝の陶芸作品を展示する開店90周年記念展",
       "source_url": "https://www.izutsuya.co.jp/storelist/kokura/archives/category/008/"
+    },
+    {
+      "title": "「徹子の部屋 50周年展」～愛を込めて～",
+      "venue": "大丸福岡天神店 本館8階催場",
+      "area": "福岡市",
+      "schedule_type": "dated",
+      "start_date": "2026-11-19",
+      "end_date": "2026-12-13",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": null,
+      "summary": "テレビ番組50周年の記念展示",
+      "source_url": "https://artne.jp/event"
+    },
+    {
+      "title": "特別展「可愛いだけじゃない！？ピングー展」",
+      "venue": "福岡市科学館 3階企画展示室",
+      "area": "福岡市",
+      "schedule_type": "dated",
+      "start_date": "2026-11-21",
+      "end_date": "2027-01-11",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "ピングーの特別展",
+      "source_url": "https://artne.jp/event"
+    },
+    {
+      "title": "Limbus Company -地獄編- EXHIBITION",
+      "venue": "福岡三越 9階「三越ギャラリー」",
+      "area": "福岡市",
+      "schedule_type": "dated",
+      "start_date": "2026-11-21",
+      "end_date": "2026-12-13",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": null,
+      "summary": "人気ゲーム作品の展示イベント",
+      "source_url": "https://artne.jp/event"
+    },
+    {
+      "title": "出光美術館名品展 出光佐三のこころ ー美を守り、未来へつなぐ",
+      "venue": "大分県立美術館(OPAM)",
+      "area": "大分県",
+      "schedule_type": "dated",
+      "start_date": "2026-11-13",
+      "end_date": "2027-01-11",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": null,
+      "summary": "出光美術館の名品展",
+      "source_url": "https://artne.jp/event"
     }
   ]
 }
