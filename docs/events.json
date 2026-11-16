@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16",
+  "updated_at": "2026-11-17",
   "title": "北九州おでかけ情報まとめ",
   "count": 252,
   "events": [
@@ -1237,19 +1237,6 @@
       "family_friendly": true,
       "summary": "スペシャルライブ",
       "source_url": "https://www.chachatown.com/eventinfo/"
-    },
-    {
-      "title": "秋の特別展「昭和100年 おもちゃと暮らしの大博覧会 タイムトラベル北九州」",
-      "venue": "北九州市立自然史・歴史博物館(いのちのたび博物館)",
-      "area": "八幡東区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-24",
-      "end_date": "2027-01-11",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "昭和の暮らしとおもちゃの大博覧会",
-      "source_url": "https://artne.jp/event"
     },
     {
       "title": "イルミネーション2026 門司港レトロ浪漫灯彩",
@@ -3041,7 +3028,7 @@
       "end_date": "2026-12-20",
       "date_note": null,
       "date_confidence": "exact",
-      "family_friendly": null,
+      "family_friendly": false,
       "summary": "舞台表現者を育成する事業プログラム",
       "source_url": "https://riverwalk.co.jp/event/"
     },
@@ -3215,19 +3202,6 @@
       "source_url": "https://kitaq.media/145969/"
     },
     {
-      "title": "井筒屋開店90周年記念 重要無形文化財 人間国宝 十四代 今泉今右衛門展",
-      "venue": "小倉井筒屋 新館9階パステルホール",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-13",
-      "end_date": "2026-11-16",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "人間国宝の陶芸作品を展示する開店90周年記念展",
-      "source_url": "https://www.izutsuya.co.jp/storelist/kokura/archives/category/008/"
-    },
-    {
       "title": "「徹子の部屋 50周年展」～愛を込めて～",
       "venue": "大丸福岡天神店 本館8階催場",
       "area": "福岡市",
@@ -3236,7 +3210,7 @@
       "end_date": "2026-12-13",
       "date_note": null,
       "date_confidence": "exact",
-      "family_friendly": null,
+      "family_friendly": false,
       "summary": "テレビ番組50周年の記念展示",
       "source_url": "https://artne.jp/event"
     },
@@ -3262,7 +3236,7 @@
       "end_date": "2026-12-13",
       "date_note": null,
       "date_confidence": "exact",
-      "family_friendly": null,
+      "family_friendly": false,
       "summary": "人気ゲーム作品の展示イベント",
       "source_url": "https://artne.jp/event"
     },
@@ -3275,8 +3249,34 @@
       "end_date": "2027-01-11",
       "date_note": null,
       "date_confidence": "exact",
-      "family_friendly": null,
+      "family_friendly": false,
       "summary": "出光美術館の名品展",
+      "source_url": "https://artne.jp/event"
+    },
+    {
+      "title": "第2回 旦過市場オリジナル丼フェス",
+      "venue": "旦過市場(いちばん館内)",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-28",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "市場で具材を選んで作る丼フェス",
+      "source_url": "https://kitaq.media/145979/"
+    },
+    {
+      "title": "秋の特別展「昭和100年 おもちゃと暮らしの大博覧会 タイムトラベル北九州」",
+      "venue": "北九州市立自然史・歴史博物館(いのちのたび博物館)",
+      "area": "八幡東区",
+      "schedule_type": "dated",
+      "start_date": "2026-10-24",
+      "end_date": "2027-01-11",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "昭和の暮らしとおもちゃの大博覧会",
       "source_url": "https://artne.jp/event"
     }
   ]
