@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-17",
+  "updated_at": "2026-11-18",
   "title": "北九州おでかけ情報まとめ",
-  "count": 252,
+  "count": 249,
   "events": [
     {
       "title": "森崎和江展 響きあういのち、響きあうことば",
@@ -119,19 +119,6 @@
       "family_friendly": false,
       "summary": "坂本龍一のアート企画",
       "source_url": "https://artne.jp/event"
-    },
-    {
-      "title": "パフェ＆スイーツコレクション 2026秋冬",
-      "venue": "リバーウォーク北九州",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-03",
-      "end_date": "2026-12-27",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "参加店のパフェ・スイーツ企画",
-      "source_url": "https://riverwalk.co.jp/event/"
     },
     {
       "title": "作家たまごと先輩作家の会",
@@ -394,19 +381,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/infostation/event.html"
     },
     {
-      "title": "親子リズム体操",
-      "venue": "子どもの館",
-      "area": "八幡西区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-17",
-      "end_date": "2026-11-17",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "1歳児と保護者の音楽リズム体操",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/infostation/event.html"
-    },
-    {
       "title": "C級テニス大会（ダブルス）",
       "venue": "北九州パレス",
       "area": "小倉北区",
@@ -639,19 +613,6 @@
       "family_friendly": true,
       "summary": "クリスマスをテーマにしたパーク企画",
       "source_url": "https://artne.jp/event"
-    },
-    {
-      "title": "ステンドグラス作品展",
-      "venue": "旧百三十銀行ギャラリー",
-      "area": "八幡東区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-11",
-      "end_date": "2026-11-17",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": null,
-      "summary": "ステンドグラス作品の展示・販売",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/goout.html"
     },
     {
       "title": "リーシュ作品展〜つながる",
@@ -1629,19 +1590,6 @@
       "source_url": "https://www.kaikyokan.com/cms/eventlist_special/"
     },
     {
-      "title": "海響あーとコンテスト作品展",
-      "venue": "海響館(市立しものせき水族館) 1階キッズコーナー",
-      "area": "下関市",
-      "schedule_type": "dated",
-      "start_date": "2026-10-03",
-      "end_date": "2027-10-01",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "子ども向けアートコンテストの作品展示",
-      "source_url": "https://www.kaikyokan.com/cms/eventlist_special/"
-    },
-    {
       "title": "アジア美術の歩き方 南アジア特別編 対立の先へー光の水脈をめぐる旅",
       "venue": "福岡アジア美術館",
       "area": "福岡市",
@@ -1759,19 +1707,6 @@
       "source_url": "https://kitaq.media/143356/"
     },
     {
-      "title": "官営八幡製鐵所旧本事務所見学ツアー",
-      "venue": "官営八幡製鐵所旧本事務所眺望スペース",
-      "area": "八幡東区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-03",
-      "end_date": "2026-12-05",
-      "date_note": "10月3日・17日、11月14日・28日、12月5日開催。対象：小学5年生以上",
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "旧本事務所の内部見学ツアー",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/260901/ward/moji.html"
-    },
-    {
       "title": "黒崎リブート！〜次世代につなぐまちづくり",
       "venue": "八幡西生涯学習総合センター",
       "area": "八幡西区",
@@ -1873,19 +1808,6 @@
       "date_confidence": "exact",
       "family_friendly": false,
       "summary": "寄贈された書画・陶工芸品のチャリティー展示",
-      "source_url": "https://www.izutsuya.co.jp/storelist/kokura/archives/category/008/"
-    },
-    {
-      "title": "てまひま展 暮らしのカタチ 第1弾",
-      "venue": "小倉井筒屋",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-11",
-      "end_date": "2026-11-17",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": false,
-      "summary": "手仕事の暮らし雑貨を集めた展示",
       "source_url": "https://www.izutsuya.co.jp/storelist/kokura/archives/category/008/"
     },
     {
@@ -3277,6 +3199,45 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "昭和の暮らしとおもちゃの大博覧会",
+      "source_url": "https://artne.jp/event"
+    },
+    {
+      "title": "井筒屋イルミネーション",
+      "venue": "小倉井筒屋",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-16",
+      "end_date": "2027-02-14",
+      "date_note": "記事公開時点(11/16)で開催中、2027年2月14日まで。開始日は記事に明記なし",
+      "date_confidence": "estimated",
+      "family_friendly": true,
+      "summary": "井筒屋のイルミネーション",
+      "source_url": "https://kitaq.media/146036/"
+    },
+    {
+      "title": "下関農業まつり",
+      "venue": "オーヴィジョン海峡ゆめ広場",
+      "area": "下関市",
+      "schedule_type": "dated",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-23",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "JA女性部バザー・下関産野菜お米販売",
+      "source_url": "https://shimonoseki.goguynet.jp/2026/11/16/nogyo-matsuri/"
+    },
+    {
+      "title": "つきなみ講座11月 福岡市美術館の古美術名品解剖",
+      "venue": "福岡市美術館 1階レクチャールーム",
+      "area": "福岡市",
+      "schedule_type": "dated",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-21",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": false,
+      "summary": "古美術の解説講座",
       "source_url": "https://artne.jp/event"
     }
   ]
