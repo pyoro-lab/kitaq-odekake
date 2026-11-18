@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-18",
+  "updated_at": "2026-11-19",
   "title": "北九州おでかけ情報まとめ",
-  "count": 249,
+  "count": 253,
   "events": [
     {
       "title": "森崎和江展 響きあういのち、響きあうことば",
@@ -108,6 +108,19 @@
       "source_url": "https://kitaq.media/142506/"
     },
     {
+      "title": "大里の商店街で遊ぼう！",
+      "venue": "大里の寄り場(大里商店街)",
+      "area": "門司区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-21",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "商店街ツアー＆元ボクサーのパンチ体験",
+      "source_url": "https://kitaq.media/146063/"
+    },
+    {
       "title": "Yamaguchi Seasonal 2026／坂本龍一＋YCAM Forest Symphony",
       "venue": "常栄寺",
       "area": "山口市",
@@ -119,6 +132,19 @@
       "family_friendly": false,
       "summary": "坂本龍一のアート企画",
       "source_url": "https://artne.jp/event"
+    },
+    {
+      "title": "旦過市場いちばん館 オープン",
+      "venue": "旦過市場いちばん館",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-24",
+      "end_date": "2026-12-24",
+      "date_note": "11月24日オープン(21区画)",
+      "date_confidence": "estimated",
+      "family_friendly": true,
+      "summary": "旦過市場の新商業施設オープン",
+      "source_url": "https://kitaq.media/145470/"
     },
     {
       "title": "作家たまごと先輩作家の会",
@@ -199,6 +225,19 @@
       "source_url": "https://riverwalk.co.jp/event/"
     },
     {
+      "title": "たべっ子どうぶつ THE MOVIE 親子向け無料上映会",
+      "venue": "シーモールホール(シーモール4階)",
+      "area": "下関市",
+      "schedule_type": "dated",
+      "start_date": "2026-11-22",
+      "end_date": "2026-11-22",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "子育て支援の無料上映会(1日3回)",
+      "source_url": "https://shimonoseki.goguynet.jp/2026/11/17/tabekko-movie-seamall/"
+    },
+    {
       "title": "森のカルチャー教室「クリスマスリース作り」",
       "venue": "皿倉山ビジターセンター",
       "area": "八幡東区",
@@ -223,6 +262,19 @@
       "family_friendly": null,
       "summary": "香木を聞き分ける組香体験",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/goout.html"
+    },
+    {
+      "title": "クリスマス抽選会",
+      "venue": "リバーウォーク北九州",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-20",
+      "end_date": "2026-12-20",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "クリスマス期間の抽選会",
+      "source_url": "https://riverwalk.co.jp/event/"
     },
     {
       "title": "小倉クリスマスマーケット＆キャッスル",
@@ -327,6 +379,19 @@
       "family_friendly": true,
       "summary": "期間限定オープンの飲食店(ワルン)",
       "source_url": "https://riverwalk.co.jp/event/"
+    },
+    {
+      "title": "バックヤードで“マニアックガイドツアー”",
+      "venue": "海響館",
+      "area": "下関市",
+      "schedule_type": "dated",
+      "start_date": "2026-12-01",
+      "end_date": "2027-02-28",
+      "date_note": "令和8年12月1日～令和8年2月28日(表記ママ、翌年2月の意と判断)",
+      "date_confidence": "estimated",
+      "family_friendly": true,
+      "summary": "水族館バックヤード見学ツアー(要予約)",
+      "source_url": "https://www.kaikyokan.com/cms/eventlist_special/"
     },
     {
       "title": "桶ヶ辻展望登山（中級）",
@@ -1132,19 +1197,6 @@
       "date_confidence": "estimated",
       "family_friendly": false,
       "summary": "北九州を知る連続企画・講座",
-      "source_url": "https://riverwalk.co.jp/event/"
-    },
-    {
-      "title": "福岡県警察音楽隊「安全・安心コンサート」",
-      "venue": "リバーウォーク北九州",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-18",
-      "end_date": "2026-11-18",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "警察音楽隊のコンサート",
       "source_url": "https://riverwalk.co.jp/event/"
     },
     {
