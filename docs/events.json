@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-19",
+  "updated_at": "2026-11-20",
   "title": "北九州おでかけ情報まとめ",
-  "count": 253,
+  "count": 254,
   "events": [
     {
       "title": "森崎和江展 響きあういのち、響きあうことば",
@@ -238,19 +238,6 @@
       "source_url": "https://shimonoseki.goguynet.jp/2026/11/17/tabekko-movie-seamall/"
     },
     {
-      "title": "森のカルチャー教室「クリスマスリース作り」",
-      "venue": "皿倉山ビジターセンター",
-      "area": "八幡東区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-19",
-      "end_date": "2026-11-19",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": null,
-      "summary": "クリスマスリース作りの体験教室",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/infostation/goout.html"
-    },
-    {
       "title": "小倉城庭園「香を聞く会」",
       "venue": "小倉城庭園",
       "area": "小倉北区",
@@ -262,19 +249,6 @@
       "family_friendly": null,
       "summary": "香木を聞き分ける組香体験",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/goout.html"
-    },
-    {
-      "title": "クリスマス抽選会",
-      "venue": "リバーウォーク北九州",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-20",
-      "end_date": "2026-12-20",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "クリスマス期間の抽選会",
-      "source_url": "https://riverwalk.co.jp/event/"
     },
     {
       "title": "小倉クリスマスマーケット＆キャッスル",
@@ -690,19 +664,6 @@
       "date_confidence": "exact",
       "family_friendly": null,
       "summary": "石や流木で大海原を表現した作品展",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/goout.html"
-    },
-    {
-      "title": "少年非行防止ポスター展",
-      "venue": "ウェルとばた",
-      "area": "戸畑区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-12",
-      "end_date": "2026-11-19",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "中学生作成の入賞ポスター展示",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/goout.html"
     },
     {
@@ -2019,6 +1980,32 @@
       "source_url": "https://artne.jp/event"
     },
     {
+      "title": "八幡駅前ウインターフェスタ「Yotteco Yahata 2026」",
+      "venue": "JICA九州(北九州市八幡東区平野2-2-1)",
+      "area": "八幡東区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-20",
+      "end_date": "2026-11-20",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "グルメ・ワークショップのウインターフェスタ",
+      "source_url": "https://kitaq.media/146286/"
+    },
+    {
+      "title": "エキマチオータムフェス",
+      "venue": "うみかぜみらいウォーク",
+      "area": "下関市",
+      "schedule_type": "dated",
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-23",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "フリマ・ステージ演奏・謎解きツアー",
+      "source_url": "https://shimonoseki.goguynet.jp/2026/11/18/ekimachi-autumn-fes/"
+    },
+    {
       "title": "寒蘭花展",
       "venue": "総合農事センター",
       "area": "小倉南区",
@@ -2123,6 +2110,19 @@
       "source_url": "https://www.izutsuya.co.jp/storelist/kokura/archives/category/008/"
     },
     {
+      "title": "北九州GRANDMARKET(グランマーケット)",
+      "venue": "勝山公園大芝生広場",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-20",
+      "end_date": "2026-11-23",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "全国約470店舗の雑貨・グルメマーケット",
+      "source_url": "https://kitaq.media/146295/"
+    },
+    {
       "title": "紅葉フェア",
       "venue": "到津の森公園",
       "area": "小倉北区",
@@ -2185,6 +2185,19 @@
       "date_confidence": "estimated",
       "family_friendly": null,
       "summary": "市民参加の創作劇公演",
+      "source_url": "https://riverwalk.co.jp/event/"
+    },
+    {
+      "title": "クリスマス抽選会",
+      "venue": "リバーウォーク北九州",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-20",
+      "end_date": "2026-12-20",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "クリスマス期間の抽選会",
       "source_url": "https://riverwalk.co.jp/event/"
     },
     {
