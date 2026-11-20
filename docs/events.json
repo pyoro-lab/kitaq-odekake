@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-20",
+  "updated_at": "2026-11-21",
   "title": "北九州おでかけ情報まとめ",
-  "count": 254,
+  "count": 250,
   "events": [
     {
       "title": "森崎和江展 響きあういのち、響きあうことば",
@@ -862,19 +862,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/event.html"
     },
     {
-      "title": "漫画読書会「花ざかりの君たちへ」",
-      "venue": "漫画ミュージアム",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-20",
-      "end_date": "2026-11-20",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": null,
-      "summary": "テーマ作品を語る読書会",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/event.html"
-    },
-    {
       "title": "漫画スクール",
       "venue": "漫画ミュージアム",
       "area": "小倉北区",
@@ -937,19 +924,6 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "子ども向け映画の上映会",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/event.html"
-    },
-    {
-      "title": "たのしい親子体操",
-      "venue": "子どもの館",
-      "area": "八幡西区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-20",
-      "end_date": "2026-11-20",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "未就学児と保護者のダンス・トランポリン",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/event.html"
     },
     {
@@ -1980,19 +1954,6 @@
       "source_url": "https://artne.jp/event"
     },
     {
-      "title": "八幡駅前ウインターフェスタ「Yotteco Yahata 2026」",
-      "venue": "JICA九州(北九州市八幡東区平野2-2-1)",
-      "area": "八幡東区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-20",
-      "end_date": "2026-11-20",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "グルメ・ワークショップのウインターフェスタ",
-      "source_url": "https://kitaq.media/146286/"
-    },
-    {
       "title": "エキマチオータムフェス",
       "venue": "うみかぜみらいウォーク",
       "area": "下関市",
@@ -2498,19 +2459,6 @@
       "family_friendly": true,
       "summary": "0歳から入場できるインクルーシブ・コンサート",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261115/infostation/goout.html"
-    },
-    {
-      "title": "県展（洋画・書）",
-      "venue": "美術館",
-      "area": "戸畑区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-18",
-      "end_date": "2026-11-20",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "県展の洋画・書部門展示",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261115/infostation/event.html"
     },
     {
       "title": "県展（日本画・彫刻・写真・工芸・デザイン）",
