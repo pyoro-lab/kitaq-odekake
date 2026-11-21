@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-21",
+  "updated_at": "2026-11-22",
   "title": "北九州おでかけ情報まとめ",
-  "count": 250,
+  "count": 239,
   "events": [
     {
       "title": "森崎和江展 響きあういのち、響きあうことば",
@@ -106,19 +106,6 @@
       "family_friendly": false,
       "summary": "西鉄バス運転体験・応募制",
       "source_url": "https://kitaq.media/142506/"
-    },
-    {
-      "title": "大里の商店街で遊ぼう！",
-      "venue": "大里の寄り場(大里商店街)",
-      "area": "門司区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-21",
-      "end_date": "2026-11-21",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "商店街ツアー＆元ボクサーのパンチ体験",
-      "source_url": "https://kitaq.media/146063/"
     },
     {
       "title": "Yamaguchi Seasonal 2026／坂本龍一＋YCAM Forest Symphony",
@@ -381,32 +368,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/infostation/goout.html"
     },
     {
-      "title": "司書と巡る図書館 まちなかフットパス",
-      "venue": "中央図書館〜モノレール旦過駅周辺",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-21",
-      "end_date": "2026-11-21",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": null,
-      "summary": "図書館発の街歩きツアー",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/infostation/goout.html"
-    },
-    {
-      "title": "関門地区景観ウォッチング&セミナー",
-      "venue": "門司生涯学習センター",
-      "area": "門司区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-21",
-      "end_date": "2026-11-21",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": null,
-      "summary": "門司港レトロの景観をテーマにした講演・まちあるき",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/infostation/goout.html"
-    },
-    {
       "title": "園内ガイドツアー",
       "venue": "響灘ビオトープ",
       "area": "若松区",
@@ -511,19 +472,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/ward/kokuraminami.html"
     },
     {
-      "title": "親子ピザ焼き体験",
-      "venue": "文化記念体育施設",
-      "area": "小倉南区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-21",
-      "end_date": "2026-11-21",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "親子でのピザ焼き体験(3歳〜小学生)",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261015/ward/kokuraminami.html"
-    },
-    {
       "title": "クリスマススタンプラリー",
       "venue": "リバーウォーク北九州",
       "area": "小倉北区",
@@ -574,19 +522,6 @@
       "family_friendly": true,
       "summary": "市民参加の創作劇公演",
       "source_url": "https://riverwalk.co.jp/event/"
-    },
-    {
-      "title": "RABBIT BAGELS(ラビットベーグル)小倉駅店オープン",
-      "venue": "アミュプラザ小倉",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-10-22",
-      "end_date": "2026-11-21",
-      "date_note": "10月22日オープン",
-      "date_confidence": "estimated",
-      "family_friendly": true,
-      "summary": "京都発ベーグル専門店の新規オープン",
-      "source_url": "https://kitaq.media/145987/"
     },
     {
       "title": "区役所de角打ちクロノヨル(第4夜)",
@@ -664,32 +599,6 @@
       "date_confidence": "exact",
       "family_friendly": null,
       "summary": "石や流木で大海原を表現した作品展",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/goout.html"
-    },
-    {
-      "title": "大人の科学教室「樹脂でペンダントを作ろう」",
-      "venue": "スペースLABO ANNEX",
-      "area": "八幡東区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-21",
-      "end_date": "2026-11-21",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "樹脂ペンダント作りの科学教室",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/goout.html"
-    },
-    {
-      "title": "クリスマススノードーム作り",
-      "venue": "エコタウンセンター",
-      "area": "若松区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-21",
-      "end_date": "2026-11-21",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "空き瓶で作るスノードーム工作",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/goout.html"
     },
     {
@@ -885,19 +794,6 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "児童・幼児の動物画コンクール入選作品展示",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/event.html"
-    },
-    {
-      "title": "クラフトひもでかごを作ろう！",
-      "venue": "到津の森公園",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-21",
-      "end_date": "2026-11-21",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "クラフトひもでかご作り体験",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261101/infostation/event.html"
     },
     {
@@ -1172,19 +1068,6 @@
       "family_friendly": false,
       "summary": "市民参加の創作劇公演",
       "source_url": "https://riverwalk.co.jp/event/"
-    },
-    {
-      "title": "ペルピンズ スペシャルライブ",
-      "venue": "チャチャタウン小倉",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-21",
-      "end_date": "2026-11-21",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "スペシャルライブ",
-      "source_url": "https://www.chachatown.com/eventinfo/"
     },
     {
       "title": "イルミネーション2026 門司港レトロ浪漫灯彩",
@@ -2838,19 +2721,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261115/ward/moji.html"
     },
     {
-      "title": "室町観月会",
-      "venue": "常盤橋室町広場",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-21",
-      "end_date": "2026-11-21",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "ステージライブと天体観測・屋台村",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261115/ward/kokurakita.html"
-    },
-    {
       "title": "区民文化祭 バレエ発表会",
       "venue": "北九州芸術劇場 大ホール（リバーウォーク北九州6階）",
       "area": "小倉北区",
@@ -3239,19 +3109,6 @@
       "family_friendly": true,
       "summary": "JA女性部バザー・下関産野菜お米販売",
       "source_url": "https://shimonoseki.goguynet.jp/2026/11/16/nogyo-matsuri/"
-    },
-    {
-      "title": "つきなみ講座11月 福岡市美術館の古美術名品解剖",
-      "venue": "福岡市美術館 1階レクチャールーム",
-      "area": "福岡市",
-      "schedule_type": "dated",
-      "start_date": "2026-11-21",
-      "end_date": "2026-11-21",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": false,
-      "summary": "古美術の解説講座",
-      "source_url": "https://artne.jp/event"
     }
   ]
 }
