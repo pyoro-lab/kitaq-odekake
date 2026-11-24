@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24",
+  "updated_at": "2026-11-25",
   "title": "北九州おでかけ情報まとめ",
   "count": 208,
   "events": [
@@ -1408,19 +1408,6 @@
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261115/infostation/goout.html"
     },
     {
-      "title": "NUKUMORI PLUS アートマルシェ",
-      "venue": "JR小倉駅 JAM広場",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-23",
-      "end_date": "2026-11-24",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "障害のあるクリエイターのアート作品・グッズ展示販売",
-      "source_url": "https://kitaq.media/146354/"
-    },
-    {
       "title": "アクアビクス",
       "venue": "新門司温水プール",
       "area": "門司区",
@@ -2617,19 +2604,6 @@
       "source_url": "https://riverwalk.co.jp/event/"
     },
     {
-      "title": "〈てまひま展〉暮らしのカタチ 第2弾",
-      "venue": "小倉店新館1階 特設会場",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-18",
-      "end_date": "2026-11-24",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "手仕事・暮らしの雑貨展",
-      "source_url": "https://www.izutsuya.co.jp/storelist/kokura/archives/category/008/"
-    },
-    {
       "title": "旅する光の切り絵展",
       "venue": "JR九州ホール（JR博多シティ9F）",
       "area": "福岡市",
@@ -2706,6 +2680,32 @@
       "family_friendly": false,
       "summary": "坂本龍一のアート企画",
       "source_url": "https://artne.jp/event"
+    },
+    {
+      "title": "響シリーズスペシャル・コンサート ジャパン・ホルン・サウンド vol.1.5",
+      "venue": null,
+      "area": null,
+      "schedule_type": "dated",
+      "start_date": "2026-11-29",
+      "end_date": "2026-11-29",
+      "date_note": "【11/29開催】の見出しのみ(本文は途中で切れている)",
+      "date_confidence": "estimated",
+      "family_friendly": null,
+      "summary": "ホルン奏者によるコンサート",
+      "source_url": "https://kitaq.media/146560/"
+    },
+    {
+      "title": "北九州サステナフェス",
+      "venue": "ミクニワールドスタジアム北九州",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-25",
+      "end_date": "2026-11-25",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "サステナ体験＆ワンコイン観戦デー",
+      "source_url": "https://kitaq.media/146460/"
     }
   ]
 }
