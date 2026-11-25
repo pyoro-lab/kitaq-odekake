@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-25",
+  "updated_at": "2026-11-26",
   "title": "北九州おでかけ情報まとめ",
-  "count": 208,
+  "count": 205,
   "events": [
     {
       "title": "森崎和江展 響きあういのち、響きあうことば",
@@ -80,19 +80,6 @@
       "family_friendly": false,
       "summary": "西鉄バス運転体験・応募制",
       "source_url": "https://kitaq.media/142506/"
-    },
-    {
-      "title": "旦過市場いちばん館 オープン",
-      "venue": "旦過市場いちばん館",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-24",
-      "end_date": "2026-12-24",
-      "date_note": "11月24日オープン(21区画)",
-      "date_confidence": "estimated",
-      "family_friendly": true,
-      "summary": "旦過市場の新商業施設オープン",
-      "source_url": "https://kitaq.media/145470/"
     },
     {
       "title": "作家たまごと先輩作家の会",
@@ -1427,11 +1414,11 @@
       "schedule_type": "dated",
       "start_date": "2026-11-03",
       "end_date": "2026-12-25",
-      "date_note": null,
+      "date_note": "クリスマスツリーは12月25日まで、イルミネーション全体は来年2月28日まで",
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "館内のクリスマス装飾イベント",
-      "source_url": "https://riverwalk.co.jp/event/"
+      "source_url": "https://kitaq.media/146522/"
     },
     {
       "title": "劇団バナナ公演『Wolfgang's B…』",
@@ -1445,19 +1432,6 @@
       "family_friendly": false,
       "summary": "劇団バナナによる演劇公演",
       "source_url": "https://riverwalk.co.jp/event/"
-    },
-    {
-      "title": "〈ハーレーダビッドソン〉と愉しむ、こだわりのライフスタイル展①",
-      "venue": "小倉井筒屋 新館1階 イベントステージ",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-26",
-      "end_date": "2026-12-06",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": false,
-      "summary": "ライフスタイルをテーマにした展示",
-      "source_url": "https://www.izutsuya.co.jp/storelist/kokura/archives/category/008/"
     },
     {
       "title": "〈彩乃庵〉創作手染め服と小物展",
@@ -1990,19 +1964,6 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "1歳児と保護者向けリズム体操",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261115/infostation/event.html"
-    },
-    {
-      "title": "ベビーマッサージ教室",
-      "venue": "子育てふれあい交流プラザ",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-25",
-      "end_date": "2026-11-25",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "生後12カ月までの乳児と保護者向け",
       "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261115/infostation/event.html"
     },
     {
@@ -2625,7 +2586,7 @@
       "end_date": "2027-01-17",
       "date_note": null,
       "date_confidence": "exact",
-      "family_friendly": null,
+      "family_friendly": false,
       "summary": "ルノワール展",
       "source_url": "https://artne.jp/event"
     },
@@ -2638,7 +2599,7 @@
       "end_date": "2027-01-24",
       "date_note": null,
       "date_confidence": "exact",
-      "family_friendly": null,
+      "family_friendly": false,
       "summary": "ミュシャの展覧会(下関・圏内)",
       "source_url": "https://artne.jp/event"
     },
@@ -2654,19 +2615,6 @@
       "family_friendly": true,
       "summary": "街路樹イルミネーションと手作り灯篭が若松区で彩る",
       "source_url": "https://kitaq.media/146202/"
-    },
-    {
-      "title": "あんどでいずマルシェ",
-      "venue": "イオンモール八幡東(24日:2階スタバ前/25日:1階ひまわりの広場)",
-      "area": "八幡東区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-24",
-      "end_date": "2026-11-25",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "ハンドメイド作品と癒しブースが並ぶマルシェ",
-      "source_url": "https://kitaq.media/146592/"
     },
     {
       "title": "Yamaguchi Seasonal 2026／坂本龍一＋YCAM Forest Symphony",
@@ -2695,17 +2643,30 @@
       "source_url": "https://kitaq.media/146560/"
     },
     {
-      "title": "北九州サステナフェス",
-      "venue": "ミクニワールドスタジアム北九州",
+      "title": "旦過市場いちばん館 オープン",
+      "venue": "旦過市場いちばん館",
       "area": "小倉北区",
       "schedule_type": "dated",
-      "start_date": "2026-11-25",
-      "end_date": "2026-11-25",
+      "start_date": "2026-11-24",
+      "end_date": "2026-12-24",
+      "date_note": "11月24日オープン(21区画)",
+      "date_confidence": "estimated",
+      "family_friendly": true,
+      "summary": "旦過市場の新商業施設オープン",
+      "source_url": "https://kitaq.media/146745/"
+    },
+    {
+      "title": "〈ハーレーダビッドソン〉と愉しむ、こだわりのライフスタイル展①",
+      "venue": "小倉井筒屋 新館1階 イベントステージ",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-26",
+      "end_date": "2026-12-06",
       "date_note": null,
       "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "サステナ体験＆ワンコイン観戦デー",
-      "source_url": "https://kitaq.media/146460/"
+      "family_friendly": false,
+      "summary": "ライフスタイルをテーマにした展示",
+      "source_url": "https://www.izutsuya.co.jp/storelist/kokura/archives/category/008/"
     }
   ]
 }
