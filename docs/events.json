@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-26",
+  "updated_at": "2026-11-27",
   "title": "北九州おでかけ情報まとめ",
-  "count": 205,
+  "count": 207,
   "events": [
     {
       "title": "森崎和江展 響きあういのち、響きあうことば",
@@ -80,19 +80,6 @@
       "family_friendly": false,
       "summary": "西鉄バス運転体験・応募制",
       "source_url": "https://kitaq.media/142506/"
-    },
-    {
-      "title": "作家たまごと先輩作家の会",
-      "venue": "カーニバルプラスひびきの店 敷地内(ゆめばこ)",
-      "area": "若松区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-26",
-      "end_date": "2026-11-26",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": null,
-      "summary": "作家を目指す人向けの交流会",
-      "source_url": "https://kitaq.media/142734/"
     },
     {
       "title": "Out of KidZania in 北九州2026",
@@ -1418,7 +1405,7 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "館内のクリスマス装飾イベント",
-      "source_url": "https://kitaq.media/146522/"
+      "source_url": "https://riverwalk.co.jp/event/"
     },
     {
       "title": "劇団バナナ公演『Wolfgang's B…』",
@@ -1587,7 +1574,7 @@
       "date_confidence": "exact",
       "family_friendly": false,
       "summary": "松本清張の小説をテーマにした展覧会",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261115/infostation/goout.html"
+      "source_url": "https://kitaq.media/146190/"
     },
     {
       "title": "ひとり親家庭と寡婦のふれあいレクリエーション",
@@ -2211,7 +2198,7 @@
       "date_confidence": "exact",
       "family_friendly": true,
       "summary": "折尾駅前広場完成記念・前夜祭やウォーキング企画",
-      "source_url": "https://www.city.kitakyushu.lg.jp/page/dayori/261115/ward/tobata.html"
+      "source_url": "https://kitaq.media/146619/"
     },
     {
       "title": "若松北海岸フェスティバル2026 なぞとき×スタンプラリー",
@@ -2513,19 +2500,6 @@
       "source_url": "https://kitaq.media/146036/"
     },
     {
-      "title": "KPF（北九州ポップカルチャーフェスティバル）2026",
-      "venue": "北九州メッセ、あるあるCity 他",
-      "area": "小倉北区",
-      "schedule_type": "dated",
-      "start_date": "2026-11-28",
-      "end_date": "2026-11-29",
-      "date_note": null,
-      "date_confidence": "exact",
-      "family_friendly": true,
-      "summary": "マンガ・アニメ・ゲームの祭典。声優トークショー、ライブステージ、コスプレイベント",
-      "source_url": "https://hello-kitakyushu.or.jp/event/"
-    },
-    {
       "title": "出発進行！からぴちエクスプレス～山陽新幹線に乗って！～",
       "venue": "リバーウォーク北九州",
       "area": "小倉北区",
@@ -2667,6 +2641,58 @@
       "family_friendly": false,
       "summary": "ライフスタイルをテーマにした展示",
       "source_url": "https://www.izutsuya.co.jp/storelist/kokura/archives/category/008/"
+    },
+    {
+      "title": "ドキドキ恐竜広場",
+      "venue": "サニーサイドモール小倉",
+      "area": "小倉南区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-29",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "本物そっくりの恐竜のグリーティング・ショーが楽しめる催し",
+      "source_url": "https://kitaq.media/146631/"
+    },
+    {
+      "title": "海峡クリスマス",
+      "venue": "リゾナーレ下関",
+      "area": "下関市",
+      "schedule_type": "dated",
+      "start_date": "2026-12-01",
+      "end_date": "2026-12-25",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "宿泊者限定、イルミネーションとプロジェクションマッピングのクリスマス企画",
+      "source_url": "https://shimonoseki.goguynet.jp/2026/11/25/kaikyo-christmas/"
+    },
+    {
+      "title": "川村館長スペシャルサイエンスショー",
+      "venue": "スペースLABO",
+      "area": "八幡東区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-28",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "発電をテーマにした親子で楽しめるサイエンスショー",
+      "source_url": "https://kitaq.media/146761/"
+    },
+    {
+      "title": "KPF（北九州ポップカルチャーフェスティバル）2026",
+      "venue": "北九州メッセ、あるあるCity 他",
+      "area": "小倉北区",
+      "schedule_type": "dated",
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-29",
+      "date_note": null,
+      "date_confidence": "exact",
+      "family_friendly": true,
+      "summary": "マンガ・アニメ・ゲームの祭典。声優トークショー、ライブステージ、コスプレイベント",
+      "source_url": "https://hello-kitakyushu.or.jp/event/"
     }
   ]
 }
